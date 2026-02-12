@@ -31,25 +31,48 @@ function renderGallery(filter = 'all') {
         ? paintings
         : paintings.filter(p => p.theme === filter);
 
-    // Render all items directly - masonry will handle layout
+    // Sort by Date (Newest First) just to be safe
+    filteredImages.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    // Determine column count
+    let columnCount = 3;
+    if (window.innerWidth <= 600) columnCount = 1;
+    else if (window.innerWidth <= 1100) columnCount = 2;
+
+    // Create columns
+    const columns = [];
+    for (let i = 0; i < columnCount; i++) {
+        const col = document.createElement('div');
+        col.className = 'gallery-column';
+        columns.push(col);
+        gallery.appendChild(col);
+    }
+
+    // Distribute items (Round-Robin: Left -> Right)
     filteredImages.forEach((p, index) => {
         const item = document.createElement('div');
         item.className = 'gallery-item';
         item.innerHTML = `
             <img src="${p.path}" alt="${p.filename}" loading="lazy">
-            <div class="overlay">
-                <span class="theme">${p.filename}</span>
-                <span class="date">${p.theme}</span>
+            <div class="info">
+                <div class="title">${p.title}</div>
+                <div class="date">${p.date}</div>
             </div>
         `;
         item.onclick = () => openLightbox(index);
-        gallery.appendChild(item);
+
+        // Append to specific column
+        columns[index % columnCount].appendChild(item);
     });
 }
 
 // Re-render on resize to adjust columns
+let resizeTimeout;
 window.addEventListener('resize', () => {
-    renderGallery(currentTheme);
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(() => {
+        renderGallery(currentTheme);
+    }, 100);
 });
 
 function openLightbox(index) {
