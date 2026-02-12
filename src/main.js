@@ -55,20 +55,7 @@ window.addEventListener('resize', () => {
     renderGallery(currentTheme);
 });
 
-filteredImages.forEach((p, index) => {
-    const item = document.createElement('div');
-    item.className = 'gallery-item';
-    item.innerHTML = `
-            <img src="${p.path}" alt="${p.title}" loading="lazy">
-            <div class="overlay">
-                <span class="theme">${p.title}</span>
-                <span class="date">${p.date}</span>
-            </div>
-        `;
-    item.onclick = () => openLightbox(index);
-    gallery.appendChild(item);
-});
-}
+
 
 function openLightbox(index) {
     currentIndex = index;
