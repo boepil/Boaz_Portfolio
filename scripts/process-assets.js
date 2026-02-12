@@ -3,7 +3,7 @@ import path from 'path';
 import exifr from 'exifr';
 
 const ASSETS_DIR = path.join(process.cwd(), 'public/assets/paintings');
-const MANIFEST_PATH = path.join(process.cwd(), 'src/data/paintings.js');
+const MANIFEST_PATH = path.join(process.cwd(), 'paintings.json');
 
 async function processAssets() {
     const themes = await fs.readdir(ASSETS_DIR);
@@ -72,7 +72,7 @@ async function processAssets() {
                 id: `${theme}-${file}`.replace(/[^a-zA-Z0-9]/g, '-'),
                 filename: file,
                 theme: theme,
-                path: `./assets/paintings/${encodeURIComponent(theme)}/${encodeURIComponent(file).replace(/\(/g, '%28').replace(/\)/g, '%29').replace(/#/g, '%23')}`,
+                path: `./public/assets/paintings/${encodeURIComponent(theme)}/${encodeURIComponent(file).replace(/\(/g, '%28').replace(/\)/g, '%29').replace(/#/g, '%23')}`,
                 title: displayTitle,
                 date: dateStr
             });
@@ -82,10 +82,9 @@ async function processAssets() {
     // Sort manifest: Newest Date First
     manifest.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    // Write manifest as JS file for window object
-    const jsContent = `window.paintingsDataset = ${JSON.stringify(manifest, null, 2)};`;
-    await fs.writeFile(MANIFEST_PATH, jsContent);
-    console.log(`Manifest (JS) generated with ${manifest.length} items.`);
+    // Write manifest as JSON file
+    await fs.writeFile(MANIFEST_PATH, JSON.stringify(manifest, null, 2));
+    console.log(`Manifest (JSON) generated with ${manifest.length} items.`);
 }
 
 processAssets().catch(console.error);
