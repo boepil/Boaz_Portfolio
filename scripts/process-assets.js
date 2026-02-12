@@ -3,14 +3,15 @@ import path from 'path';
 import exifr from 'exifr';
 
 const ASSETS_DIR = path.join(process.cwd(), 'public/assets/paintings');
-const MANIFEST_PATH = path.join(process.cwd(), 'paintings.json');
+const MANIFEST_PATH_ROOT = path.join(process.cwd(), 'paintings.json');
+const MANIFEST_PATH_PUBLIC = path.join(process.cwd(), 'public/paintings.json');
 
 async function processAssets() {
     const themes = await fs.readdir(ASSETS_DIR);
     const manifest = [];
 
     // Ensure manifest directory exists
-    await fs.ensureDir(path.dirname(MANIFEST_PATH));
+    await fs.ensureDir(path.dirname(MANIFEST_PATH_PUBLIC));
 
     for (const theme of themes) {
         const themeDir = path.join(ASSETS_DIR, theme);
@@ -82,9 +83,33 @@ async function processAssets() {
     // Sort manifest: Newest Date First
     manifest.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    // Write manifest as JSON file
-    await fs.writeFile(MANIFEST_PATH, JSON.stringify(manifest, null, 2));
-    console.log(`Manifest (JSON) generated with ${manifest.length} items.`);
+    // Write manifest to BOTH locations
+    // 1. Root (for local http-server)
+    await fs.writeFile(MANIFEST_PATH_ROOT, JSON.stringify(manifest, null, 2));
+
+    // 2. Public (for Vite build -> dist)
+    // NOTE: For the build, the path in JSON is tricky.
+    // If served from dist root, path should be './assets/...' NOT './public/assets/...'.
+    // BUT we are fixing the missing file first. 
+    // If we use the SAME JSON for both, we need a path that works for both.
+    // Local (Raw): Root index.html -> ./public/assets/... (Correct)
+    // Prod (Dist): Root index.html -> assets are copied to ./assets/... (Vite behavior)
+    // So usually in Dist, 'public' folder name is GONE.
+    // So path should be './assets/...'.
+
+    // Let's create a production-specific manifest for public/?
+    // Or simpler: Use a path replace for the production one.
+
+    const manifestProd = manifest.map(item => ({
+        ...item,
+        path: item.path.replace('./public/assets/', './assets/')
+    }));
+
+    await fs.writeFile(MANIFEST_PATH_PUBLIC, JSON.stringify(manifestProd, null, 2));
+
+    console.log(`Manifests generated:`);
+    console.log(`- Root (Local): ${manifest.length} items`);
+    console.log(`- Public (Prod): ${manifestProd.length} items`);
 }
 
 processAssets().catch(console.error);
