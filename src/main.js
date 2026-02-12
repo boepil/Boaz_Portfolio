@@ -13,12 +13,28 @@ let filteredImages = [];
 let currentIndex = 0;
 
 function renderGallery(filter = 'all') {
+    // Clear gallery
     gallery.innerHTML = '';
+
+    // Create column containers
+    const colCount = window.innerWidth <= 600 ? 1 : window.innerWidth <= 1100 ? 2 : 3;
+    const columns = [];
+
+    for (let c = 0; c < colCount; c++) {
+        const col = document.createElement('div');
+        col.className = 'gallery-column';
+        columns.push(col);
+        gallery.appendChild(col);
+    }
+
     filteredImages = filter === 'all'
         ? paintings
         : paintings.filter(p => p.theme === filter);
 
+    // Distribute images into columns (Row-major: Item 0 -> Col 0, Item 1 -> Col 1...)
     filteredImages.forEach((p, index) => {
+        const colIndex = index % colCount;
+
         const item = document.createElement('div');
         item.className = 'gallery-item';
         item.innerHTML = `
@@ -29,8 +45,29 @@ function renderGallery(filter = 'all') {
             </div>
         `;
         item.onclick = () => openLightbox(index);
-        gallery.appendChild(item);
+        columns[colIndex].appendChild(item);
     });
+}
+
+// Re-render on resize to adjust column count
+window.addEventListener('resize', () => {
+    // Debounce or just re-render
+    renderGallery(currentTheme);
+});
+
+filteredImages.forEach((p, index) => {
+    const item = document.createElement('div');
+    item.className = 'gallery-item';
+    item.innerHTML = `
+            <img src="${p.path}" alt="${p.title}" loading="lazy">
+            <div class="overlay">
+                <span class="theme">${p.title}</span>
+                <span class="date">${p.date}</span>
+            </div>
+        `;
+    item.onclick = () => openLightbox(index);
+    gallery.appendChild(item);
+});
 }
 
 function openLightbox(index) {

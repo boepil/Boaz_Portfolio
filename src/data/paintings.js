@@ -48,138 +48,138 @@ window.paintingsDataset = [
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-IMG-7380-jpeg",
+    "id": "Portrait-IMG-7380-jpeg",
     "filename": "IMG_7380.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_7380.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_7380.jpeg",
     "title": "IMG 7380",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-IMG-7922-jpeg",
+    "id": "Portrait-IMG-7922-jpeg",
     "filename": "IMG_7922.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_7922.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_7922.jpeg",
     "title": "IMG 7922",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-IMG-9621-jpeg",
+    "id": "Portrait-IMG-9621-jpeg",
     "filename": "IMG_9621.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9621.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_9621.jpeg",
     "title": "IMG 9621",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Man-jpg",
+    "id": "Portrait-Man-jpg",
     "filename": "Man.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Man.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Man.jpg",
     "title": "Man",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Screenshot-2024-07-07-at-13-35-31-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
+    "id": "Portrait-Screenshot-2024-07-07-at-13-35-31-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-07 at 13-35-31 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202024-07-07%20at%2013-35-31%20Boaz%20Ofer%20(%40boazofer)%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202024-07-07%20at%2013-35-31%20Boaz%20Ofer%20(%40boazofer)%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
     "title": "Screenshot 2024 07 07 at 13 35 31 Boaz Ofer (@boazofer) • Instagram photos and videos",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-50-19-Instagram-png",
+    "id": "Portrait-Screenshot-2025-10-07-at-14-50-19-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-50-19 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-50-19%20Instagram.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-50-19%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 50 19 Instagram",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-50-46-Instagram-png",
+    "id": "Portrait-Screenshot-2025-10-07-at-14-50-46-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-50-46 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-50-46%20Instagram.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-50-46%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 50 46 Instagram",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-51-21-Instagram-png",
+    "id": "Portrait-Screenshot-2025-10-07-at-14-51-21-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-51-21 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-51-21%20Instagram.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-51-21%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 51 21 Instagram",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-52-08-Instagram-png",
+    "id": "Portrait-Screenshot-2025-10-07-at-14-52-08-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-08 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-52-08%20Instagram.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-52-08%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 08 Instagram",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-52-47-Instagram-png",
+    "id": "Portrait-Screenshot-2025-10-07-at-14-52-47-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-47 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-52-47%20Instagram.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-52-47%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 47 Instagram",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-52-56-Instagram-png",
+    "id": "Portrait-Screenshot-2025-10-07-at-14-52-56-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-56 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-52-56%20Instagram.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-52-56%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 56 Instagram",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-53-50-Instagram-png",
+    "id": "Portrait-Screenshot-2025-10-07-at-14-53-50-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-53-50 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-53-50%20Instagram.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-53-50%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 53 50 Instagram",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-image-1--jpg",
+    "id": "Portrait-image-1--jpg",
     "filename": "image(1).jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/image(1).jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/image(1).jpg",
     "title": "image(1)",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-image-2--jpg",
+    "id": "Portrait-image-2--jpg",
     "filename": "image(2).jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/image(2).jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/image(2).jpg",
     "title": "image(2)",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-image-2-small-jpg",
+    "id": "Portrait-image-2-small-jpg",
     "filename": "image(2)small.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/image(2)small.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/image(2)small.jpg",
     "title": "image(2)small",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate-por-jpg",
+    "id": "Portrait-por-jpg",
     "filename": "por.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/por.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/por.jpg",
     "title": "por",
     "date": "2026-02-12"
   },
   {
-    "id": "Portrate------jpg",
+    "id": "Portrait------jpg",
     "filename": "יחעח.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/%D7%99%D7%97%D7%A2%D7%97.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/%D7%99%D7%97%D7%A2%D7%97.jpg",
     "title": "יחעח",
     "date": "2026-02-12"
   },
@@ -392,10 +392,10 @@ window.paintingsDataset = [
     "date": "2026-02-11"
   },
   {
-    "id": "Portrate-IMG-20260129-215139-jpg",
+    "id": "Portrait-IMG-20260129-215139-jpg",
     "filename": "IMG_20260129_215139.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20260129_215139.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20260129_215139.jpg",
     "title": "IMG 20260129 215139",
     "date": "2026-01-29"
   },
@@ -416,18 +416,18 @@ window.paintingsDataset = [
     "date": "2026-01-23"
   },
   {
-    "id": "Portrate-dafni-jpg",
+    "id": "Portrait-dafni-jpg",
     "filename": "dafni.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/dafni.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/dafni.jpg",
     "title": "dafni",
     "date": "2026-01-06"
   },
   {
-    "id": "Portrate-IMG-20251213-004343-jpg",
+    "id": "Portrait-IMG-20251213-004343-jpg",
     "filename": "IMG_20251213_004343.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251213_004343.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20251213_004343.jpg",
     "title": "IMG 20251213 004343",
     "date": "2025-12-12"
   },
@@ -440,26 +440,26 @@ window.paintingsDataset = [
     "date": "2025-12-11"
   },
   {
-    "id": "Portrate-1000990744-jpg",
+    "id": "Portrait-1000990744-jpg",
     "filename": "1000990744.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000990744.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/1000990744.jpg",
     "title": "1000990744",
     "date": "2025-12-11"
   },
   {
-    "id": "Portrate-1000990330-jpg",
+    "id": "Portrait-1000990330-jpg",
     "filename": "1000990330.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000990330.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/1000990330.jpg",
     "title": "1000990330",
     "date": "2025-12-07"
   },
   {
-    "id": "Portrate-1000988047-jpg",
+    "id": "Portrait-1000988047-jpg",
     "filename": "1000988047.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000988047.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/1000988047.jpg",
     "title": "1000988047",
     "date": "2025-11-29"
   },
@@ -472,26 +472,26 @@ window.paintingsDataset = [
     "date": "2025-11-29"
   },
   {
-    "id": "Portrate-1000987740-jpg",
+    "id": "Portrait-1000987740-jpg",
     "filename": "1000987740.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000987740.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/1000987740.jpg",
     "title": "1000987740",
     "date": "2025-11-27"
   },
   {
-    "id": "Portrate-1000987718-jpg",
+    "id": "Portrait-1000987718-jpg",
     "filename": "1000987718.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000987718.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/1000987718.jpg",
     "title": "1000987718",
     "date": "2025-11-26"
   },
   {
-    "id": "Portrate-1000987514-jpg",
+    "id": "Portrait-1000987514-jpg",
     "filename": "1000987514.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000987514.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/1000987514.jpg",
     "title": "1000987514",
     "date": "2025-11-25"
   },
@@ -512,18 +512,18 @@ window.paintingsDataset = [
     "date": "2025-11-11"
   },
   {
-    "id": "Portrate-image-jpg",
+    "id": "Portrait-image-jpg",
     "filename": "image.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/image.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/image.jpg",
     "title": "image",
     "date": "2025-11-10"
   },
   {
-    "id": "Portrate-1000985415-jpg",
+    "id": "Portrait-1000985415-jpg",
     "filename": "1000985415.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000985415.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/1000985415.jpg",
     "title": "1000985415",
     "date": "2025-11-08"
   },
@@ -536,26 +536,26 @@ window.paintingsDataset = [
     "date": "2025-11-01"
   },
   {
-    "id": "Portrate-IMG-20251028-151439-jpg",
+    "id": "Portrait-IMG-20251028-151439-jpg",
     "filename": "IMG_20251028_151439.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251028_151439.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20251028_151439.jpg",
     "title": "IMG 20251028 151439",
     "date": "2025-10-28"
   },
   {
-    "id": "Portrate-IMG-20251026-163245-jpg",
+    "id": "Portrait-IMG-20251026-163245-jpg",
     "filename": "IMG_20251026_163245.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251026_163245.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20251026_163245.jpg",
     "title": "IMG 20251026 163245",
     "date": "2025-10-26"
   },
   {
-    "id": "Portrate-IMG-20251026-163658-jpg",
+    "id": "Portrait-IMG-20251026-163658-jpg",
     "filename": "IMG_20251026_163658.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251026_163658.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20251026_163658.jpg",
     "title": "IMG 20251026 163658",
     "date": "2025-10-26"
   },
@@ -608,10 +608,10 @@ window.paintingsDataset = [
     "date": "2025-10-26"
   },
   {
-    "id": "Portrate-IMG-20251025-102100-jpg",
+    "id": "Portrait-IMG-20251025-102100-jpg",
     "filename": "IMG_20251025_102100.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251025_102100.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20251025_102100.jpg",
     "title": "IMG 20251025 102100",
     "date": "2025-10-25"
   },
@@ -640,18 +640,18 @@ window.paintingsDataset = [
     "date": "2025-10-23"
   },
   {
-    "id": "Portrate-IMG-9872-jpeg",
+    "id": "Portrait-IMG-9872-jpeg",
     "filename": "IMG_9872.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9872.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_9872.jpeg",
     "title": "IMG 9872",
     "date": "2025-10-08"
   },
   {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-52-24-Instagram-png",
+    "id": "Portrait-Screenshot-2025-10-07-at-14-52-24-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-24 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-52-24%20Instagram.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-52-24%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 24 Instagram",
     "date": "2025-10-07"
   },
@@ -664,10 +664,10 @@ window.paintingsDataset = [
     "date": "2025-09-29"
   },
   {
-    "id": "Portrate-Portrate-02-jpeg",
+    "id": "Portrait-Portrate-02-jpeg",
     "filename": "Portrate_02.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Portrate_02.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Portrate_02.jpeg",
     "title": "IMG_6530",
     "date": "2025-09-29"
   },
@@ -688,42 +688,42 @@ window.paintingsDataset = [
     "date": "2025-09-29"
   },
   {
-    "id": "Portrate-IMG-20250827-143737-jpg",
+    "id": "Portrait-IMG-20250827-143737-jpg",
     "filename": "IMG_20250827_143737.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250827_143737.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20250827_143737.jpg",
     "title": "IMG 20250827 143737",
     "date": "2025-08-27"
   },
   {
-    "id": "Portrate-IMG-20250821-175355-jpg",
+    "id": "Portrait-IMG-20250821-175355-jpg",
     "filename": "IMG_20250821_175355.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250821_175355.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20250821_175355.jpg",
     "title": "IMG 20250821 175355",
     "date": "2025-08-21"
   },
   {
-    "id": "Portrate-IMG-20250821-175519-jpg",
+    "id": "Portrait-IMG-20250821-175519-jpg",
     "filename": "IMG_20250821_175519.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250821_175519.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20250821_175519.jpg",
     "title": "IMG 20250821 175519",
     "date": "2025-08-21"
   },
   {
-    "id": "Portrate-IMG-20250821-175539-jpg",
+    "id": "Portrait-IMG-20250821-175539-jpg",
     "filename": "IMG_20250821_175539.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250821_175539.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20250821_175539.jpg",
     "title": "IMG 20250821 175539",
     "date": "2025-08-21"
   },
   {
-    "id": "Portrate-IMG-20250726-142643-jpg",
+    "id": "Portrait-IMG-20250726-142643-jpg",
     "filename": "IMG_20250726_142643.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250726_142643.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20250726_142643.jpg",
     "title": "IMG 20250726 142643",
     "date": "2025-07-26"
   },
@@ -752,42 +752,42 @@ window.paintingsDataset = [
     "date": "2025-06-21"
   },
   {
-    "id": "Portrate-IMG-20250613-120045-jpg",
+    "id": "Portrait-IMG-20250613-120045-jpg",
     "filename": "IMG_20250613_120045.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250613_120045.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20250613_120045.jpg",
     "title": "IMG 20250613 120045",
     "date": "2025-06-11"
   },
   {
-    "id": "Portrate-IMG-9650-jpeg",
+    "id": "Portrait-IMG-9650-jpeg",
     "filename": "IMG_9650.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9650.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_9650.jpeg",
     "title": "IMG 9650",
     "date": "2025-04-05"
   },
   {
-    "id": "Portrate-IMG-20250330-191757-jpg",
+    "id": "Portrait-IMG-20250330-191757-jpg",
     "filename": "IMG_20250330_191757.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250330_191757.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_20250330_191757.jpg",
     "title": "IMG 20250330 191757",
     "date": "2025-03-30"
   },
   {
-    "id": "Portrate-IMG-9570-jpeg",
+    "id": "Portrait-IMG-9570-jpeg",
     "filename": "IMG_9570.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9570.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_9570.jpeg",
     "title": "IMG 9570",
     "date": "2025-02-25"
   },
   {
-    "id": "Portrate-IMG-9482-jpeg",
+    "id": "Portrait-IMG-9482-jpeg",
     "filename": "IMG_9482.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9482.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_9482.jpeg",
     "title": "IMG 9482",
     "date": "2025-01-28"
   },
@@ -800,10 +800,10 @@ window.paintingsDataset = [
     "date": "2024-10-01"
   },
   {
-    "id": "Portrate-IMG-8816-jpeg",
+    "id": "Portrait-IMG-8816-jpeg",
     "filename": "IMG_8816.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_8816.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_8816.jpeg",
     "title": "IMG 8816",
     "date": "2024-08-18"
   },
@@ -816,10 +816,10 @@ window.paintingsDataset = [
     "date": "2024-06-02"
   },
   {
-    "id": "Portrate-IMG-8420-jpeg",
+    "id": "Portrait-IMG-8420-jpeg",
     "filename": "IMG_8420.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_8420.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_8420.jpeg",
     "title": "IMG 8420",
     "date": "2024-05-29"
   },
@@ -832,18 +832,18 @@ window.paintingsDataset = [
     "date": "2024-05-27"
   },
   {
-    "id": "Portrate-763E57BA-9B94-4621-8428-A2ACF4522EC0-jpeg",
+    "id": "Portrait-763E57BA-9B94-4621-8428-A2ACF4522EC0-jpeg",
     "filename": "763E57BA-9B94-4621-8428-A2ACF4522EC0.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/763E57BA-9B94-4621-8428-A2ACF4522EC0.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/763E57BA-9B94-4621-8428-A2ACF4522EC0.jpeg",
     "title": "763E57BA 9B94 4621 8428 A2ACF4522EC0",
     "date": "2024-02-20"
   },
   {
-    "id": "Portrate-IMG-6774-jpeg",
+    "id": "Portrait-IMG-6774-jpeg",
     "filename": "IMG_6774.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_6774.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_6774.jpeg",
     "title": "IMG 6774",
     "date": "2024-01-30"
   },
@@ -864,10 +864,10 @@ window.paintingsDataset = [
     "date": "2023-12-03"
   },
   {
-    "id": "Portrate-IMG-5981-JPG",
+    "id": "Portrait-IMG-5981-JPG",
     "filename": "IMG_5981.JPG",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_5981.JPG",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_5981.JPG",
     "title": "IMG 5981",
     "date": "2022-10-15"
   },
@@ -896,34 +896,34 @@ window.paintingsDataset = [
     "date": "2020-03-22"
   },
   {
-    "id": "Portrate-alon-jpg",
+    "id": "Portrait-alon-jpg",
     "filename": "alon.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/alon.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/alon.jpg",
     "title": "alon",
     "date": "2017-03-28"
   },
   {
-    "id": "Portrate-IMG-0591-JPG",
+    "id": "Portrait-IMG-0591-JPG",
     "filename": "IMG_0591.JPG",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_0591.JPG",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/IMG_0591.JPG",
     "title": "IMG 0591",
     "date": "2016-12-06"
   },
   {
-    "id": "Portrate-neta04-jpg",
+    "id": "Portrait-neta04-jpg",
     "filename": "neta04.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/neta04.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/neta04.jpg",
     "title": "neta04",
     "date": "2016-11-29"
   },
   {
-    "id": "Portrate-Class-07-copy-jpg",
+    "id": "Portrait-Class-07-copy-jpg",
     "filename": "Class_07 copy.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Class_07%20copy.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Class_07%20copy.jpg",
     "title": "Class 07 copy",
     "date": "2015-02-03"
   }
