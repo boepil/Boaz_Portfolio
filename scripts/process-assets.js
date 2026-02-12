@@ -72,7 +72,7 @@ async function processAssets() {
                 id: `${theme}-${file}`.replace(/[^a-zA-Z0-9]/g, '-'),
                 filename: file,
                 theme: theme,
-                path: `./assets/paintings/${theme}/${file}`, // Explicit forward slashes
+                path: `./assets/paintings/${encodeURIComponent(theme)}/${encodeURIComponent(file)}`,
                 title: displayTitle,
                 date: dateStr
             });

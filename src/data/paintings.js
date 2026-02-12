@@ -35,7 +35,7 @@ window.paintingsDataset = [
     "id": "B-W-IMG-8172-JPG",
     "filename": "IMG_8172.JPG",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_8172.JPG",
+    "path": "./assets/paintings/B%26W/IMG_8172.JPG",
     "title": "IMG_8171",
     "date": "2026-02-12"
   },
@@ -43,7 +43,7 @@ window.paintingsDataset = [
     "id": "B-W-IMG-8394-JPG",
     "filename": "IMG_8394.JPG",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_8394.JPG",
+    "path": "./assets/paintings/B%26W/IMG_8394.JPG",
     "title": "IMG 8394",
     "date": "2026-02-12"
   },
@@ -83,7 +83,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2024-07-07-at-13-35-31-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-07 at 13-35-31 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2024-07-07 at 13-35-31 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202024-07-07%20at%2013-35-31%20Boaz%20Ofer%20(%40boazofer)%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
     "title": "Screenshot 2024 07 07 at 13 35 31 Boaz Ofer (@boazofer) • Instagram photos and videos",
     "date": "2026-02-12"
   },
@@ -91,7 +91,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2025-10-07-at-14-50-19-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-50-19 Instagram.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-50-19 Instagram.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-50-19%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 50 19 Instagram",
     "date": "2026-02-12"
   },
@@ -99,7 +99,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2025-10-07-at-14-50-46-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-50-46 Instagram.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-50-46 Instagram.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-50-46%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 50 46 Instagram",
     "date": "2026-02-12"
   },
@@ -107,7 +107,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2025-10-07-at-14-51-21-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-51-21 Instagram.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-51-21 Instagram.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-51-21%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 51 21 Instagram",
     "date": "2026-02-12"
   },
@@ -115,7 +115,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2025-10-07-at-14-52-08-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-08 Instagram.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-52-08 Instagram.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-52-08%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 08 Instagram",
     "date": "2026-02-12"
   },
@@ -123,7 +123,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2025-10-07-at-14-52-47-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-47 Instagram.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-52-47 Instagram.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-52-47%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 47 Instagram",
     "date": "2026-02-12"
   },
@@ -131,7 +131,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2025-10-07-at-14-52-56-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-56 Instagram.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-52-56 Instagram.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-52-56%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 56 Instagram",
     "date": "2026-02-12"
   },
@@ -139,7 +139,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2025-10-07-at-14-53-50-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-53-50 Instagram.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-53-50 Instagram.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-53-50%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 53 50 Instagram",
     "date": "2026-02-12"
   },
@@ -179,7 +179,7 @@ window.paintingsDataset = [
     "id": "Portrate------jpg",
     "filename": "יחעח.jpg",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/יחעח.jpg",
+    "path": "./assets/paintings/Portrate/%D7%99%D7%97%D7%A2%D7%97.jpg",
     "title": "יחעח",
     "date": "2026-02-12"
   },
@@ -291,7 +291,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2024-07-07-at-13-35-40-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-07 at 13-35-40 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-07 at 13-35-40 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202024-07-07%20at%2013-35-40%20Boaz%20Ofer%20(%40boazofer)%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
     "title": "Screenshot 2024 07 07 at 13 35 40 Boaz Ofer (@boazofer) • Instagram photos and videos",
     "date": "2026-02-12"
   },
@@ -299,7 +299,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2024-07-10-at-11-29-01-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-10 at 11-29-01 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-01 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202024-07-10%20at%2011-29-01%20Boaz%20Ofer%20(%40boazofer)%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
     "title": "Screenshot 2024 07 10 at 11 29 01 Boaz Ofer (@boazofer) • Instagram photos and videos",
     "date": "2026-02-12"
   },
@@ -307,7 +307,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2024-07-10-at-11-29-20-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-10 at 11-29-20 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-20 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202024-07-10%20at%2011-29-20%20Boaz%20Ofer%20(%40boazofer)%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
     "title": "Screenshot 2024 07 10 at 11 29 20 Boaz Ofer (@boazofer) • Instagram photos and videos",
     "date": "2026-02-12"
   },
@@ -315,7 +315,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2024-07-10-at-11-29-52-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-10 at 11-29-52 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-52 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202024-07-10%20at%2011-29-52%20Boaz%20Ofer%20(%40boazofer)%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
     "title": "Screenshot 2024 07 10 at 11 29 52 Boaz Ofer (@boazofer) • Instagram photos and videos",
     "date": "2026-02-12"
   },
@@ -323,7 +323,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2025-10-07-at-14-49-01-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-49-01 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-49-01 Instagram.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-49-01%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 49 01 Instagram",
     "date": "2026-02-12"
   },
@@ -331,7 +331,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2025-10-07-at-14-51-11-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-51-11 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-51-11 Instagram.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-51-11%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 51 11 Instagram",
     "date": "2026-02-12"
   },
@@ -339,7 +339,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2025-10-07-at-14-51-59-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-51-59 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-51-59 Instagram.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-51-59%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 51 59 Instagram",
     "date": "2026-02-12"
   },
@@ -347,7 +347,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2025-10-07-at-14-52-16-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-16 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-52-16 Instagram.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-52-16%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 16 Instagram",
     "date": "2026-02-12"
   },
@@ -355,7 +355,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2025-10-07-at-14-52-37-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-37 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-52-37 Instagram.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-52-37%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 37 Instagram",
     "date": "2026-02-12"
   },
@@ -363,7 +363,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2025-10-07-at-14-53-58-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-53-58 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-53-58 Instagram.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-53-58%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 53 58 Instagram",
     "date": "2026-02-12"
   },
@@ -371,7 +371,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2025-10-07-at-14-54-13-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-54-13 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-54-13 Instagram.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-54-13%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 54 13 Instagram",
     "date": "2026-02-12"
   },
@@ -411,7 +411,7 @@ window.paintingsDataset = [
     "id": "B-W-IMG-20260123-231642-jpg",
     "filename": "IMG_20260123_231642.jpg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_20260123_231642.jpg",
+    "path": "./assets/paintings/B%26W/IMG_20260123_231642.jpg",
     "title": "IMG 20260123 231642",
     "date": "2026-01-23"
   },
@@ -435,7 +435,7 @@ window.paintingsDataset = [
     "id": "B-W-1000990748-jpg",
     "filename": "1000990748.jpg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/1000990748.jpg",
+    "path": "./assets/paintings/B%26W/1000990748.jpg",
     "title": "1000990748",
     "date": "2025-12-11"
   },
@@ -499,7 +499,7 @@ window.paintingsDataset = [
     "id": "B-W-IMG-20251116-171225-jpg",
     "filename": "IMG_20251116_171225.jpg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_20251116_171225.jpg",
+    "path": "./assets/paintings/B%26W/IMG_20251116_171225.jpg",
     "title": "IMG 20251116 171225",
     "date": "2025-11-16"
   },
@@ -651,7 +651,7 @@ window.paintingsDataset = [
     "id": "Portrate-Screenshot-2025-10-07-at-14-52-24-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-24 Instagram.png",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-52-24 Instagram.png",
+    "path": "./assets/paintings/Portrate/Screenshot%202025-10-07%20at%2014-52-24%20Instagram.png",
     "title": "Screenshot 2025 10 07 at 14 52 24 Instagram",
     "date": "2025-10-07"
   },
@@ -659,7 +659,7 @@ window.paintingsDataset = [
     "id": "B-W-ink-04-jpg",
     "filename": "ink_04.jpg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/ink_04.jpg",
+    "path": "./assets/paintings/B%26W/ink_04.jpg",
     "title": "ink 04",
     "date": "2025-09-29"
   },
@@ -795,7 +795,7 @@ window.paintingsDataset = [
     "id": "Watercolor-Screenshot-2024-png",
     "filename": "Screenshot 2024.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024.png",
+    "path": "./assets/paintings/Watercolor/Screenshot%202024.png",
     "title": "Screenshot 2024",
     "date": "2024-10-01"
   },
@@ -811,7 +811,7 @@ window.paintingsDataset = [
     "id": "B-W-IMG-7527-JPG",
     "filename": "IMG_7527.JPG",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_7527.JPG",
+    "path": "./assets/paintings/B%26W/IMG_7527.JPG",
     "title": "IMG 7527",
     "date": "2024-06-02"
   },
@@ -875,7 +875,7 @@ window.paintingsDataset = [
     "id": "B-W-A4A6EE12-83BE-43E3-BC52-F54588CCFE9C-jpeg",
     "filename": "A4A6EE12-83BE-43E3-BC52-F54588CCFE9C.jpeg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/A4A6EE12-83BE-43E3-BC52-F54588CCFE9C.jpeg",
+    "path": "./assets/paintings/B%26W/A4A6EE12-83BE-43E3-BC52-F54588CCFE9C.jpeg",
     "title": "A4A6EE12 83BE 43E3 BC52 F54588CCFE9C",
     "date": "2022-08-27"
   },
@@ -923,7 +923,7 @@ window.paintingsDataset = [
     "id": "Portrate-Class-07-copy-jpg",
     "filename": "Class_07 copy.jpg",
     "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Class_07 copy.jpg",
+    "path": "./assets/paintings/Portrate/Class_07%20copy.jpg",
     "title": "Class 07 copy",
     "date": "2015-02-03"
   }
