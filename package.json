@@ -4,10 +4,10 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-        "dev": "vite",
-        "build": "vite build",
+        "dev": "npm run generate && vite",
+        "build": "npm run generate && vite build",
         "preview": "vite preview",
-        "generate": "node scripts/generate-manifest.js"
+        "generate": "node scripts/process-assets.js"
     },
     "devDependencies": {
         "vite": "^5.0.0",
