@@ -79,6 +79,9 @@ async function processAssets() {
         }
     }
 
+    // Sort manifest: Newest Date First
+    manifest.sort((a, b) => new Date(b.date) - new Date(a.date));
+
     // Write manifest as JS file for window object
     const jsContent = `window.paintingsDataset = ${JSON.stringify(manifest, null, 2)};`;
     await fs.writeFile(MANIFEST_PATH, jsContent);
