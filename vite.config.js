@@ -6,7 +6,7 @@ const assetWatcher = () => ({
     configureServer(server) {
         server.watcher.add('public/assets');
         server.watcher.on('change', (file) => {
-            if (file.includes('public\\assets')) {
+            if (file.match(/public[\\/]assets/)) {
                 console.log('Asset changed, regenerating manifest...');
                 exec('npm run generate', (err, stdout, stderr) => {
                     if (err) console.error(err);
@@ -15,7 +15,7 @@ const assetWatcher = () => ({
             }
         });
         server.watcher.on('add', (file) => {
-            if (file.includes('public\\assets')) {
+            if (file.match(/public[\\/]assets/)) {
                 console.log('Asset added, regenerating manifest...');
                 exec('npm run generate', (err, stdout, stderr) => {
                     if (err) console.error(err);
@@ -24,7 +24,7 @@ const assetWatcher = () => ({
             }
         });
         server.watcher.on('unlink', (file) => {
-            if (file.includes('public\\assets')) {
+            if (file.match(/public[\\/]assets/)) {
                 console.log('Asset removed, regenerating manifest...');
                 exec('npm run generate', (err, stdout, stderr) => {
                     if (err) console.error(err);

@@ -71,6 +71,8 @@ main {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
+    align-items: start;
+    /* Prevents stretching */
 }
 
 @media (max-width: 1100px) {
@@ -92,7 +94,8 @@ main {
     cursor: pointer;
     position: relative;
     overflow: hidden;
-    background: #eee;
+    /* background: #eee; Removed to avoid ugly boxes */
+    border-radius: 4px;
 }
 
 .gallery-item img {
