@@ -3,684 +3,480 @@ window.paintingsDataset = [
     "id": "Ai-grok-video-0ae03994-7c28-462d-8eea-d63881f7d789-1-gif",
     "filename": "grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1.gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1.gif"
+    "path": "./assets/paintings/Ai/grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1.gif",
+    "title": "grok video 0ae03994 7c28 462d 8eea d63881f7d789 1",
+    "date": "2026-02-12"
   },
   {
     "id": "Ai-grok-video-8651208d-0dec-4226-9a9f-c36342389980-gif",
     "filename": "grok_video_8651208d_0dec_4226_9a9f_c36342389980.gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_8651208d_0dec_4226_9a9f_c36342389980.gif"
+    "path": "./assets/paintings/Ai/grok_video_8651208d_0dec_4226_9a9f_c36342389980.gif",
+    "title": "grok video 8651208d 0dec 4226 9a9f c36342389980",
+    "date": "2026-02-12"
   },
   {
     "id": "Ai-grok-video-a0c0cb12-fd9a-4771-a63a-9-gif",
     "filename": "grok_video_a0c0cb12_fd9a_4771_a63a_9.gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_a0c0cb12_fd9a_4771_a63a_9.gif"
+    "path": "./assets/paintings/Ai/grok_video_a0c0cb12_fd9a_4771_a63a_9.gif",
+    "title": "grok video a0c0cb12 fd9a 4771 a63a 9",
+    "date": "2026-02-12"
   },
   {
     "id": "Ai-grok-video-ab536cfb-174b-4a80-8205-733a1c0f482f-5--1-gif",
     "filename": "grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1.gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1.gif"
+    "path": "./assets/paintings/Ai/grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1.gif",
+    "title": "grok video ab536cfb 174b 4a80 8205 733a1c0f482f 5  1",
+    "date": "2026-02-12"
   },
   {
     "id": "B-W-1000990748-jpg",
     "filename": "1000990748.jpg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/1000990748.jpg"
+    "path": "./assets/paintings/B&W/1000990748.jpg",
+    "title": "1000990748",
+    "date": "2025-12-11"
   },
   {
     "id": "B-W-A4A6EE12-83BE-43E3-BC52-F54588CCFE9C-jpeg",
     "filename": "A4A6EE12-83BE-43E3-BC52-F54588CCFE9C.jpeg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/A4A6EE12-83BE-43E3-BC52-F54588CCFE9C.jpeg"
+    "path": "./assets/paintings/B&W/A4A6EE12-83BE-43E3-BC52-F54588CCFE9C.jpeg",
+    "title": "A4A6EE12 83BE 43E3 BC52 F54588CCFE9C",
+    "date": "2022-08-27"
   },
   {
     "id": "B-W-IMG-20251116-171225-jpg",
     "filename": "IMG_20251116_171225.jpg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_20251116_171225.jpg"
+    "path": "./assets/paintings/B&W/IMG_20251116_171225.jpg",
+    "title": "IMG 20251116 171225",
+    "date": "2025-11-16"
   },
   {
     "id": "B-W-IMG-20260123-231642-jpg",
     "filename": "IMG_20260123_231642.jpg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_20260123_231642.jpg"
+    "path": "./assets/paintings/B&W/IMG_20260123_231642.jpg",
+    "title": "IMG 20260123 231642",
+    "date": "2026-01-23"
   },
   {
     "id": "B-W-IMG-7527-JPG",
     "filename": "IMG_7527.JPG",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_7527.JPG"
+    "path": "./assets/paintings/B&W/IMG_7527.JPG",
+    "title": "IMG 7527",
+    "date": "2024-06-02"
   },
   {
     "id": "B-W-IMG-8172-JPG",
     "filename": "IMG_8172.JPG",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_8172.JPG"
+    "path": "./assets/paintings/B&W/IMG_8172.JPG",
+    "title": "IMG_8171",
+    "date": "2026-02-12"
   },
   {
     "id": "B-W-IMG-8394-JPG",
     "filename": "IMG_8394.JPG",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/IMG_8394.JPG"
+    "path": "./assets/paintings/B&W/IMG_8394.JPG",
+    "title": "IMG 8394",
+    "date": "2026-02-12"
   },
   {
     "id": "B-W-ink-04-jpg",
     "filename": "ink_04.jpg",
     "theme": "B&W",
-    "path": "./assets/paintings/B&W/ink_04.jpg"
-  },
-  {
-    "id": "Portrate-1000985415-jpg",
-    "filename": "1000985415.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000985415.jpg"
-  },
-  {
-    "id": "Portrate-1000987514-jpg",
-    "filename": "1000987514.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000987514.jpg"
-  },
-  {
-    "id": "Portrate-1000987718-jpg",
-    "filename": "1000987718.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000987718.jpg"
-  },
-  {
-    "id": "Portrate-1000987740-jpg",
-    "filename": "1000987740.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000987740.jpg"
-  },
-  {
-    "id": "Portrate-1000988047-jpg",
-    "filename": "1000988047.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000988047.jpg"
-  },
-  {
-    "id": "Portrate-1000990330-jpg",
-    "filename": "1000990330.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000990330.jpg"
-  },
-  {
-    "id": "Portrate-1000990744-jpg",
-    "filename": "1000990744.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/1000990744.jpg"
-  },
-  {
-    "id": "Portrate-763E57BA-9B94-4621-8428-A2ACF4522EC0-jpeg",
-    "filename": "763E57BA-9B94-4621-8428-A2ACF4522EC0.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/763E57BA-9B94-4621-8428-A2ACF4522EC0.jpeg"
-  },
-  {
-    "id": "Portrate-Class-07-copy-jpg",
-    "filename": "Class_07 copy.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Class_07 copy.jpg"
-  },
-  {
-    "id": "Portrate-IMG-0591-JPG",
-    "filename": "IMG_0591.JPG",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_0591.JPG"
-  },
-  {
-    "id": "Portrate-IMG-20250330-191757-jpg",
-    "filename": "IMG_20250330_191757.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250330_191757.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20250613-120045-jpg",
-    "filename": "IMG_20250613_120045.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250613_120045.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20250726-142643-jpg",
-    "filename": "IMG_20250726_142643.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250726_142643.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20250821-175355-jpg",
-    "filename": "IMG_20250821_175355.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250821_175355.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20250821-175519-jpg",
-    "filename": "IMG_20250821_175519.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250821_175519.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20250821-175539-jpg",
-    "filename": "IMG_20250821_175539.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250821_175539.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20250827-143737-jpg",
-    "filename": "IMG_20250827_143737.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20250827_143737.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20251025-102100-jpg",
-    "filename": "IMG_20251025_102100.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251025_102100.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20251026-163245-jpg",
-    "filename": "IMG_20251026_163245.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251026_163245.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20251026-163658-jpg",
-    "filename": "IMG_20251026_163658.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251026_163658.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20251028-151439-jpg",
-    "filename": "IMG_20251028_151439.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251028_151439.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20251213-004343-jpg",
-    "filename": "IMG_20251213_004343.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20251213_004343.jpg"
-  },
-  {
-    "id": "Portrate-IMG-20260129-215139-jpg",
-    "filename": "IMG_20260129_215139.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_20260129_215139.jpg"
-  },
-  {
-    "id": "Portrate-IMG-5981-JPG",
-    "filename": "IMG_5981.JPG",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_5981.JPG"
-  },
-  {
-    "id": "Portrate-IMG-6774-jpeg",
-    "filename": "IMG_6774.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_6774.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-7380-jpeg",
-    "filename": "IMG_7380.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_7380.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-7922-jpeg",
-    "filename": "IMG_7922.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_7922.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-8420-jpeg",
-    "filename": "IMG_8420.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_8420.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-8816-jpeg",
-    "filename": "IMG_8816.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_8816.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-9482-jpeg",
-    "filename": "IMG_9482.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9482.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-9570-jpeg",
-    "filename": "IMG_9570.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9570.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-9621-jpeg",
-    "filename": "IMG_9621.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9621.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-9650-jpeg",
-    "filename": "IMG_9650.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9650.jpeg"
-  },
-  {
-    "id": "Portrate-IMG-9872-jpeg",
-    "filename": "IMG_9872.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/IMG_9872.jpeg"
-  },
-  {
-    "id": "Portrate-Man-jpg",
-    "filename": "Man.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Man.jpg"
-  },
-  {
-    "id": "Portrate-Portrate-02-jpeg",
-    "filename": "Portrate_02.jpeg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Portrate_02.jpeg"
-  },
-  {
-    "id": "Portrate-Screenshot-2024-07-07-at-13-35-31-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
-    "filename": "Screenshot 2024-07-07 at 13-35-31 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2024-07-07 at 13-35-31 Boaz Ofer (@boazofer) • Instagram photos and videos.png"
-  },
-  {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-50-19-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-50-19 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-50-19 Instagram.png"
-  },
-  {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-50-46-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-50-46 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-50-46 Instagram.png"
-  },
-  {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-51-21-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-51-21 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-51-21 Instagram.png"
-  },
-  {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-52-08-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-08 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-52-08 Instagram.png"
-  },
-  {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-52-24-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-24 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-52-24 Instagram.png"
-  },
-  {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-52-47-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-47 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-52-47 Instagram.png"
-  },
-  {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-52-56-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-56 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-52-56 Instagram.png"
-  },
-  {
-    "id": "Portrate-Screenshot-2025-10-07-at-14-53-50-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-53-50 Instagram.png",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/Screenshot 2025-10-07 at 14-53-50 Instagram.png"
-  },
-  {
-    "id": "Portrate-alon-jpg",
-    "filename": "alon.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/alon.jpg"
-  },
-  {
-    "id": "Portrate-dafni-jpg",
-    "filename": "dafni.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/dafni.jpg"
-  },
-  {
-    "id": "Portrate-image-1--jpg",
-    "filename": "image(1).jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/image(1).jpg"
-  },
-  {
-    "id": "Portrate-image-2--jpg",
-    "filename": "image(2).jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/image(2).jpg"
-  },
-  {
-    "id": "Portrate-image-2-small-jpg",
-    "filename": "image(2)small.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/image(2)small.jpg"
-  },
-  {
-    "id": "Portrate-image-jpg",
-    "filename": "image.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/image.jpg"
-  },
-  {
-    "id": "Portrate-neta04-jpg",
-    "filename": "neta04.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/neta04.jpg"
-  },
-  {
-    "id": "Portrate-por-jpg",
-    "filename": "por.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/por.jpg"
-  },
-  {
-    "id": "Portrate------jpg",
-    "filename": "יחעח.jpg",
-    "theme": "Portrate",
-    "path": "./assets/paintings/Portrate/יחעח.jpg"
+    "path": "./assets/paintings/B&W/ink_04.jpg",
+    "title": "ink 04",
+    "date": "2025-09-29"
   },
   {
     "id": "Watercolor-1000984642-jpg",
     "filename": "1000984642.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/1000984642.jpg"
+    "path": "./assets/paintings/Watercolor/1000984642.jpg",
+    "title": "1000984642",
+    "date": "2025-11-01"
   },
   {
     "id": "Watercolor-1000987986-jpg",
     "filename": "1000987986.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/1000987986.jpg"
+    "path": "./assets/paintings/Watercolor/1000987986.jpg",
+    "title": "1000987986",
+    "date": "2025-11-29"
   },
   {
     "id": "Watercolor-DIGITAL-01-jpg",
     "filename": "DIGITAL_01.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/DIGITAL_01.jpg"
+    "path": "./assets/paintings/Watercolor/DIGITAL_01.jpg",
+    "title": "DIGITAL 01",
+    "date": "2025-10-23"
   },
   {
     "id": "Watercolor-IMG-20250621-175427-jpg",
     "filename": "IMG_20250621_175427.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20250621_175427.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20250621_175427.jpg",
+    "title": "IMG 20250621 175427",
+    "date": "2025-06-21"
   },
   {
     "id": "Watercolor-IMG-20250715-075556-jpg",
     "filename": "IMG_20250715_075556.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20250715_075556.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20250715_075556.jpg",
+    "title": "IMG 20250715 075556",
+    "date": "2025-07-15"
   },
   {
     "id": "Watercolor-IMG-20251023-165342-jpg",
     "filename": "IMG_20251023_165342.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251023_165342.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251023_165342.jpg",
+    "title": "IMG 20251023 165342",
+    "date": "2025-10-23"
   },
   {
     "id": "Watercolor-IMG-20251026-162921-jpg",
     "filename": "IMG_20251026_162921.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_162921.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251026_162921.jpg",
+    "title": "IMG 20251026 162921",
+    "date": "2025-10-26"
   },
   {
     "id": "Watercolor-IMG-20251026-162949-jpg",
     "filename": "IMG_20251026_162949.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_162949.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251026_162949.jpg",
+    "title": "IMG 20251026 162949",
+    "date": "2025-10-26"
   },
   {
     "id": "Watercolor-IMG-20251026-163048-jpg",
     "filename": "IMG_20251026_163048.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163048.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251026_163048.jpg",
+    "title": "IMG 20251026 163048",
+    "date": "2025-10-26"
   },
   {
     "id": "Watercolor-IMG-20251026-163304-jpg",
     "filename": "IMG_20251026_163304.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163304.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251026_163304.jpg",
+    "title": "IMG 20251026 163304",
+    "date": "2025-10-26"
   },
   {
     "id": "Watercolor-IMG-20251026-163533-jpg",
     "filename": "IMG_20251026_163533.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163533.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251026_163533.jpg",
+    "title": "IMG 20251026 163533",
+    "date": "2025-10-26"
   },
   {
     "id": "Watercolor-IMG-20251026-163628-jpg",
     "filename": "IMG_20251026_163628.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163628.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251026_163628.jpg",
+    "title": "IMG 20251026 163628",
+    "date": "2025-10-26"
   },
   {
     "id": "Watercolor-IMG-20251026-163758-jpg",
     "filename": "IMG_20251026_163758.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163758.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251026_163758.jpg",
+    "title": "IMG 20251026 163758",
+    "date": "2025-10-26"
   },
   {
     "id": "Watercolor-IMG-20251111-103125-jpg",
     "filename": "IMG_20251111_103125.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251111_103125.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20251111_103125.jpg",
+    "title": "IMG 20251111 103125",
+    "date": "2025-11-11"
   },
   {
     "id": "Watercolor-IMG-20260113-205215-jpg",
     "filename": "IMG_20260113_205215.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20260113_205215.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20260113_205215.jpg",
+    "title": "IMG 20260113 205215",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-20260128-164826-jpg",
     "filename": "IMG_20260128_164826.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20260128_164826.jpg"
+    "path": "./assets/paintings/Watercolor/IMG_20260128_164826.jpg",
+    "title": "IMG 20260128 164826",
+    "date": "2026-01-28"
   },
   {
     "id": "Watercolor-IMG-2291-JPG",
     "filename": "IMG_2291.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_2291.JPG"
+    "path": "./assets/paintings/Watercolor/IMG_2291.JPG",
+    "title": "IMG 2291",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-4708-JPG",
     "filename": "IMG_4708.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_4708.JPG"
+    "path": "./assets/paintings/Watercolor/IMG_4708.JPG",
+    "title": "IMG 4708",
+    "date": "2022-07-01"
   },
   {
     "id": "Watercolor-IMG-6320-JPG",
     "filename": "IMG_6320.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_6320.JPG"
+    "path": "./assets/paintings/Watercolor/IMG_6320.JPG",
+    "title": "IMG 6320",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-6477-jpeg",
     "filename": "IMG_6477.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_6477.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_6477.jpeg",
+    "title": "IMG 6477",
+    "date": "2023-12-03"
   },
   {
     "id": "Watercolor-IMG-6591-jpeg",
     "filename": "IMG_6591.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_6591.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_6591.jpeg",
+    "title": "IMG 6591",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-6916-jpeg",
     "filename": "IMG_6916.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_6916.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_6916.jpeg",
+    "title": "IMG 6916",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-7111-jpeg",
     "filename": "IMG_7111.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7111.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_7111.jpeg",
+    "title": "IMG 7111",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-7500-JPG",
     "filename": "IMG_7500.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7500.JPG"
+    "path": "./assets/paintings/Watercolor/IMG_7500.JPG",
+    "title": "IMG 7500",
+    "date": "2024-05-27"
   },
   {
     "id": "Watercolor-IMG-7722-jpeg",
     "filename": "IMG_7722.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7722.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_7722.jpeg",
+    "title": "IMG 7722",
+    "date": "2024-01-17"
   },
   {
     "id": "Watercolor-IMG-7857-png",
     "filename": "IMG_7857.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7857.png"
+    "path": "./assets/paintings/Watercolor/IMG_7857.png",
+    "title": "IMG 7857",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-8086-jpeg",
     "filename": "IMG_8086.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_8086.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_8086.jpeg",
+    "title": "IMG_8085",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-8115-jpeg",
     "filename": "IMG_8115.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_8115.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_8115.jpeg",
+    "title": "IMG 8115",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-8197-JPG",
     "filename": "IMG_8197.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_8197.JPG"
+    "path": "./assets/paintings/Watercolor/IMG_8197.JPG",
+    "title": "IMG_8194",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-9253-jpeg",
     "filename": "IMG_9253.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_9253.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_9253.jpeg",
+    "title": "IMG_9252",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-IMG-9765-jpeg",
     "filename": "IMG_9765.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_9765.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_9765.jpeg",
+    "title": "IMG 9765",
+    "date": "2025-07-03"
   },
   {
     "id": "Watercolor-IMG-9854-jpeg",
     "filename": "IMG_9854.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_9854.jpeg"
+    "path": "./assets/paintings/Watercolor/IMG_9854.jpeg",
+    "title": "IMG 9854",
+    "date": "2025-09-29"
   },
   {
     "id": "Watercolor-Screenshot-2024-07-07-at-13-35-40-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-07 at 13-35-40 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-07 at 13-35-40 Boaz Ofer (@boazofer) • Instagram photos and videos.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-07 at 13-35-40 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "title": "Screenshot 2024 07 07 at 13 35 40 Boaz Ofer (@boazofer) • Instagram photos and videos",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2024-07-10-at-11-29-01-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-10 at 11-29-01 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-01 Boaz Ofer (@boazofer) • Instagram photos and videos.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-01 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "title": "Screenshot 2024 07 10 at 11 29 01 Boaz Ofer (@boazofer) • Instagram photos and videos",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2024-07-10-at-11-29-20-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-10 at 11-29-20 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-20 Boaz Ofer (@boazofer) • Instagram photos and videos.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-20 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "title": "Screenshot 2024 07 10 at 11 29 20 Boaz Ofer (@boazofer) • Instagram photos and videos",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2024-07-10-at-11-29-52-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
     "filename": "Screenshot 2024-07-10 at 11-29-52 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-52 Boaz Ofer (@boazofer) • Instagram photos and videos.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2024-07-10 at 11-29-52 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
+    "title": "Screenshot 2024 07 10 at 11 29 52 Boaz Ofer (@boazofer) • Instagram photos and videos",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2024-png",
     "filename": "Screenshot 2024.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2024.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2024.png",
+    "title": "Screenshot 2024",
+    "date": "2024-10-01"
   },
   {
     "id": "Watercolor-Screenshot-2025-10-07-at-14-49-01-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-49-01 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-49-01 Instagram.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-49-01 Instagram.png",
+    "title": "Screenshot 2025 10 07 at 14 49 01 Instagram",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2025-10-07-at-14-51-11-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-51-11 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-51-11 Instagram.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-51-11 Instagram.png",
+    "title": "Screenshot 2025 10 07 at 14 51 11 Instagram",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2025-10-07-at-14-51-59-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-51-59 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-51-59 Instagram.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-51-59 Instagram.png",
+    "title": "Screenshot 2025 10 07 at 14 51 59 Instagram",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2025-10-07-at-14-52-16-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-16 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-52-16 Instagram.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-52-16 Instagram.png",
+    "title": "Screenshot 2025 10 07 at 14 52 16 Instagram",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2025-10-07-at-14-52-37-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-52-37 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-52-37 Instagram.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-52-37 Instagram.png",
+    "title": "Screenshot 2025 10 07 at 14 52 37 Instagram",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2025-10-07-at-14-53-58-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-53-58 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-53-58 Instagram.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-53-58 Instagram.png",
+    "title": "Screenshot 2025 10 07 at 14 53 58 Instagram",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-Screenshot-2025-10-07-at-14-54-13-Instagram-png",
     "filename": "Screenshot 2025-10-07 at 14-54-13 Instagram.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-54-13 Instagram.png"
+    "path": "./assets/paintings/Watercolor/Screenshot 2025-10-07 at 14-54-13 Instagram.png",
+    "title": "Screenshot 2025 10 07 at 14 54 13 Instagram",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-WaterColor-04-jpg",
     "filename": "WaterColor_04.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/WaterColor_04.jpg"
+    "path": "./assets/paintings/Watercolor/WaterColor_04.jpg",
+    "title": "WaterColor 04",
+    "date": "2025-09-29"
   },
   {
     "id": "Watercolor-WaterColor-06-jpg",
     "filename": "WaterColor_06.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/WaterColor_06.jpg"
+    "path": "./assets/paintings/Watercolor/WaterColor_06.jpg",
+    "title": "WaterColor 06",
+    "date": "2025-10-23"
   },
   {
     "id": "Watercolor-chello-jpg",
     "filename": "chello.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/chello.jpg"
+    "path": "./assets/paintings/Watercolor/chello.jpg",
+    "title": "chello",
+    "date": "2026-02-12"
   },
   {
     "id": "Watercolor-sis-jpg",
     "filename": "sis.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/sis.jpg"
+    "path": "./assets/paintings/Watercolor/sis.jpg",
+    "title": "sis",
+    "date": "2020-03-22"
   }
 ];

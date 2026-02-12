@@ -108,11 +108,25 @@ main {
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(transparent, rgba(0, 0, 0, 0.4));
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.6));
     color: white;
     padding: 1.5rem;
     opacity: 0;
     transition: opacity 0.3s;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.gallery-item .theme {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.gallery-item .date {
+    font-size: 0.8rem;
+    opacity: 0.8;
+    font-family: var(--font-sans);
 }
 
 .gallery-item:hover .overlay {

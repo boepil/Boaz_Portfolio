@@ -22,9 +22,10 @@ function renderGallery(filter = 'all') {
         const item = document.createElement('div');
         item.className = 'gallery-item';
         item.innerHTML = `
-            <img src="${p.path}" alt="${p.filename}" loading="lazy">
+            <img src="${p.path}" alt="${p.title}" loading="lazy">
             <div class="overlay">
-                <span class="theme">${p.theme}</span>
+                <span class="theme">${p.title}</span>
+                <span class="date">${p.date}</span>
             </div>
         `;
         item.onclick = () => openLightbox(index);
@@ -37,7 +38,7 @@ function openLightbox(index) {
     const p = filteredImages[currentIndex];
     lightbox.style.display = 'flex';
     lightboxImg.src = p.path;
-    captionText.innerHTML = `${p.theme} &mdash; ${p.filename.split('.')[0]}`;
+    captionText.innerHTML = `<strong>${p.title}</strong><br><small>${p.date}</small>`;
     document.body.style.overflow = 'hidden';
 }
 
@@ -51,7 +52,7 @@ function navigateCarousel(direction) {
     lightboxImg.style.opacity = 0;
     setTimeout(() => {
         lightboxImg.src = p.path;
-        captionText.innerHTML = `${p.theme} &mdash; ${p.filename.split('.')[0]}`;
+        captionText.innerHTML = `<strong>${p.title}</strong><br><small>${p.date}</small>`;
         lightboxImg.style.opacity = 1;
     }, 200);
 }
