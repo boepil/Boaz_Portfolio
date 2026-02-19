@@ -1,10 +1,22 @@
 :root {
+    /* Design System extracted from reference */
+    --primary-color: rgba(0, 38, 245, 1);
+    /* Vibrant Blue - Headings/Links */
+    --secondary-color: rgba(165, 174, 189, 1);
+    /* Light Grey - Body text */
+    --accent-color: rgba(15, 38, 167, 1);
+    /* Darker Blue - Subheadings/H4 */
     --bg-color: #ffffff;
-    --text-color: #333333;
-    --accent-color: #666666;
-    --sidebar-width: 280px;
-    --font-serif: 'Playfair Display', serif;
-    --font-sans: 'Inter', sans-serif;
+    /* White Background */
+    --text-color: var(--secondary-color);
+    /* Default text */
+    --heading-color: var(--primary-color);
+    /* Default heading */
+
+    --font-primary: 'Montserrat', sans-serif;
+    --font-secondary: 'Work Sans', sans-serif;
+
+    --sidebar-width: 250px;
     --spacing-unit: 1rem;
 }
 
@@ -17,11 +29,31 @@
 body {
     background-color: var(--bg-color);
     color: var(--text-color);
-    font-family: var(--font-sans);
+    font-family: var(--font-primary);
     line-height: 1.6;
     overflow-x: hidden;
     display: flex;
     min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h5,
+h6 {
+    font-family: var(--font-primary);
+    color: var(--heading-color);
+    font-weight: 400;
+    margin-bottom: 0.5em;
+}
+
+h4 {
+    font-family: var(--font-secondary);
+    color: var(--accent-color);
+    font-weight: 400;
+    font-size: 1.1rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
 }
 
 /* Sidebar Navigation */
@@ -35,12 +67,13 @@ header {
     display: flex;
     flex-direction: column;
     background-color: var(--bg-color);
-    border-right: 1px solid rgba(0,0,0,0.05); /* Subtle border */
+    border-right: 1px solid rgba(0, 0, 0, 0.05);
+    /* Subtle border */
     z-index: 100;
 }
 
 .logo h1 {
-    font-family: var(--font-serif);
+    font-family: var(--font-primary);
     font-size: 2rem;
     letter-spacing: 0.1em;
     font-weight: 400;
@@ -60,7 +93,7 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: var(--text-color);
+    color: var(--secondary-color);
     transition: all 0.3s ease;
     opacity: 0.6;
     display: inline-block;
@@ -70,6 +103,7 @@ nav a {
 nav a:hover,
 nav a.active {
     opacity: 1;
+    color: var(--primary-color);
     transform: translateX(5px);
 }
 
@@ -124,7 +158,8 @@ main {
     width: 100%;
     height: auto;
     display: block;
-    filter: grayscale(10%); /* Slight desaturation for art feel */
+    filter: grayscale(10%);
+    /* Slight desaturation for art feel */
     transition: filter 0.5s ease;
 }
 
@@ -137,7 +172,7 @@ main {
    and only show in Lightbox, OR subtle show on hover.
    Let's keep it clean: No text under images in grid. */
 .gallery-item .info {
-    display: none; 
+    display: none;
 }
 
 /* Lightbox */
@@ -195,20 +230,25 @@ main {
     transition: opacity 0.3s;
     user-select: none;
     z-index: 1001;
-    font-family: var(--font-serif);
+    font-family: var(--font-primary);
 }
 
 .nav-btn:hover {
     opacity: 1;
 }
 
-.prev { left: 2rem; }
-.next { right: 2rem; }
+.prev {
+    left: 2rem;
+}
+
+.next {
+    right: 2rem;
+}
 
 #caption {
     margin-top: 1.5rem;
     text-align: center;
-    font-family: var(--font-serif);
+    font-family: var(--font-primary);
     color: var(--text-color);
 }
 
@@ -220,7 +260,7 @@ main {
 }
 
 #caption small {
-    font-family: var(--font-sans);
+    font-family: var(--font-secondary);
     font-size: 0.8rem;
     opacity: 0.6;
     text-transform: uppercase;
@@ -239,7 +279,7 @@ main {
         position: relative;
         padding: 2rem;
         border-right: none;
-        border-bottom: 1px solid rgba(0,0,0,0.05);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05);
         align-items: center;
         text-align: center;
     }
@@ -257,9 +297,10 @@ main {
     }
 
     nav a.active::before {
-        display: none; /* Hide dot on mobile */
+        display: none;
+        /* Hide dot on mobile */
     }
-    
+
     nav a.active {
         transform: none;
         border-bottom: 1px solid var(--text-color);
@@ -274,7 +315,7 @@ main {
     .gallery {
         gap: 1rem;
     }
-    
+
     .gallery-column {
         gap: 1rem;
     }
@@ -283,6 +324,12 @@ main {
         font-size: 2.5rem;
         padding: 1rem;
     }
-    .prev { left: 0.5rem; }
-    .next { right: 0.5rem; }
+
+    .prev {
+        left: 0.5rem;
+    }
+
+    .next {
+        right: 0.5rem;
+    }
 }
