@@ -25,19 +25,27 @@ let currentIndex = 0;
 function renderGallery(filter = 'all') {
     // Clear gallery
     gallery.innerHTML = '';
-    gallery.className = 'gallery masonry';
+
+    // Ensure class is correct (CSS handles the flex/gap)
+    gallery.className = 'gallery';
 
     filteredImages = filter === 'all'
         ? paintings
         : paintings.filter(p => p.theme === filter);
 
-    // Sort by Date (Newest First) just to be safe
+    // Sort by Date (Newest First)
     filteredImages.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    // Determine column count
+    // Determine column count based on available MAIN width, not just window width
+    // Sidebar takes ~280px on desktop.
+    // effectiveWidth = window.innerWidth - (window.innerWidth > 900 ? 280 : 0);
+
     let columnCount = 3;
-    if (window.innerWidth <= 600) columnCount = 1;
-    else if (window.innerWidth <= 1100) columnCount = 2;
+    const effectiveWidth = window.innerWidth; // Keep simple for now, adjust breakpoints
+
+    if (effectiveWidth <= 768) columnCount = 1;
+    else if (effectiveWidth <= 1200) columnCount = 2;
+    // else 3 columns
 
     // Create columns
     const columns = [];
@@ -52,17 +60,21 @@ function renderGallery(filter = 'all') {
     filteredImages.forEach((p, index) => {
         const item = document.createElement('div');
         item.className = 'gallery-item';
+        // Note: No text displayed in grid, only image
         item.innerHTML = `
             <img src="${p.path}" alt="${p.filename}" loading="lazy">
             <div class="info">
                 <div class="title">${p.title}</div>
-                <div class="date">${p.date}</div>
             </div>
         `;
         item.onclick = () => openLightbox(index);
 
         // Append to specific column
         columns[index % columnCount].appendChild(item);
+
+        // Trigger reflow/opacity fade-in if needed (handled by CSS hover mostly, but let's ensure it's visible)
+        // item.style.opacity = 0;
+        // setTimeout(() => item.style.opacity = 1, 50 * index); 
     });
 }
 
@@ -80,7 +92,12 @@ function openLightbox(index) {
     const p = filteredImages[currentIndex];
     lightbox.style.display = 'flex';
     lightboxImg.src = p.path;
-    captionText.innerHTML = `<strong>${p.filename}</strong><br><small>${p.theme}</small>`;
+
+    // Formatting Date
+    const dateObj = new Date(p.date);
+    const dateStr = !isNaN(dateObj) ? dateObj.getFullYear() : '';
+
+    captionText.innerHTML = `<strong>${p.title}</strong><small>${p.theme} ${dateStr ? '• ' + dateStr : ''}</small>`;
     document.body.style.overflow = 'hidden';
 }
 
@@ -90,11 +107,16 @@ function navigateCarousel(direction) {
     if (currentIndex >= filteredImages.length) currentIndex = 0;
 
     const p = filteredImages[currentIndex];
+
     // Smooth transition effect
     lightboxImg.style.opacity = 0;
     setTimeout(() => {
         lightboxImg.src = p.path;
-        captionText.innerHTML = `<strong>${p.filename}</strong><br><small>${p.theme}</small>`;
+
+        const dateObj = new Date(p.date);
+        const dateStr = !isNaN(dateObj) ? dateObj.getFullYear() : '';
+        captionText.innerHTML = `<strong>${p.title}</strong><small>${p.theme} ${dateStr ? '• ' + dateStr : ''}</small>`;
+
         lightboxImg.style.opacity = 1;
     }, 200);
 }
