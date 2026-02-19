@@ -74,12 +74,15 @@ header {
 
 .logo h1 {
     font-family: var(--font-primary);
-    font-size: 2rem;
+    font-size: 1.8rem;
+    /* Adjusted to fit sidebar */
     letter-spacing: 0.1em;
     font-weight: 400;
     margin-bottom: 3rem;
     line-height: 1.2;
     text-transform: uppercase;
+    white-space: nowrap;
+    /* Prevent wrapping */
 }
 
 nav ul {
