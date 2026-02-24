@@ -1,11 +1,299 @@
 [
   {
+    "id": "Watercolor-cypress-sketch-jpg",
+    "filename": "cypress_sketch.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/cypress_sketch.jpg",
+    "title": "cypress sketch",
+    "date": "2026-02-11"
+  },
+  {
+    "id": "Portrait-man-glasses-sketch-jpg",
+    "filename": "man_glasses_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/man_glasses_sketch.jpg",
+    "title": "man glasses sketch",
+    "date": "2026-01-29"
+  },
+  {
+    "id": "Watercolor-roaring-bear-jpg",
+    "filename": "roaring_bear.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/roaring_bear.jpg",
+    "title": "roaring bear",
+    "date": "2026-01-28"
+  },
+  {
+    "id": "BW-cypress-trees-sketch-jpg",
+    "filename": "cypress_trees_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/cypress_trees_sketch.jpg",
+    "title": "cypress trees sketch",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "Portrait-Old-Man-Sketchbook-jpg",
+    "filename": "Old Man Sketchbook.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Old%20Man%20Sketchbook.jpg",
+    "title": "Old Man Sketchbook",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "Portrait-fashion-sketch-jpg",
+    "filename": "fashion_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
+    "title": "fashion sketch",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "Portrait-older-woman-sketch-jpg",
+    "filename": "older_woman_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/older_woman_sketch.jpg",
+    "title": "older woman sketch",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "Watercolor-water-propagation-jpg",
+    "filename": "water_propagation.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/water_propagation.jpg",
+    "title": "water propagation",
+    "date": "2026-01-20"
+  },
+  {
+    "id": "BW-cyclist-road-sketch-JPG",
+    "filename": "cyclist_road_sketch.JPG",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/cyclist_road_sketch.JPG",
+    "title": "IMG_8171",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "Portrait-smiling-woman-sketch-jpg",
+    "filename": "smiling_woman_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/smiling_woman_sketch.jpg",
+    "title": "smiling woman sketch",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "Watercolor-Spring-Blossom-Branches-jpeg",
+    "filename": "Spring Blossom Branches.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Spring%20Blossom%20Branches.jpeg",
+    "title": "IMG_8085",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "Portrait-pensive-old-man-jpg",
+    "filename": "pensive_old_man.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/pensive_old_man.jpg",
+    "title": "pensive old man",
+    "date": "2025-12-12"
+  },
+  {
+    "id": "Watercolor-orange-basses-sketch-jpg",
+    "filename": "orange_basses_sketch.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/orange_basses_sketch.jpg",
+    "title": "orange basses sketch",
+    "date": "2025-12-12"
+  },
+  {
+    "id": "BW-red-goat-sketch-jpg",
+    "filename": "red_goat_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/red_goat_sketch.jpg",
+    "title": "red goat sketch",
+    "date": "2025-12-11"
+  },
+  {
+    "id": "Portrait-woman-suit-sketch-jpg",
+    "filename": "woman_suit_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/woman_suit_sketch.jpg",
+    "title": "woman suit sketch",
+    "date": "2025-12-11"
+  },
+  {
+    "id": "Portrait-orange-figures-sketch-jpg",
+    "filename": "orange_figures_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/orange_figures_sketch.jpg",
+    "title": "orange figures sketch",
+    "date": "2025-12-07"
+  },
+  {
+    "id": "BW-subway-sketch-JPG",
+    "filename": "subway_sketch.JPG",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/subway_sketch.JPG",
+    "title": "subway sketch",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "Portrait-man-sleeping-sketch-jpeg",
+    "filename": "man_sleeping_sketch.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/man_sleeping_sketch.jpeg",
+    "title": "man sleeping sketch",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "Portrait-pensive-man-jpeg",
+    "filename": "pensive_man.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/pensive_man.jpeg",
+    "title": "pensive man",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "Watercolor-City-Skyline-View-png",
+    "filename": "City Skyline View.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/City%20Skyline%20View.png",
+    "title": "City Skyline View",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "Watercolor-Forest-Trees-with-Foliage-jpeg",
+    "filename": "Forest Trees with Foliage.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Forest%20Trees%20with%20Foliage.jpeg",
+    "title": "Forest Trees with Foliage",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "Watercolor-Forest-View-Window-jpeg",
+    "filename": "Forest View Window.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Forest%20View%20Window.jpeg",
+    "title": "Forest View Window",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "Watercolor-Porch-Tree-Lantern-png",
+    "filename": "Porch Tree Lantern.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Porch%20Tree%20Lantern.png",
+    "title": "Porch Tree Lantern",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "Watercolor-Tree-Branches-Forest-Overlook-jpeg",
+    "filename": "Tree Branches Forest Overlook.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Tree%20Branches%20Forest%20Overlook.jpeg",
+    "title": "Tree Branches Forest Overlook",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "Portrait-orange-hair-sketch-jpg",
+    "filename": "orange_hair_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/orange_hair_sketch.jpg",
+    "title": "orange hair sketch",
+    "date": "2025-11-29"
+  },
+  {
+    "id": "Watercolor-foliage-study-jpg",
+    "filename": "foliage_study.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/foliage_study.jpg",
+    "title": "foliage study",
+    "date": "2025-11-29"
+  },
+  {
+    "id": "Portrait-thinking-man-headphones-jpg",
+    "filename": "thinking_man_headphones.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/thinking_man_headphones.jpg",
+    "title": "thinking man headphones",
+    "date": "2025-11-27"
+  },
+  {
+    "id": "Portrait-man-writing-sketch-jpg",
+    "filename": "man_writing_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/man_writing_sketch.jpg",
+    "title": "man writing sketch",
+    "date": "2025-11-26"
+  },
+  {
+    "id": "Portrait-man-playing-harmonica-jpg",
+    "filename": "man_playing_harmonica.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/man_playing_harmonica.jpg",
+    "title": "man playing harmonica",
+    "date": "2025-11-25"
+  },
+  {
+    "id": "BW-snowy-forest-sketch-jpg",
+    "filename": "snowy_forest_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/snowy_forest_sketch.jpg",
+    "title": "snowy forest sketch",
+    "date": "2025-11-16"
+  },
+  {
+    "id": "Watercolor-river-dusk-trees-jpg",
+    "filename": "river_dusk_trees.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/river_dusk_trees.jpg",
+    "title": "river dusk trees",
+    "date": "2025-11-11"
+  },
+  {
+    "id": "Portrait-woman-bottle-sketch-jpg",
+    "filename": "woman_bottle_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/woman_bottle_sketch.jpg",
+    "title": "woman bottle sketch",
+    "date": "2025-11-10"
+  },
+  {
+    "id": "Portrait-grimacing-man-jpg",
+    "filename": "grimacing_man.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/grimacing_man.jpg",
+    "title": "grimacing man",
+    "date": "2025-11-08"
+  },
+  {
+    "id": "Portrait-woman-profile-sketch-jpg",
+    "filename": "woman_profile_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/woman_profile_sketch.jpg",
+    "title": "woman profile sketch",
+    "date": "2025-11-08"
+  },
+  {
+    "id": "Watercolor-succulent-jar-jpg",
+    "filename": "succulent_jar.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/succulent_jar.jpg",
+    "title": "succulent jar",
+    "date": "2025-11-01"
+  },
+  {
+    "id": "Portrait-redhead-sketch-jpg",
+    "filename": "redhead_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/redhead_sketch.jpg",
+    "title": "redhead sketch",
+    "date": "2025-10-28"
+  },
+  {
     "id": "Ai-grok-video-0ae03994-7c28-462d-8eea-d63881f7d789-1-gif",
     "filename": "grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1.gif",
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1.gif",
     "title": "grok video 0ae03994 7c28 462d 8eea d63881f7d789 1",
-    "date": "2026-02-12"
+    "date": "2025-10-26"
   },
   {
     "id": "Ai-grok-video-8651208d-0dec-4226-9a9f-c36342389980-gif",
@@ -13,7 +301,7 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_8651208d_0dec_4226_9a9f_c36342389980.gif",
     "title": "grok video 8651208d 0dec 4226 9a9f c36342389980",
-    "date": "2026-02-12"
+    "date": "2025-10-26"
   },
   {
     "id": "Ai-grok-video-a0c0cb12-fd9a-4771-a63a-9-gif",
@@ -21,7 +309,7 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_a0c0cb12_fd9a_4771_a63a_9.gif",
     "title": "grok video a0c0cb12 fd9a 4771 a63a 9",
-    "date": "2026-02-12"
+    "date": "2025-10-26"
   },
   {
     "id": "Ai-grok-video-ab536cfb-174b-4a80-8205-733a1c0f482f-5--1-gif",
@@ -29,902 +317,598 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1.gif",
     "title": "grok video ab536cfb 174b 4a80 8205 733a1c0f482f 5  1",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "BW-IMG-8172-JPG",
-    "filename": "IMG_8172.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/IMG_8172.JPG",
-    "title": "IMG_8171",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "BW-IMG-8394-JPG",
-    "filename": "IMG_8394.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/IMG_8394.JPG",
-    "title": "IMG 8394",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-IMG-7380-jpeg",
-    "filename": "IMG_7380.jpeg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_7380.jpeg",
-    "title": "IMG 7380",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-IMG-7922-jpeg",
-    "filename": "IMG_7922.jpeg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_7922.jpeg",
-    "title": "IMG 7922",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-IMG-9621-jpeg",
-    "filename": "IMG_9621.jpeg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_9621.jpeg",
-    "title": "IMG 9621",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Man-jpg",
-    "filename": "Man.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Man.jpg",
-    "title": "Man",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Screenshot-2024-07-07-at-13-35-31-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
-    "filename": "Screenshot 2024-07-07 at 13-35-31 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202024-07-07%20at%2013-35-31%20Boaz%20Ofer%20%28%40boazofer%29%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
-    "title": "Screenshot 2024 07 07 at 13 35 31 Boaz Ofer (@boazofer) • Instagram photos and videos",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Screenshot-2025-10-07-at-14-50-19-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-50-19 Instagram.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-50-19%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 50 19 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Screenshot-2025-10-07-at-14-50-46-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-50-46 Instagram.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-50-46%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 50 46 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Screenshot-2025-10-07-at-14-51-21-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-51-21 Instagram.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-51-21%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 51 21 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Screenshot-2025-10-07-at-14-52-08-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-08 Instagram.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-52-08%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 52 08 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Screenshot-2025-10-07-at-14-52-47-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-47 Instagram.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-52-47%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 52 47 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Screenshot-2025-10-07-at-14-52-56-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-56 Instagram.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-52-56%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 52 56 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-Screenshot-2025-10-07-at-14-53-50-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-53-50 Instagram.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-53-50%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 53 50 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-image-1--jpg",
-    "filename": "image(1).jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/image%281%29.jpg",
-    "title": "image(1)",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-image-2--jpg",
-    "filename": "image(2).jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/image%282%29.jpg",
-    "title": "image(2)",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-image-2-small-jpg",
-    "filename": "image(2)small.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/image%282%29small.jpg",
-    "title": "image(2)small",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait-por-jpg",
-    "filename": "por.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/por.jpg",
-    "title": "por",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Portrait------jpg",
-    "filename": "יחעח.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/%D7%99%D7%97%D7%A2%D7%97.jpg",
-    "title": "יחעח",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-20260113-205215-jpg",
-    "filename": "IMG_20260113_205215.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20260113_205215.jpg",
-    "title": "IMG 20260113 205215",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-2291-JPG",
-    "filename": "IMG_2291.JPG",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_2291.JPG",
-    "title": "IMG 2291",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-4523-JPG",
-    "filename": "IMG_4523.JPG",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_4523.JPG",
-    "title": "IMG 4523",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-6320-JPG",
-    "filename": "IMG_6320.JPG",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_6320.JPG",
-    "title": "IMG 6320",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-6591-jpeg",
-    "filename": "IMG_6591.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_6591.jpeg",
-    "title": "IMG 6591",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-6916-jpeg",
-    "filename": "IMG_6916.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_6916.jpeg",
-    "title": "IMG 6916",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-7091-jpeg",
-    "filename": "IMG_7091.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7091.jpeg",
-    "title": "IMG_7087",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-7111-jpeg",
-    "filename": "IMG_7111.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7111.jpeg",
-    "title": "IMG 7111",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-7857-png",
-    "filename": "IMG_7857.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7857.png",
-    "title": "IMG 7857",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-8086-jpeg",
-    "filename": "IMG_8086.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_8086.jpeg",
-    "title": "IMG_8085",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-8115-jpeg",
-    "filename": "IMG_8115.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_8115.jpeg",
-    "title": "IMG 8115",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-8197-JPG",
-    "filename": "IMG_8197.JPG",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_8197.JPG",
-    "title": "IMG_8194",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-IMG-9253-jpeg",
-    "filename": "IMG_9253.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_9253.jpeg",
-    "title": "IMG_9252",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2024-07-07-at-13-35-40-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
-    "filename": "Screenshot 2024-07-07 at 13-35-40 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202024-07-07%20at%2013-35-40%20Boaz%20Ofer%20%28%40boazofer%29%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
-    "title": "Screenshot 2024 07 07 at 13 35 40 Boaz Ofer (@boazofer) • Instagram photos and videos",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2024-07-10-at-11-29-01-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
-    "filename": "Screenshot 2024-07-10 at 11-29-01 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202024-07-10%20at%2011-29-01%20Boaz%20Ofer%20%28%40boazofer%29%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
-    "title": "Screenshot 2024 07 10 at 11 29 01 Boaz Ofer (@boazofer) • Instagram photos and videos",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2024-07-10-at-11-29-20-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
-    "filename": "Screenshot 2024-07-10 at 11-29-20 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202024-07-10%20at%2011-29-20%20Boaz%20Ofer%20%28%40boazofer%29%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
-    "title": "Screenshot 2024 07 10 at 11 29 20 Boaz Ofer (@boazofer) • Instagram photos and videos",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2024-07-10-at-11-29-52-Boaz-Ofer---boazofer----Instagram-photos-and-videos-png",
-    "filename": "Screenshot 2024-07-10 at 11-29-52 Boaz Ofer (@boazofer) • Instagram photos and videos.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202024-07-10%20at%2011-29-52%20Boaz%20Ofer%20%28%40boazofer%29%20%E2%80%A2%20Instagram%20photos%20and%20videos.png",
-    "title": "Screenshot 2024 07 10 at 11 29 52 Boaz Ofer (@boazofer) • Instagram photos and videos",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2025-10-07-at-14-49-01-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-49-01 Instagram.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-49-01%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 49 01 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2025-10-07-at-14-51-11-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-51-11 Instagram.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-51-11%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 51 11 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2025-10-07-at-14-51-59-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-51-59 Instagram.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-51-59%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 51 59 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2025-10-07-at-14-52-16-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-16 Instagram.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-52-16%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 52 16 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2025-10-07-at-14-52-37-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-37 Instagram.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-52-37%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 52 37 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2025-10-07-at-14-53-58-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-53-58 Instagram.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-53-58%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 53 58 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-Screenshot-2025-10-07-at-14-54-13-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-54-13 Instagram.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202025-10-07%20at%2014-54-13%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 54 13 Instagram",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-chello-jpg",
-    "filename": "chello.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/chello.jpg",
-    "title": "chello",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "Watercolor-1001043417-jpg",
-    "filename": "1001043417.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/1001043417.jpg",
-    "title": "1001043417",
-    "date": "2026-02-11"
-  },
-  {
-    "id": "Portrait-IMG-20260129-215139-jpg",
-    "filename": "IMG_20260129_215139.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20260129_215139.jpg",
-    "title": "IMG 20260129 215139",
-    "date": "2026-01-29"
-  },
-  {
-    "id": "Watercolor-IMG-20260128-164826-jpg",
-    "filename": "IMG_20260128_164826.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20260128_164826.jpg",
-    "title": "IMG 20260128 164826",
-    "date": "2026-01-28"
-  },
-  {
-    "id": "BW-IMG-20260123-231642-jpg",
-    "filename": "IMG_20260123_231642.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/IMG_20260123_231642.jpg",
-    "title": "IMG 20260123 231642",
-    "date": "2026-01-23"
-  },
-  {
-    "id": "Portrait-dafni-jpg",
-    "filename": "dafni.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/dafni.jpg",
-    "title": "dafni",
-    "date": "2026-01-06"
-  },
-  {
-    "id": "Portrait-IMG-20251213-004343-jpg",
-    "filename": "IMG_20251213_004343.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20251213_004343.jpg",
-    "title": "IMG 20251213 004343",
-    "date": "2025-12-12"
-  },
-  {
-    "id": "BW-1000990748-jpg",
-    "filename": "1000990748.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/1000990748.jpg",
-    "title": "1000990748",
-    "date": "2025-12-11"
-  },
-  {
-    "id": "Portrait-1000990744-jpg",
-    "filename": "1000990744.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/1000990744.jpg",
-    "title": "1000990744",
-    "date": "2025-12-11"
-  },
-  {
-    "id": "Portrait-1000990330-jpg",
-    "filename": "1000990330.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/1000990330.jpg",
-    "title": "1000990330",
-    "date": "2025-12-07"
-  },
-  {
-    "id": "Portrait-1000988047-jpg",
-    "filename": "1000988047.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/1000988047.jpg",
-    "title": "1000988047",
-    "date": "2025-11-29"
-  },
-  {
-    "id": "Watercolor-1000987986-jpg",
-    "filename": "1000987986.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/1000987986.jpg",
-    "title": "1000987986",
-    "date": "2025-11-29"
-  },
-  {
-    "id": "Portrait-1000987740-jpg",
-    "filename": "1000987740.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/1000987740.jpg",
-    "title": "1000987740",
-    "date": "2025-11-27"
-  },
-  {
-    "id": "Portrait-1000987718-jpg",
-    "filename": "1000987718.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/1000987718.jpg",
-    "title": "1000987718",
-    "date": "2025-11-26"
-  },
-  {
-    "id": "Portrait-1000987514-jpg",
-    "filename": "1000987514.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/1000987514.jpg",
-    "title": "1000987514",
-    "date": "2025-11-25"
-  },
-  {
-    "id": "BW-IMG-20251116-171225-jpg",
-    "filename": "IMG_20251116_171225.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/IMG_20251116_171225.jpg",
-    "title": "IMG 20251116 171225",
-    "date": "2025-11-16"
-  },
-  {
-    "id": "Watercolor-IMG-20251111-103125-jpg",
-    "filename": "IMG_20251111_103125.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251111_103125.jpg",
-    "title": "IMG 20251111 103125",
-    "date": "2025-11-11"
-  },
-  {
-    "id": "Portrait-image-jpg",
-    "filename": "image.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/image.jpg",
-    "title": "image",
-    "date": "2025-11-10"
-  },
-  {
-    "id": "Portrait-1000985415-jpg",
-    "filename": "1000985415.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/1000985415.jpg",
-    "title": "1000985415",
-    "date": "2025-11-08"
-  },
-  {
-    "id": "Watercolor-1000984642-jpg",
-    "filename": "1000984642.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/1000984642.jpg",
-    "title": "1000984642",
-    "date": "2025-11-01"
-  },
-  {
-    "id": "Portrait-IMG-20251028-151439-jpg",
-    "filename": "IMG_20251028_151439.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20251028_151439.jpg",
-    "title": "IMG 20251028 151439",
-    "date": "2025-10-28"
-  },
-  {
-    "id": "Portrait-IMG-20251026-163245-jpg",
-    "filename": "IMG_20251026_163245.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20251026_163245.jpg",
-    "title": "IMG 20251026 163245",
     "date": "2025-10-26"
   },
   {
-    "id": "Portrait-IMG-20251026-163658-jpg",
-    "filename": "IMG_20251026_163658.jpg",
+    "id": "Portrait-flute-player-water-jpg",
+    "filename": "flute_player_water.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20251026_163658.jpg",
-    "title": "IMG 20251026 163658",
+    "path": "./assets/paintings/Portrait/flute_player_water.jpg",
+    "title": "flute player water",
     "date": "2025-10-26"
   },
   {
-    "id": "Watercolor-IMG-20251026-162921-jpg",
-    "filename": "IMG_20251026_162921.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_162921.jpg",
-    "title": "IMG 20251026 162921",
-    "date": "2025-10-26"
-  },
-  {
-    "id": "Watercolor-IMG-20251026-162949-jpg",
-    "filename": "IMG_20251026_162949.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_162949.jpg",
-    "title": "IMG 20251026 162949",
-    "date": "2025-10-26"
-  },
-  {
-    "id": "Watercolor-IMG-20251026-163048-jpg",
-    "filename": "IMG_20251026_163048.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163048.jpg",
-    "title": "IMG 20251026 163048",
-    "date": "2025-10-26"
-  },
-  {
-    "id": "Watercolor-IMG-20251026-163304-jpg",
-    "filename": "IMG_20251026_163304.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163304.jpg",
-    "title": "IMG 20251026 163304",
-    "date": "2025-10-26"
-  },
-  {
-    "id": "Watercolor-IMG-20251026-163628-jpg",
-    "filename": "IMG_20251026_163628.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163628.jpg",
-    "title": "IMG 20251026 163628",
-    "date": "2025-10-26"
-  },
-  {
-    "id": "Watercolor-IMG-20251026-163758-jpg",
-    "filename": "IMG_20251026_163758.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251026_163758.jpg",
-    "title": "IMG 20251026 163758",
-    "date": "2025-10-26"
-  },
-  {
-    "id": "Portrait-IMG-20251025-102100-jpg",
-    "filename": "IMG_20251025_102100.jpg",
+    "id": "Portrait-smiling-portrait-jpg",
+    "filename": "smiling_portrait.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20251025_102100.jpg",
-    "title": "IMG 20251025 102100",
+    "path": "./assets/paintings/Portrait/smiling_portrait.jpg",
+    "title": "smiling portrait",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "Watercolor-balcony-view-sketch-jpg",
+    "filename": "balcony_view_sketch.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/balcony_view_sketch.jpg",
+    "title": "balcony view sketch",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "Watercolor-blue-street-sketch-jpg",
+    "filename": "blue_street_sketch.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/blue_street_sketch.jpg",
+    "title": "blue street sketch",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "Watercolor-city-view-sketch-jpg",
+    "filename": "city_view_sketch.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/city_view_sketch.jpg",
+    "title": "city view sketch",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "Watercolor-hidden-cow-jpg",
+    "filename": "hidden_cow.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/hidden_cow.jpg",
+    "title": "hidden cow",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "Watercolor-orange-flower-sketch-jpg",
+    "filename": "orange_flower_sketch.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/orange_flower_sketch.jpg",
+    "title": "orange flower sketch",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "Watercolor-sink-sketch-jpg",
+    "filename": "sink_sketch.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/sink_sketch.jpg",
+    "title": "sink sketch",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "Watercolor-wooded-path-jpg",
+    "filename": "wooded_path.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/wooded_path.jpg",
+    "title": "wooded path",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "Portrait-hatted-man-sketch-jpg",
+    "filename": "hatted_man_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/hatted_man_sketch.jpg",
+    "title": "hatted man sketch",
     "date": "2025-10-25"
   },
   {
-    "id": "Watercolor-DIGITAL-01-jpg",
-    "filename": "DIGITAL_01.jpg",
+    "id": "Watercolor-Farmland-with-Haystacks-jpg",
+    "filename": "Farmland with Haystacks.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/DIGITAL_01.jpg",
-    "title": "DIGITAL 01",
+    "path": "./assets/paintings/Watercolor/Farmland%20with%20Haystacks.jpg",
+    "title": "Farmland with Haystacks",
     "date": "2025-10-23"
   },
   {
-    "id": "Watercolor-IMG-20251023-165342-jpg",
-    "filename": "IMG_20251023_165342.jpg",
+    "id": "Watercolor-winding-chimney-sketch-jpg",
+    "filename": "winding_chimney_sketch.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20251023_165342.jpg",
-    "title": "IMG 20251023 165342",
+    "path": "./assets/paintings/Watercolor/winding_chimney_sketch.jpg",
+    "title": "winding chimney sketch",
     "date": "2025-10-23"
   },
   {
-    "id": "Watercolor-WaterColor-06-jpg",
-    "filename": "WaterColor_06.jpg",
+    "id": "Watercolor-yellow-flowers-sky-jpg",
+    "filename": "yellow_flowers_sky.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/WaterColor_06.jpg",
-    "title": "WaterColor 06",
+    "path": "./assets/paintings/Watercolor/yellow_flowers_sky.jpg",
+    "title": "yellow flowers sky",
     "date": "2025-10-23"
   },
   {
-    "id": "Portrait-IMG-9872-jpeg",
-    "filename": "IMG_9872.jpeg",
+    "id": "Portrait-Elder-Man-Gesturing-jpeg",
+    "filename": "Elder Man Gesturing.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_9872.jpeg",
-    "title": "IMG 9872",
+    "path": "./assets/paintings/Portrait/Elder%20Man%20Gesturing.jpeg",
+    "title": "Elder Man Gesturing",
     "date": "2025-10-08"
   },
   {
-    "id": "Portrait-Screenshot-2025-10-07-at-14-52-24-Instagram-png",
-    "filename": "Screenshot 2025-10-07 at 14-52-24 Instagram.png",
+    "id": "Portrait-Dynamic-Figure-Sketch-png",
+    "filename": "Dynamic Figure Sketch.png",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Screenshot%202025-10-07%20at%2014-52-24%20Instagram.png",
-    "title": "Screenshot 2025 10 07 at 14 52 24 Instagram",
+    "path": "./assets/paintings/Portrait/Dynamic%20Figure%20Sketch.png",
+    "title": "Dynamic Figure Sketch",
     "date": "2025-10-07"
   },
   {
-    "id": "BW-ink-04-jpg",
-    "filename": "ink_04.jpg",
+    "id": "Portrait-Elderly-Woman-Sunglasses-png",
+    "filename": "Elderly Woman Sunglasses.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Elderly%20Woman%20Sunglasses.png",
+    "title": "Elderly Woman Sunglasses",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-Man-By-Window-png",
+    "filename": "Man By Window.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Man%20By%20Window.png",
+    "title": "Man By Window",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-Man-Fedora-Hat-png",
+    "filename": "Man Fedora Hat.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Man%20Fedora%20Hat.png",
+    "title": "Man Fedora Hat",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-Reclining-Figure-Charcoal-jpg",
+    "filename": "Reclining Figure Charcoal.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Reclining%20Figure%20Charcoal.jpg",
+    "title": "Reclining Figure Charcoal",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-Redhead-Close-Portrait-png",
+    "filename": "Redhead Close Portrait.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Redhead%20Close%20Portrait.png",
+    "title": "Redhead Close Portrait",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-Redhead-Seated-Woman-png",
+    "filename": "Redhead Seated Woman.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Redhead%20Seated%20Woman.png",
+    "title": "Redhead Seated Woman",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-Stern-Old-Woman-png",
+    "filename": "Stern Old Woman.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Stern%20Old%20Woman.png",
+    "title": "Stern Old Woman",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-Two-Bald-Men-png",
+    "filename": "Two Bald Men.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Two%20Bald%20Men.png",
+    "title": "Two Bald Men",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-man-floating-sketch-png",
+    "filename": "man_floating_sketch.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/man_floating_sketch.png",
+    "title": "man floating sketch",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Portrait-old-man-portrait-jpg",
+    "filename": "old_man_portrait.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/old_man_portrait.jpg",
+    "title": "old man portrait",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Biker-Portrait-png",
+    "filename": "Biker Portrait.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Biker%20Portrait.png",
+    "title": "Biker Portrait",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Cactus-Golden-Light-png",
+    "filename": "Cactus Golden Light.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Cactus%20Golden%20Light.png",
+    "title": "Cactus Golden Light",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Country-Road-Trees-png",
+    "filename": "Country Road Trees.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Country%20Road%20Trees.png",
+    "title": "Country Road Trees",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Garden-Through-Window-png",
+    "filename": "Garden Through Window.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Garden%20Through%20Window.png",
+    "title": "Garden Through Window",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Grapefruit-Still-Life-png",
+    "filename": "Grapefruit Still Life.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Grapefruit%20Still%20Life.png",
+    "title": "Grapefruit Still Life",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Misty-Canyon-Stream-png",
+    "filename": "Misty Canyon Stream.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Misty%20Canyon%20Stream.png",
+    "title": "Misty Canyon Stream",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Park-with-Trees-and-Bench-JPG",
+    "filename": "Park with Trees and Bench.JPG",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Park%20with%20Trees%20and%20Bench.JPG",
+    "title": "IMG_8194",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Red-Dress-Dancer-png",
+    "filename": "Red Dress Dancer.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Red%20Dress%20Dancer.png",
+    "title": "Red Dress Dancer",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Roses-Fern-Jar-png",
+    "filename": "Roses Fern Jar.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Roses%20Fern%20Jar.png",
+    "title": "Roses Fern Jar",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Sunflower-with-Leaves-jpeg",
+    "filename": "Sunflower with Leaves.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Sunflower%20with%20Leaves.jpeg",
+    "title": "Sunflower with Leaves",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-Tall-Wild-Plant-png",
+    "filename": "Tall Wild Plant.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Tall%20Wild%20Plant.png",
+    "title": "Tall Wild Plant",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-White-Flowers-Vase-png",
+    "filename": "White Flowers Vase.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/White%20Flowers%20Vase.png",
+    "title": "White Flowers Vase",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-girl-snorkeling-JPG",
+    "filename": "girl_snorkeling.JPG",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/girl_snorkeling.JPG",
+    "title": "girl snorkeling",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "Watercolor-swan-embrace-JPG",
+    "filename": "swan_embrace.JPG",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/swan_embrace.JPG",
+    "title": "swan embrace",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "BW-brown-stairwell-sketch-jpg",
+    "filename": "brown_stairwell_sketch.jpg",
     "theme": "BW",
-    "path": "./assets/paintings/BW/ink_04.jpg",
-    "title": "ink 04",
+    "path": "./assets/paintings/BW/brown_stairwell_sketch.jpg",
+    "title": "brown stairwell sketch",
     "date": "2025-09-29"
   },
   {
-    "id": "Portrait-Portrate-02-jpeg",
-    "filename": "Portrate_02.jpeg",
+    "id": "Portrait-traveler-sketch-jpeg",
+    "filename": "traveler_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Portrate_02.jpeg",
+    "path": "./assets/paintings/Portrait/traveler_sketch.jpeg",
     "title": "IMG_6530",
     "date": "2025-09-29"
   },
   {
-    "id": "Watercolor-IMG-9854-jpeg",
-    "filename": "IMG_9854.jpeg",
+    "id": "Watercolor-Wilted-Plant-in-Jar-jpeg",
+    "filename": "Wilted Plant in Jar.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_9854.jpeg",
-    "title": "IMG 9854",
+    "path": "./assets/paintings/Watercolor/Wilted%20Plant%20in%20Jar.jpeg",
+    "title": "Wilted Plant in Jar",
     "date": "2025-09-29"
   },
   {
-    "id": "Watercolor-WaterColor-04-jpg",
-    "filename": "WaterColor_04.jpg",
+    "id": "Watercolor-golden-sunset-jpg",
+    "filename": "golden_sunset.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/WaterColor_04.jpg",
-    "title": "WaterColor 04",
+    "path": "./assets/paintings/Watercolor/golden_sunset.jpg",
+    "title": "golden sunset",
     "date": "2025-09-29"
   },
   {
-    "id": "Portrait-IMG-20250827-143737-jpg",
-    "filename": "IMG_20250827_143737.jpg",
+    "id": "Portrait-man-profile-sketch-jpg",
+    "filename": "man_profile_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20250827_143737.jpg",
-    "title": "IMG 20250827 143737",
+    "path": "./assets/paintings/Portrait/man_profile_sketch.jpg",
+    "title": "man profile sketch",
     "date": "2025-08-27"
   },
   {
-    "id": "Portrait-IMG-20250821-175355-jpg",
-    "filename": "IMG_20250821_175355.jpg",
+    "id": "Portrait-blue-elderly-sketch-jpg",
+    "filename": "blue_elderly_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20250821_175355.jpg",
-    "title": "IMG 20250821 175355",
+    "path": "./assets/paintings/Portrait/blue_elderly_sketch.jpg",
+    "title": "blue elderly sketch",
     "date": "2025-08-21"
   },
   {
-    "id": "Portrait-IMG-20250821-175519-jpg",
-    "filename": "IMG_20250821_175519.jpg",
+    "id": "Portrait-woman-glasses-sketch-jpg",
+    "filename": "woman_glasses_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20250821_175519.jpg",
-    "title": "IMG 20250821 175519",
+    "path": "./assets/paintings/Portrait/woman_glasses_sketch.jpg",
+    "title": "woman glasses sketch",
     "date": "2025-08-21"
   },
   {
-    "id": "Portrait-IMG-20250821-175539-jpg",
-    "filename": "IMG_20250821_175539.jpg",
+    "id": "Portrait-woman-wheelchair-sketch-jpg",
+    "filename": "woman_wheelchair_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20250821_175539.jpg",
-    "title": "IMG 20250821 175539",
+    "path": "./assets/paintings/Portrait/woman_wheelchair_sketch.jpg",
+    "title": "woman wheelchair sketch",
     "date": "2025-08-21"
   },
   {
-    "id": "Portrait-IMG-20250726-142643-jpg",
-    "filename": "IMG_20250726_142643.jpg",
+    "id": "Portrait-old-man-sketch-jpg",
+    "filename": "old_man_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20250726_142643.jpg",
-    "title": "IMG 20250726 142643",
+    "path": "./assets/paintings/Portrait/old_man_sketch.jpg",
+    "title": "old man sketch",
     "date": "2025-07-26"
   },
   {
-    "id": "Watercolor-IMG-20250715-075556-jpg",
-    "filename": "IMG_20250715_075556.jpg",
+    "id": "Watercolor-green-plants-window-jpg",
+    "filename": "green_plants_window.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20250715_075556.jpg",
-    "title": "IMG 20250715 075556",
+    "path": "./assets/paintings/Watercolor/green_plants_window.jpg",
+    "title": "green plants window",
     "date": "2025-07-15"
   },
   {
-    "id": "Watercolor-IMG-9765-jpeg",
-    "filename": "IMG_9765.jpeg",
+    "id": "Watercolor-Sunset-Over-Fields-jpeg",
+    "filename": "Sunset Over Fields.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_9765.jpeg",
-    "title": "IMG 9765",
+    "path": "./assets/paintings/Watercolor/Sunset%20Over%20Fields.jpeg",
+    "title": "Sunset Over Fields",
     "date": "2025-07-03"
   },
   {
-    "id": "Watercolor-IMG-20250621-175427-jpg",
-    "filename": "IMG_20250621_175427.jpg",
+    "id": "Watercolor-red-roses-vase-jpg",
+    "filename": "red_roses_vase.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_20250621_175427.jpg",
-    "title": "IMG 20250621 175427",
+    "path": "./assets/paintings/Watercolor/red_roses_vase.jpg",
+    "title": "red roses vase",
     "date": "2025-06-21"
   },
   {
-    "id": "Portrait-IMG-20250613-120045-jpg",
-    "filename": "IMG_20250613_120045.jpg",
+    "id": "Portrait-charcoal-portrait-sketch-jpeg",
+    "filename": "charcoal_portrait_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20250613_120045.jpg",
-    "title": "IMG 20250613 120045",
-    "date": "2025-06-11"
-  },
-  {
-    "id": "Portrait-IMG-9650-jpeg",
-    "filename": "IMG_9650.jpeg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_9650.jpeg",
-    "title": "IMG 9650",
+    "path": "./assets/paintings/Portrait/charcoal_portrait_sketch.jpeg",
+    "title": "charcoal portrait sketch",
     "date": "2025-04-05"
   },
   {
-    "id": "Portrait-IMG-20250330-191757-jpg",
-    "filename": "IMG_20250330_191757.jpg",
+    "id": "Portrait-man-smiling-sketch-jpg",
+    "filename": "man_smiling_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_20250330_191757.jpg",
-    "title": "IMG 20250330 191757",
+    "path": "./assets/paintings/Portrait/man_smiling_sketch.jpg",
+    "title": "man smiling sketch",
     "date": "2025-03-30"
   },
   {
-    "id": "Portrait-IMG-9570-jpeg",
-    "filename": "IMG_9570.jpeg",
+    "id": "Portrait-mother-children-sketch-jpeg",
+    "filename": "mother_children_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_9570.jpeg",
-    "title": "IMG 9570",
+    "path": "./assets/paintings/Portrait/mother_children_sketch.jpeg",
+    "title": "mother children sketch",
+    "date": "2025-03-12"
+  },
+  {
+    "id": "Portrait-old-man-sketch-jpeg",
+    "filename": "old_man_sketch.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/old_man_sketch.jpeg",
+    "title": "old man sketch",
     "date": "2025-02-25"
   },
   {
-    "id": "Portrait-IMG-9482-jpeg",
-    "filename": "IMG_9482.jpeg",
+    "id": "Portrait-smiling-portrait-sketch-jpeg",
+    "filename": "smiling_portrait_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_9482.jpeg",
-    "title": "IMG 9482",
+    "path": "./assets/paintings/Portrait/smiling_portrait_sketch.jpeg",
+    "title": "smiling portrait sketch",
     "date": "2025-01-28"
   },
   {
-    "id": "Watercolor-Screenshot-2024-png",
-    "filename": "Screenshot 2024.png",
+    "id": "Watercolor-Coastal-Lamp-and-Railing-jpeg",
+    "filename": "Coastal Lamp and Railing.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Screenshot%202024.png",
-    "title": "Screenshot 2024",
+    "path": "./assets/paintings/Watercolor/Coastal%20Lamp%20and%20Railing.jpeg",
+    "title": "IMG_9252",
+    "date": "2024-12-04"
+  },
+  {
+    "id": "Watercolor-Hay-Bales-Field-png",
+    "filename": "Hay Bales Field.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Hay%20Bales%20Field.png",
+    "title": "Hay Bales Field",
     "date": "2024-10-01"
   },
   {
-    "id": "Portrait-IMG-8816-jpeg",
-    "filename": "IMG_8816.jpeg",
+    "id": "Portrait-green-eyes-man-jpeg",
+    "filename": "green_eyes_man.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_8816.jpeg",
-    "title": "IMG 8816",
+    "path": "./assets/paintings/Portrait/green_eyes_man.jpeg",
+    "title": "green eyes man",
     "date": "2024-08-18"
   },
   {
-    "id": "BW-IMG-7527-JPG",
-    "filename": "IMG_7527.JPG",
+    "id": "BW-hay-bales-sketch-JPG",
+    "filename": "hay_bales_sketch.JPG",
     "theme": "BW",
-    "path": "./assets/paintings/BW/IMG_7527.JPG",
-    "title": "IMG 7527",
+    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
+    "title": "hay bales sketch",
     "date": "2024-06-02"
   },
   {
-    "id": "Portrait-IMG-8420-jpeg",
-    "filename": "IMG_8420.jpeg",
+    "id": "Portrait-bearded-man-sketch-jpeg",
+    "filename": "bearded_man_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_8420.jpeg",
-    "title": "IMG 8420",
+    "path": "./assets/paintings/Portrait/bearded_man_sketch.jpeg",
+    "title": "bearded man sketch",
     "date": "2024-05-29"
   },
   {
-    "id": "Watercolor-IMG-7500-JPG",
-    "filename": "IMG_7500.JPG",
+    "id": "Watercolor-Desert-Cypress-Landscape-JPG",
+    "filename": "Desert Cypress Landscape.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7500.JPG",
-    "title": "IMG 7500",
+    "path": "./assets/paintings/Watercolor/Desert%20Cypress%20Landscape.JPG",
+    "title": "Desert Cypress Landscape",
     "date": "2024-05-27"
   },
   {
-    "id": "Portrait-763E57BA-9B94-4621-8428-A2ACF4522EC0-jpeg",
-    "filename": "763E57BA-9B94-4621-8428-A2ACF4522EC0.jpeg",
+    "id": "Portrait-male-portrait-sketch-jpeg",
+    "filename": "male_portrait_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/763E57BA-9B94-4621-8428-A2ACF4522EC0.jpeg",
-    "title": "763E57BA 9B94 4621 8428 A2ACF4522EC0",
+    "path": "./assets/paintings/Portrait/male_portrait_sketch.jpeg",
+    "title": "male portrait sketch",
     "date": "2024-02-20"
   },
   {
-    "id": "Portrait-IMG-6774-jpeg",
-    "filename": "IMG_6774.jpeg",
+    "id": "Portrait-man-glasses-sketch-jpeg",
+    "filename": "man_glasses_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_6774.jpeg",
-    "title": "IMG 6774",
+    "path": "./assets/paintings/Portrait/man_glasses_sketch.jpeg",
+    "title": "man glasses sketch",
     "date": "2024-01-30"
   },
   {
-    "id": "Watercolor-IMG-7722-jpeg",
-    "filename": "IMG_7722.jpeg",
+    "id": "Watercolor-Rose-in-Ceramic-Pot-jpeg",
+    "filename": "Rose in Ceramic Pot.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_7722.jpeg",
-    "title": "IMG 7722",
+    "path": "./assets/paintings/Watercolor/Rose%20in%20Ceramic%20Pot.jpeg",
+    "title": "Rose in Ceramic Pot",
     "date": "2024-01-17"
   },
   {
-    "id": "Watercolor-IMG-6477-jpeg",
-    "filename": "IMG_6477.jpeg",
+    "id": "Watercolor-Rocky-Stream-Landscape-jpeg",
+    "filename": "Rocky Stream Landscape.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_6477.jpeg",
-    "title": "IMG 6477",
+    "path": "./assets/paintings/Watercolor/Rocky%20Stream%20Landscape.jpeg",
+    "title": "Rocky Stream Landscape",
     "date": "2023-12-03"
   },
   {
-    "id": "Portrait-IMG-5981-JPG",
-    "filename": "IMG_5981.JPG",
+    "id": "Portrait-lying-man-sketch-JPG",
+    "filename": "lying_man_sketch.JPG",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_5981.JPG",
-    "title": "IMG 5981",
+    "path": "./assets/paintings/Portrait/lying_man_sketch.JPG",
+    "title": "lying man sketch",
     "date": "2022-10-15"
   },
   {
-    "id": "BW-A4A6EE12-83BE-43E3-BC52-F54588CCFE9C-jpeg",
-    "filename": "A4A6EE12-83BE-43E3-BC52-F54588CCFE9C.jpeg",
+    "id": "BW-cattails-sketch-jpeg",
+    "filename": "cattails_sketch.jpeg",
     "theme": "BW",
-    "path": "./assets/paintings/BW/A4A6EE12-83BE-43E3-BC52-F54588CCFE9C.jpeg",
-    "title": "A4A6EE12 83BE 43E3 BC52 F54588CCFE9C",
+    "path": "./assets/paintings/BW/cattails_sketch.jpeg",
+    "title": "cattails sketch",
     "date": "2022-08-27"
   },
   {
-    "id": "Watercolor-IMG-4708-JPG",
-    "filename": "IMG_4708.JPG",
+    "id": "Watercolor-couple-riding-JPG",
+    "filename": "couple_riding.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/IMG_4708.JPG",
-    "title": "IMG 4708",
+    "path": "./assets/paintings/Watercolor/couple_riding.JPG",
+    "title": "couple riding",
     "date": "2022-07-01"
   },
   {
-    "id": "Watercolor-sis-jpg",
-    "filename": "sis.jpg",
+    "id": "Watercolor-contemplative-sketch-jpg",
+    "filename": "contemplative_sketch.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/sis.jpg",
-    "title": "sis",
+    "path": "./assets/paintings/Watercolor/contemplative_sketch.jpg",
+    "title": "contemplative sketch",
     "date": "2020-03-22"
   },
   {
-    "id": "Portrait-alon-jpg",
-    "filename": "alon.jpg",
+    "id": "Portrait-bearded-profile-jpg",
+    "filename": "bearded_profile.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/alon.jpg",
-    "title": "alon",
+    "path": "./assets/paintings/Portrait/bearded_profile.jpg",
+    "title": "bearded profile",
     "date": "2017-03-28"
   },
   {
-    "id": "Portrait-IMG-0591-JPG",
-    "filename": "IMG_0591.JPG",
+    "id": "Portrait-woman-sketch-JPG",
+    "filename": "woman_sketch.JPG",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/IMG_0591.JPG",
-    "title": "IMG 0591",
+    "path": "./assets/paintings/Portrait/woman_sketch.JPG",
+    "title": "woman sketch",
     "date": "2016-12-06"
   },
   {
-    "id": "Portrait-neta04-jpg",
-    "filename": "neta04.jpg",
+    "id": "Portrait-woman-portrait-sketch-jpg",
+    "filename": "woman_portrait_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/neta04.jpg",
-    "title": "neta04",
+    "path": "./assets/paintings/Portrait/woman_portrait_sketch.jpg",
+    "title": "woman portrait sketch",
     "date": "2016-11-29"
   },
   {
-    "id": "Portrait-Class-07-copy-jpg",
-    "filename": "Class_07 copy.jpg",
+    "id": "Portrait-bald-profile-sketch-jpg",
+    "filename": "bald_profile_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Class_07%20copy.jpg",
-    "title": "Class 07 copy",
+    "path": "./assets/paintings/Portrait/bald_profile_sketch.jpg",
+    "title": "bald profile sketch",
     "date": "2015-02-03"
   }
 ]
