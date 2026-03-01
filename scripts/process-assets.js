@@ -81,7 +81,15 @@ async function processAssets() {
     }
 
     // Sort manifest: Newest Date First
-    manifest.sort((a, b) => new Date(b.date) - new Date(a.date));
+    manifest.sort((a, b) => {
+        const dateA = new Date(a.date);
+        const dateB = new Date(b.date);
+        if (dateB - dateA !== 0) {
+            return dateB - dateA;
+        }
+        // Secondary sort: Filename descending for stable newest-first look
+        return b.filename.localeCompare(a.filename);
+    });
 
     // Write manifest to BOTH locations
     // 1. Root (for local http-server)
