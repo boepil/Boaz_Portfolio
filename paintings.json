@@ -1,5 +1,85 @@
 [
   {
+    "id": "Ai-grok-video-02ccebb2-bb1f-4500-8c81-d1ee9e4bfd58-gif",
+    "filename": "grok_video_02ccebb2_bb1f_4500_8c81_d1ee9e4bfd58.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_02ccebb2_bb1f_4500_8c81_d1ee9e4bfd58.gif",
+    "title": "grok video 02ccebb2 bb1f 4500 8c81 d1ee9e4bfd58",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-12407cd8-51d0-4d99-8693-bec03907f808-gif",
+    "filename": "grok_video_12407cd8_51d0_4d99_8693_bec03907f808.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_12407cd8_51d0_4d99_8693_bec03907f808.gif",
+    "title": "grok video 12407cd8 51d0 4d99 8693 bec03907f808",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-12a2a2a0-6c0b-4cff-a995-f273c5474345-gif",
+    "filename": "grok_video_12a2a2a0_6c0b_4cff_a995_f273c5474345.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_12a2a2a0_6c0b_4cff_a995_f273c5474345.gif",
+    "title": "grok video 12a2a2a0 6c0b 4cff a995 f273c5474345",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-30a92a00-4e25-46ea-a4de-613b06220db5-gif",
+    "filename": "grok_video_30a92a00_4e25_46ea_a4de_613b06220db5.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_30a92a00_4e25_46ea_a4de_613b06220db5.gif",
+    "title": "grok video 30a92a00 4e25 46ea a4de 613b06220db5",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-36ca1e22-2db7-4cbd-aa4a-e0694c418a95-gif",
+    "filename": "grok_video_36ca1e22_2db7_4cbd_aa4a_e0694c418a95.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_36ca1e22_2db7_4cbd_aa4a_e0694c418a95.gif",
+    "title": "grok video 36ca1e22 2db7 4cbd aa4a e0694c418a95",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-3e015e45-55c4-4c4b-b9f5-e913f9b10552-gif",
+    "filename": "grok_video_3e015e45_55c4_4c4b_b9f5_e913f9b10552.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_3e015e45_55c4_4c4b_b9f5_e913f9b10552.gif",
+    "title": "grok video 3e015e45 55c4 4c4b b9f5 e913f9b10552",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-4f2f13d8-eed5-42c4-b85a-d520305c6fdb-gif",
+    "filename": "grok_video_4f2f13d8_eed5_42c4_b85a_d520305c6fdb.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_4f2f13d8_eed5_42c4_b85a_d520305c6fdb.gif",
+    "title": "grok video 4f2f13d8 eed5 42c4 b85a d520305c6fdb",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-62d0828e-2d63-4982-a8d7-f9d502c0d011-gif",
+    "filename": "grok_video_62d0828e_2d63_4982_a8d7_f9d502c0d011.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_62d0828e_2d63_4982_a8d7_f9d502c0d011.gif",
+    "title": "grok video 62d0828e 2d63 4982 a8d7 f9d502c0d011",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-756d197a-6827-4d08-92e6-f62e993b23c9-gif",
+    "filename": "grok_video_756d197a_6827_4d08_92e6_f62e993b23c9.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_756d197a_6827_4d08_92e6_f62e993b23c9.gif",
+    "title": "grok video 756d197a 6827 4d08 92e6 f62e993b23c9",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "Ai-grok-video-bf4ba90f-8b10-4fdc-af51-da1bdc01febb-gif",
+    "filename": "grok_video_bf4ba90f_8b10_4fdc_af51_da1bdc01febb.gif",
+    "theme": "Ai",
+    "path": "./public/assets/paintings/Ai/grok_video_bf4ba90f_8b10_4fdc_af51_da1bdc01febb.gif",
+    "title": "grok video bf4ba90f 8b10 4fdc af51 da1bdc01febb",
+    "date": "2026-03-01"
+  },
+  {
     "id": "Watercolor-cypress-sketch-jpg",
     "filename": "cypress_sketch.jpg",
     "theme": "Watercolor",
