@@ -18,7 +18,7 @@ const lightboxImg = document.getElementById('lightbox-img');
 const captionText = document.getElementById('caption');
 const closeBtn = document.querySelector('.close');
 
-let currentTheme = 'all';
+let currentTheme = 'Watercolor';
 let filteredImages = [];
 let currentIndex = 0;
 
@@ -32,6 +32,11 @@ function renderGallery(filter = 'all') {
     filteredImages = filter === 'all'
         ? paintings
         : paintings.filter(p => p.theme === filter);
+
+    // Initial load: if nothing filtered (e.g. invalid or empty), default to Watercolor if possible
+    if (filteredImages.length === 0 && filter === 'Watercolor') {
+        filteredImages = paintings.filter(p => p.theme === 'Watercolor');
+    }
 
     // Sort by Date (Newest First)
     filteredImages.sort((a, b) => new Date(b.date) - new Date(a.date));
