@@ -5,7 +5,7 @@ async function loadPaintings() {
     try {
         const response = await fetch('./paintings.json');
         paintings = await response.json();
-        renderGallery();
+        renderGallery(currentTheme);
     } catch (error) {
         console.error('Error loading paintings:', error);
     }
@@ -22,7 +22,7 @@ let currentTheme = 'Watercolor';
 let filteredImages = [];
 let currentIndex = 0;
 
-function renderGallery(filter = 'all') {
+function renderGallery(filter = 'Watercolor') {
     // Clear gallery
     gallery.innerHTML = '';
 
