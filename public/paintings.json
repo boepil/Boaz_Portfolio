@@ -104,10 +104,10 @@
     "date": "2026-01-28"
   },
   {
-    "id": "BW-cypress-trees-sketch-jpg",
+    "id": "B-W-cypress-trees-sketch-jpg",
     "filename": "cypress_trees_sketch.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/cypress_trees_sketch.jpg",
+    "theme": "B&W",
+    "path": "./assets/paintings/B%26W/cypress_trees_sketch.jpg",
     "title": "cypress trees sketch",
     "date": "2026-01-23"
   },
@@ -144,10 +144,10 @@
     "date": "2026-01-20"
   },
   {
-    "id": "BW-cyclist-road-sketch-JPG",
+    "id": "B-W-cyclist-road-sketch-JPG",
     "filename": "cyclist_road_sketch.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/cyclist_road_sketch.JPG",
+    "theme": "B&W",
+    "path": "./assets/paintings/B%26W/cyclist_road_sketch.JPG",
     "title": "IMG_8171",
     "date": "2026-01-06"
   },
@@ -184,10 +184,10 @@
     "date": "2025-12-12"
   },
   {
-    "id": "BW-red-goat-sketch-jpg",
+    "id": "B-W-red-goat-sketch-jpg",
     "filename": "red_goat_sketch.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/red_goat_sketch.jpg",
+    "theme": "B&W",
+    "path": "./assets/paintings/B%26W/red_goat_sketch.jpg",
     "title": "red goat sketch",
     "date": "2025-12-11"
   },
@@ -208,10 +208,10 @@
     "date": "2025-12-07"
   },
   {
-    "id": "BW-subway-sketch-JPG",
+    "id": "B-W-subway-sketch-JPG",
     "filename": "subway_sketch.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/subway_sketch.JPG",
+    "theme": "B&W",
+    "path": "./assets/paintings/B%26W/subway_sketch.JPG",
     "title": "subway sketch",
     "date": "2025-12-04"
   },
@@ -312,10 +312,10 @@
     "date": "2025-11-25"
   },
   {
-    "id": "BW-snowy-forest-sketch-jpg",
+    "id": "B-W-snowy-forest-sketch-jpg",
     "filename": "snowy_forest_sketch.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/snowy_forest_sketch.jpg",
+    "theme": "B&W",
+    "path": "./assets/paintings/B%26W/snowy_forest_sketch.jpg",
     "title": "snowy forest sketch",
     "date": "2025-11-16"
   },
@@ -712,10 +712,10 @@
     "date": "2025-10-07"
   },
   {
-    "id": "BW-brown-stairwell-sketch-jpg",
+    "id": "B-W-brown-stairwell-sketch-jpg",
     "filename": "brown_stairwell_sketch.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/brown_stairwell_sketch.jpg",
+    "theme": "B&W",
+    "path": "./assets/paintings/B%26W/brown_stairwell_sketch.jpg",
     "title": "brown stairwell sketch",
     "date": "2025-09-29"
   },
@@ -832,11 +832,11 @@
     "date": "2025-03-12"
   },
   {
-    "id": "Portrait-old-man-sketch-jpeg",
-    "filename": "old_man_sketch.jpeg",
+    "id": "Portrait-old-man-sketch-1772369082583-jpeg",
+    "filename": "old_man_sketch_1772369082583.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/old_man_sketch.jpeg",
-    "title": "old man sketch",
+    "path": "./assets/paintings/Portrait/old_man_sketch_1772369082583.jpeg",
+    "title": "old man sketch 1772369082583",
     "date": "2025-02-25"
   },
   {
@@ -872,10 +872,10 @@
     "date": "2024-08-18"
   },
   {
-    "id": "BW-hay-bales-sketch-JPG",
+    "id": "B-W-hay-bales-sketch-JPG",
     "filename": "hay_bales_sketch.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
+    "theme": "B&W",
+    "path": "./assets/paintings/B%26W/hay_bales_sketch.JPG",
     "title": "hay bales sketch",
     "date": "2024-06-02"
   },
@@ -904,11 +904,11 @@
     "date": "2024-02-20"
   },
   {
-    "id": "Portrait-man-glasses-sketch-jpeg",
-    "filename": "man_glasses_sketch.jpeg",
+    "id": "Portrait-man-glasses-sketch-1772369075812-jpeg",
+    "filename": "man_glasses_sketch_1772369075812.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/man_glasses_sketch.jpeg",
-    "title": "man glasses sketch",
+    "path": "./assets/paintings/Portrait/man_glasses_sketch_1772369075812.jpeg",
+    "title": "man glasses sketch 1772369075812",
     "date": "2024-01-30"
   },
   {
@@ -936,10 +936,10 @@
     "date": "2022-10-15"
   },
   {
-    "id": "BW-cattails-sketch-jpeg",
+    "id": "B-W-cattails-sketch-jpeg",
     "filename": "cattails_sketch.jpeg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/cattails_sketch.jpeg",
+    "theme": "B&W",
+    "path": "./assets/paintings/B%26W/cattails_sketch.jpeg",
     "title": "cattails sketch",
     "date": "2022-08-27"
   },
