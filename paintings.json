@@ -704,14 +704,6 @@
     "date": "2025-09-29"
   },
   {
-    "id": "Watercolor-golden-sunset-jpg",
-    "filename": "golden_sunset.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/golden_sunset.jpg",
-    "title": "golden sunset",
-    "date": "2025-09-29"
-  },
-  {
     "id": "BW-brown-stairwell-sketch-jpg",
     "filename": "brown_stairwell_sketch.jpg",
     "theme": "BW",
