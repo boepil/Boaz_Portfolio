@@ -360,14 +360,6 @@
     "date": "2026-03-04"
   },
   {
-    "id": "Portrait-fashion-sketch-jpg",
-    "filename": "fashion_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
-    "title": "fashion sketch",
-    "date": "2026-03-04"
-  },
-  {
     "id": "Portrait-Elderly-Woman-Sunglasses-png",
     "filename": "Elderly Woman Sunglasses.png",
     "theme": "Portrait",
