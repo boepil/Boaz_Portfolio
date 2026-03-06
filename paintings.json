@@ -880,6 +880,14 @@
     "date": "2022-10-15"
   },
   {
+    "id": "Portrait-OrangeBlueStudy-jpeg",
+    "filename": "OrangeBlueStudy.jpeg",
+    "theme": "Portrait",
+    "path": "./public/assets/paintings/Portrait/OrangeBlueStudy.jpeg",
+    "title": "OrangeBlueStudy",
+    "date": "2022-08-30"
+  },
+  {
     "id": "BW-cattails-sketch-jpeg",
     "filename": "cattails_sketch.jpeg",
     "theme": "BW",
