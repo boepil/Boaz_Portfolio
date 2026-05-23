@@ -168,14 +168,6 @@
     "date": "2026-05-23"
   },
   {
-    "id": "Portrait-Old-Man-Sketchbook-jpg",
-    "filename": "Old Man Sketchbook.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Old%20Man%20Sketchbook.jpg",
-    "title": "Old Man Sketchbook",
-    "date": "2026-05-23"
-  },
-  {
     "id": "Portrait-mother-children-sketch-jpeg",
     "filename": "mother_children_sketch.jpeg",
     "theme": "Portrait",
@@ -384,14 +376,6 @@
     "date": "2026-05-23"
   },
   {
-    "id": "Portrait-fashion-sketch-jpg",
-    "filename": "fashion_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
-    "title": "fashion sketch",
-    "date": "2026-05-23"
-  },
-  {
     "id": "Portrait-Elderly-Woman-Sunglasses-png",
     "filename": "Elderly Woman Sunglasses.png",
     "theme": "Portrait",
@@ -461,38 +445,6 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Biker%20Portrait.png",
     "title": "Biker Portrait",
-    "date": "2026-05-23"
-  },
-  {
-    "id": "Watercolor-andyevansen--2026-04-14T043049-000Z-jpg",
-    "filename": "andyevansen__2026-04-14T043049.000Z.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/andyevansen__2026-04-14T043049.000Z.jpg",
-    "title": "andyevansen  2026 04 14T043049.000Z",
-    "date": "2026-05-23"
-  },
-  {
-    "id": "Watercolor-67626-jpg",
-    "filename": "67626.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/67626.jpg",
-    "title": "67626",
-    "date": "2026-05-23"
-  },
-  {
-    "id": "Watercolor-67625-jpg",
-    "filename": "67625.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/67625.jpg",
-    "title": "67625",
-    "date": "2026-05-23"
-  },
-  {
-    "id": "Watercolor-24478-jpg",
-    "filename": "24478.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/24478.jpg",
-    "title": "24478",
     "date": "2026-05-23"
   },
   {
@@ -576,14 +528,6 @@
     "date": "2025-12-12"
   },
   {
-    "id": "Portrait-woman-suit-sketch-jpg",
-    "filename": "woman_suit_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/woman_suit_sketch.jpg",
-    "title": "woman suit sketch",
-    "date": "2025-12-11"
-  },
-  {
     "id": "BW-red-goat-sketch-jpg",
     "filename": "red_goat_sketch.jpg",
     "theme": "BW",
@@ -622,14 +566,6 @@
     "path": "./assets/paintings/Portrait/thinking_man_headphones.jpg",
     "title": "thinking man headphones",
     "date": "2025-11-27"
-  },
-  {
-    "id": "Portrait-man-writing-sketch-jpg",
-    "filename": "man_writing_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/man_writing_sketch.jpg",
-    "title": "man writing sketch",
-    "date": "2025-11-26"
   },
   {
     "id": "Portrait-man-playing-harmonica-jpg",
@@ -696,14 +632,6 @@
     "date": "2025-10-26"
   },
   {
-    "id": "Portrait-smiling-portrait-jpg",
-    "filename": "smiling_portrait.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/smiling_portrait.jpg",
-    "title": "smiling portrait",
-    "date": "2025-10-26"
-  },
-  {
     "id": "Watercolor-sink-sketch-jpg",
     "filename": "sink_sketch.jpg",
     "theme": "Watercolor",
@@ -760,14 +688,6 @@
     "date": "2025-10-26"
   },
   {
-    "id": "Portrait-hatted-man-sketch-jpg",
-    "filename": "hatted_man_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/hatted_man_sketch.jpg",
-    "title": "hatted man sketch",
-    "date": "2025-10-25"
-  },
-  {
     "id": "Watercolor-yellow-flowers-sky-jpg",
     "filename": "yellow_flowers_sky.jpg",
     "theme": "Watercolor",
@@ -816,14 +736,6 @@
     "date": "2025-09-29"
   },
   {
-    "id": "Portrait-traveler-sketch-jpeg",
-    "filename": "traveler_sketch.jpeg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/traveler_sketch.jpeg",
-    "title": "IMG_6530",
-    "date": "2025-09-29"
-  },
-  {
     "id": "Watercolor-golden-sunset-jpg",
     "filename": "golden_sunset.jpg",
     "theme": "Watercolor",
@@ -861,14 +773,6 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_glasses_sketch.jpg",
     "title": "woman glasses sketch",
-    "date": "2025-08-21"
-  },
-  {
-    "id": "Portrait-blue-elderly-sketch-jpg",
-    "filename": "blue_elderly_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/blue_elderly_sketch.jpg",
-    "title": "blue elderly sketch",
     "date": "2025-08-21"
   },
   {
