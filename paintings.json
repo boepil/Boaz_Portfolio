@@ -1,18 +1,18 @@
 [
   {
-    "id": "Watercolor-White-Flowers-Vase-png",
-    "filename": "White Flowers Vase.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/White%20Flowers%20Vase.png",
-    "title": "White Flowers Vase",
-    "date": "2026-06-14"
-  },
-  {
     "id": "Watercolor-WhatsApp-Image-2026-06-13-at-18-34-14-jpeg",
     "filename": "WhatsApp Image 2026-06-13 at 18.34.14.jpeg",
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/WhatsApp%20Image%202026-06-13%20at%2018.34.14.jpeg",
     "title": "WhatsApp Image 2026 06 13 at 18.34.14",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "BW-WhatsApp-Image-2026-06-13-at-09-32-09-jpeg",
+    "filename": "WhatsApp Image 2026-06-13 at 09.32.09.jpeg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/WhatsApp%20Image%202026-06-13%20at%2009.32.09.jpeg",
+    "title": "WhatsApp Image 2026 06 13 at 09.32.09",
     "date": "2026-06-14"
   },
   {
@@ -93,6 +93,14 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Sunflower%20with%20Leaves.jpeg",
     "title": "Sunflower with Leaves",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "BW-subway-sketch-JPG",
+    "filename": "subway_sketch.JPG",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/subway_sketch.JPG",
+    "title": "subway sketch",
     "date": "2026-06-14"
   },
   {
@@ -424,6 +432,14 @@
     "date": "2026-06-14"
   },
   {
+    "id": "BW-cyclist-road-sketch-JPG",
+    "filename": "cyclist_road_sketch.JPG",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/cyclist_road_sketch.JPG",
+    "title": "IMG_8171",
+    "date": "2026-06-14"
+  },
+  {
     "id": "Watercolor-Country-Road-Trees-png",
     "filename": "Country Road Trees.png",
     "theme": "Watercolor",
@@ -496,6 +512,14 @@
     "date": "2026-03-16"
   },
   {
+    "id": "BW-Tree-and-dog-jpg",
+    "filename": "Tree_and dog.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/Tree_and%20dog.jpg",
+    "title": "Tree and dog",
+    "date": "2026-03-15"
+  },
+  {
     "id": "Watercolor-cypress-sketch-jpg",
     "filename": "cypress_sketch.jpg",
     "theme": "Watercolor",
@@ -520,6 +544,14 @@
     "date": "2026-01-28"
   },
   {
+    "id": "BW-cypress-trees-sketch-jpg",
+    "filename": "cypress_trees_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/cypress_trees_sketch.jpg",
+    "title": "cypress trees sketch",
+    "date": "2026-01-23"
+  },
+  {
     "id": "Portrait-smiling-woman-sketch-jpg",
     "filename": "smiling_woman_sketch.jpg",
     "theme": "Portrait",
@@ -541,6 +573,14 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_suit_sketch.jpg",
     "title": "woman suit sketch",
+    "date": "2025-12-11"
+  },
+  {
+    "id": "BW-red-goat-sketch-jpg",
+    "filename": "red_goat_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/red_goat_sketch.jpg",
+    "title": "red goat sketch",
     "date": "2025-12-11"
   },
   {
@@ -590,6 +630,14 @@
     "path": "./assets/paintings/Portrait/man_playing_harmonica.jpg",
     "title": "man playing harmonica",
     "date": "2025-11-25"
+  },
+  {
+    "id": "BW-snowy-forest-sketch-jpg",
+    "filename": "snowy_forest_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/snowy_forest_sketch.jpg",
+    "title": "snowy forest sketch",
+    "date": "2025-11-16"
   },
   {
     "id": "Watercolor-river-dusk-trees-jpg",
@@ -768,6 +816,14 @@
     "date": "2025-09-29"
   },
   {
+    "id": "BW-brown-stairwell-sketch-jpg",
+    "filename": "brown_stairwell_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/brown_stairwell_sketch.jpg",
+    "title": "brown stairwell sketch",
+    "date": "2025-09-29"
+  },
+  {
     "id": "Portrait-man-profile-sketch-jpg",
     "filename": "man_profile_sketch.jpg",
     "theme": "Portrait",
@@ -824,6 +880,14 @@
     "date": "2025-06-21"
   },
   {
+    "id": "Watercolor-White-Flowers-Vase-png",
+    "filename": "White Flowers Vase.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/White%20Flowers%20Vase.png",
+    "title": "White Flowers Vase",
+    "date": "2025-06-15"
+  },
+  {
     "id": "Portrait-charcoal-portrait-sketch-jpeg",
     "filename": "charcoal_portrait_sketch.jpeg",
     "theme": "Portrait",
@@ -870,6 +934,14 @@
     "path": "./assets/paintings/Portrait/green_eyes_man.jpeg",
     "title": "green eyes man",
     "date": "2024-08-18"
+  },
+  {
+    "id": "BW-hay-bales-sketch-JPG",
+    "filename": "hay_bales_sketch.JPG",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
+    "title": "hay bales sketch",
+    "date": "2024-06-02"
   },
   {
     "id": "Portrait-bearded-man-sketch-jpeg",
@@ -934,6 +1006,14 @@
     "path": "./assets/paintings/Portrait/OrangeBlueStudy.jpeg",
     "title": "OrangeBlueStudy",
     "date": "2022-08-30"
+  },
+  {
+    "id": "BW-cattails-sketch-jpeg",
+    "filename": "cattails_sketch.jpeg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/cattails_sketch.jpeg",
+    "title": "cattails sketch",
+    "date": "2022-08-27"
   },
   {
     "id": "Watercolor-couple-riding-JPG",
