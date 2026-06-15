@@ -46,10 +46,10 @@ async function processAssets() {
                 // Ignore errors
             }
 
-            // Fallback to file creation time if no EXIF or invalid date
+            // FALLBACK: Use a legacy date (1970) if no EXIF or invalid date
+            // This ensures that only paintings with explicit EXIF dates appear at the top.
             if (!dateTaken || isNaN(new Date(dateTaken).getTime())) {
-                const stats = await fs.stat(filePath);
-                dateTaken = stats.birthtime;
+                dateTaken = new Date('1970-01-01');
             }
 
             // Ensure valid Date object
@@ -96,18 +96,6 @@ async function processAssets() {
     await fs.writeFile(MANIFEST_PATH_ROOT, JSON.stringify(manifest, null, 2));
 
     // 2. Public (for Vite build -> dist)
-    // NOTE: For the build, the path in JSON is tricky.
-    // If served from dist root, path should be './assets/...' NOT './public/assets/...'.
-    // BUT we are fixing the missing file first. 
-    // If we use the SAME JSON for both, we need a path that works for both.
-    // Local (Raw): Root index.html -> ./public/assets/... (Correct)
-    // Prod (Dist): Root index.html -> assets are copied to ./assets/... (Vite behavior)
-    // So usually in Dist, 'public' folder name is GONE.
-    // So path should be './assets/...'.
-
-    // Let's create a production-specific manifest for public/?
-    // Or simpler: Use a path replace for the production one.
-
     const manifestProd = manifest.map(item => ({
         ...item,
         path: item.path.replace('./public/assets/', './assets/')
