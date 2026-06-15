@@ -32,6 +32,14 @@
     "date": "2026-06-15"
   },
   {
+    "id": "Portrait-fashion-sketch-jpg",
+    "filename": "fashion_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
+    "title": "fashion sketch",
+    "date": "2026-06-15"
+  },
+  {
     "id": "Watercolor-orian-view-jpg",
     "filename": "orian view.jpg",
     "theme": "Watercolor",
