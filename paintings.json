@@ -1,5 +1,37 @@
 [
   {
+    "id": "Watercolor-Levitan-Lake-MasterCopy-jpg",
+    "filename": "Levitan Lake MasterCopy.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Levitan%20Lake%20MasterCopy.jpg",
+    "title": "Levitan Lake MasterCopy",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "Watercolor-Kochi-s-Place-jpeg",
+    "filename": "Kochi's Place.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Kochi's%20Place.jpeg",
+    "title": "Kochi's Place",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "Watercolor-Klil-autumn-jpeg",
+    "filename": "Klil autumn.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Klil%20autumn.jpeg",
+    "title": "Klil autumn",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "Watercolor-flowers-for-orian-jpeg",
+    "filename": "flowers for orian.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/flowers%20for%20orian.jpeg",
+    "title": "flowers for orian",
+    "date": "2026-06-15"
+  },
+  {
     "id": "Watercolor-orian-view-jpg",
     "filename": "orian view.jpg",
     "theme": "Watercolor",
@@ -48,14 +80,6 @@
     "date": "2026-01-29"
   },
   {
-    "id": "Watercolor-roaring-bear-jpg",
-    "filename": "roaring_bear.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/roaring_bear.jpg",
-    "title": "roaring bear",
-    "date": "2026-01-28"
-  },
-  {
     "id": "BW-cypress-trees-sketch-jpg",
     "filename": "cypress_trees_sketch.jpg",
     "theme": "BW",
@@ -96,14 +120,6 @@
     "date": "2025-12-11"
   },
   {
-    "id": "Portrait-orange-figures-sketch-jpg",
-    "filename": "orange_figures_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/orange_figures_sketch.jpg",
-    "title": "orange figures sketch",
-    "date": "2025-12-07"
-  },
-  {
     "id": "Portrait-orange-hair-sketch-jpg",
     "filename": "orange_hair_sketch.jpg",
     "theme": "Portrait",
@@ -126,14 +142,6 @@
     "path": "./assets/paintings/Portrait/thinking_man_headphones.jpg",
     "title": "thinking man headphones",
     "date": "2025-11-27"
-  },
-  {
-    "id": "Portrait-man-writing-sketch-jpg",
-    "filename": "man_writing_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/man_writing_sketch.jpg",
-    "title": "man writing sketch",
-    "date": "2025-11-26"
   },
   {
     "id": "Portrait-man-playing-harmonica-jpg",
@@ -213,14 +221,6 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/sink_sketch.jpg",
     "title": "sink sketch",
-    "date": "2025-10-26"
-  },
-  {
-    "id": "Watercolor-orange-flower-sketch-jpg",
-    "filename": "orange_flower_sketch.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/orange_flower_sketch.jpg",
-    "title": "orange flower sketch",
     "date": "2025-10-26"
   },
   {
@@ -528,18 +528,18 @@
     "date": "2022-08-27"
   },
   {
-    "id": "Watercolor-couple-riding-JPG",
+    "id": "Portrait-couple-riding-JPG",
     "filename": "couple_riding.JPG",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/couple_riding.JPG",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/couple_riding.JPG",
     "title": "couple riding",
     "date": "2022-07-01"
   },
   {
-    "id": "Watercolor-contemplative-sketch-jpg",
+    "id": "Portrait-contemplative-sketch-jpg",
     "filename": "contemplative_sketch.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/contemplative_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/contemplative_sketch.jpg",
     "title": "contemplative sketch",
     "date": "2020-03-22"
   },
@@ -592,10 +592,10 @@
     "date": "1970-01-01"
   },
   {
-    "id": "Watercolor-watercolor-portrait-red-hair-png",
+    "id": "Portrait-watercolor-portrait-red-hair-png",
     "filename": "watercolor-portrait-red-hair.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/watercolor-portrait-red-hair.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/watercolor-portrait-red-hair.png",
     "title": "watercolor portrait red hair",
     "date": "1970-01-01"
   },
@@ -629,14 +629,6 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/swan_embrace.JPG",
     "title": "swan embrace",
-    "date": "1970-01-01"
-  },
-  {
-    "id": "Watercolor-Swan-Doll-jpeg",
-    "filename": "Swan_Doll.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Swan_Doll.jpeg",
-    "title": "Swan Doll",
     "date": "1970-01-01"
   },
   {
@@ -688,10 +680,10 @@
     "date": "1970-01-01"
   },
   {
-    "id": "Watercolor-Red-Dress-Dancer-png",
+    "id": "Portrait-Red-Dress-Dancer-png",
     "filename": "Red Dress Dancer.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Red%20Dress%20Dancer.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Red%20Dress%20Dancer.png",
     "title": "Red Dress Dancer",
     "date": "1970-01-01"
   },
@@ -720,19 +712,11 @@
     "date": "1970-01-01"
   },
   {
-    "id": "Watercolor-orange-basses-sketch-jpg",
+    "id": "Portrait-orange-basses-sketch-jpg",
     "filename": "orange_basses_sketch.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/orange_basses_sketch.jpg",
-    "title": "orange basses sketch",
-    "date": "1970-01-01"
-  },
-  {
-    "id": "Portrait-older-woman-sketch-jpg",
-    "filename": "older_woman_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/older_woman_sketch.jpg",
-    "title": "older woman sketch",
+    "path": "./assets/paintings/Portrait/orange_basses_sketch.jpg",
+    "title": "orange basses sketch",
     "date": "1970-01-01"
   },
   {
@@ -741,14 +725,6 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/old_man_portrait.jpg",
     "title": "old man portrait",
-    "date": "1970-01-01"
-  },
-  {
-    "id": "Portrait-Old-Man-Sketchbook-jpg",
-    "filename": "Old Man Sketchbook.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Old%20Man%20Sketchbook.jpg",
-    "title": "Old Man Sketchbook",
     "date": "1970-01-01"
   },
   {
@@ -797,22 +773,6 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Man%20By%20Window.png",
     "title": "Man By Window",
-    "date": "1970-01-01"
-  },
-  {
-    "id": "Watercolor-Kochi-s-Place-jpeg",
-    "filename": "Kochi's Place.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Kochi's%20Place.jpeg",
-    "title": "Kochi's Place",
-    "date": "1970-01-01"
-  },
-  {
-    "id": "Watercolor-Klil-autumn-jpeg",
-    "filename": "Klil autumn.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Klil%20autumn.jpeg",
-    "title": "Klil autumn",
     "date": "1970-01-01"
   },
   {
@@ -976,22 +936,6 @@
     "date": "1970-01-01"
   },
   {
-    "id": "Watercolor-flowers-for-orian-jpeg",
-    "filename": "flowers for orian.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/flowers%20for%20orian.jpeg",
-    "title": "flowers for orian",
-    "date": "1970-01-01"
-  },
-  {
-    "id": "Portrait-fashion-sketch-jpg",
-    "filename": "fashion_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
-    "title": "fashion sketch",
-    "date": "1970-01-01"
-  },
-  {
     "id": "Portrait-Elderly-Woman-Sunglasses-png",
     "filename": "Elderly Woman Sunglasses.png",
     "theme": "Portrait",
@@ -1056,10 +1000,10 @@
     "date": "1970-01-01"
   },
   {
-    "id": "Watercolor-Biker-Portrait-png",
+    "id": "Portrait-Biker-Portrait-png",
     "filename": "Biker Portrait.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Biker%20Portrait.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Biker%20Portrait.png",
     "title": "Biker Portrait",
     "date": "1970-01-01"
   }
