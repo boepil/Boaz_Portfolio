@@ -1,5 +1,41 @@
 [
   {
+    "id": "BW-subway-sketch-JPG",
+    "filename": "subway_sketch.JPG",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/subway_sketch.JPG",
+    "title": "subway sketch",
+    "date": "2026-06-15",
+    "sold": 0
+  },
+  {
+    "id": "BW-Edgar-Payne-Master-Copy-jpeg",
+    "filename": "Edgar Payne Master Copy.jpeg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/Edgar%20Payne%20Master%20Copy.jpeg",
+    "title": "Edgar Payne Master Copy",
+    "date": "2026-06-15",
+    "sold": 0
+  },
+  {
+    "id": "BW-cyclist-road-sketch-JPG",
+    "filename": "cyclist_road_sketch.JPG",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/cyclist_road_sketch.JPG",
+    "title": "cyclist road sketch",
+    "date": "2026-06-15",
+    "sold": 0
+  },
+  {
+    "id": "BW-brown-stairwell-sketch-jpg",
+    "filename": "brown_stairwell_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/brown_stairwell_sketch.jpg",
+    "title": "brown stairwell sketch",
+    "date": "2026-06-15",
+    "sold": 0
+  },
+  {
     "id": "Watercolor-Levitan-Lake-MasterCopy-jpg",
     "filename": "Levitan Lake MasterCopy.jpg",
     "theme": "Watercolor",
@@ -423,11 +459,11 @@
     "sold": 0
   },
   {
-    "id": "Portrait-old-man-sketch-1772369082583-jpeg",
-    "filename": "old_man_sketch_1772369082583.jpeg",
+    "id": "Portrait-old-man-sketch-jpeg",
+    "filename": "old_man_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/old_man_sketch_1772369082583.jpeg",
-    "title": "old man sketch 1772369082583",
+    "path": "./assets/paintings/Portrait/old_man_sketch.jpeg",
+    "title": "old man sketch",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -880,6 +916,60 @@
     "title": "Alon",
     "date": "2026-05-01",
     "sold": 1
+  },
+  {
+    "id": "BW-Tree-and-dog-jpg",
+    "filename": "Tree_and dog.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/Tree_and%20dog.jpg",
+    "title": "Tree and dog",
+    "date": "2026-03-15",
+    "sold": 0
+  },
+  {
+    "id": "BW-cypress-trees-sketch-jpg",
+    "filename": "cypress_trees_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/cypress_trees_sketch.jpg",
+    "title": "cypress trees sketch",
+    "date": "2026-01-23",
+    "sold": 0
+  },
+  {
+    "id": "BW-red-goat-sketch-jpg",
+    "filename": "red_goat_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/red_goat_sketch.jpg",
+    "title": "red goat sketch",
+    "date": "2025-12-11",
+    "sold": 0
+  },
+  {
+    "id": "BW-snowy-forest-sketch-jpg",
+    "filename": "snowy_forest_sketch.jpg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/snowy_forest_sketch.jpg",
+    "title": "snowy forest sketch",
+    "date": "2025-11-16",
+    "sold": 0
+  },
+  {
+    "id": "BW-hay-bales-sketch-sold-JPG",
+    "filename": "hay bales sketch_sold.JPG",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/hay%20bales%20sketch_sold.JPG",
+    "title": "hay bales sketch",
+    "date": "2024-06-02",
+    "sold": 1
+  },
+  {
+    "id": "BW-cattails-sketch-jpeg",
+    "filename": "cattails_sketch.jpeg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/cattails_sketch.jpeg",
+    "title": "cattails sketch",
+    "date": "2022-08-27",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-bf4ba90f-8b10-4fdc-af51-da1bdc01febb-gif",
