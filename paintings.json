@@ -252,15 +252,6 @@
     "sold": 0
   },
   {
-    "id": "Portrait-smiling-woman-sketch-sold-jpg",
-    "filename": "smiling_woman_sketch_sold.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/smiling_woman_sketch_sold.jpg",
-    "title": "smiling woman sketch",
-    "date": "2026-05-01",
-    "sold": 1
-  },
-  {
     "id": "Watercolor-sink-sketch-jpg",
     "filename": "sink_sketch.jpg",
     "theme": "Watercolor",
@@ -504,11 +495,11 @@
     "sold": 0
   },
   {
-    "id": "Portrait-man-glasses-sketch-1772369075812-jpeg",
-    "filename": "man_glasses_sketch_1772369075812.jpeg",
+    "id": "Portrait-man-glasses-sketch-jpeg",
+    "filename": "man_glasses_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/man_glasses_sketch_1772369075812.jpeg",
-    "title": "man glasses sketch 1772369075812",
+    "path": "./assets/paintings/Portrait/man_glasses_sketch.jpeg",
+    "title": "man glasses sketch",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -747,6 +738,15 @@
     "sold": 0
   },
   {
+    "id": "Portrait-Dafni-sold-jpg",
+    "filename": "Dafni_sold.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Dafni_sold.jpg",
+    "title": "Dafni",
+    "date": "2026-05-01",
+    "sold": 1
+  },
+  {
     "id": "Watercolor-cypress-sketch-jpg",
     "filename": "cypress_sketch.jpg",
     "theme": "Watercolor",
@@ -774,13 +774,13 @@
     "sold": 0
   },
   {
-    "id": "Portrait-contemplative-sketch-jpg",
-    "filename": "contemplative_sketch.jpg",
+    "id": "Portrait-contemplative-SOLD-jpg",
+    "filename": "contemplative_SOLD.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/contemplative_sketch.jpg",
-    "title": "contemplative sketch",
+    "path": "./assets/paintings/Portrait/contemplative_SOLD.jpg",
+    "title": "contemplative",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Watercolor-Coastal-Lamp-and-Railing-jpeg",
