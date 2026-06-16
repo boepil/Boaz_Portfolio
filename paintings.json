@@ -5,7 +5,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/WhatsApp%20Image%202026-06-13%20at%2009.32.09.jpeg",
     "title": "WhatsApp Image 2026 06 13 at 09.32.09",
-    "date": "2026-06-15"
+    "date": "2026-06-15",
+    "sold": 0
   },
   {
     "id": "BW-subway-sketch-JPG",
@@ -13,7 +14,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/subway_sketch.JPG",
     "title": "subway sketch",
-    "date": "2026-06-15"
+    "date": "2026-06-15",
+    "sold": 0
   },
   {
     "id": "BW-cyclist-road-sketch-JPG",
@@ -21,7 +23,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/cyclist_road_sketch.JPG",
     "title": "cyclist road sketch",
-    "date": "2026-06-15"
+    "date": "2026-06-15",
+    "sold": 0
   },
   {
     "id": "BW-brown-stairwell-sketch-jpg",
@@ -29,7 +32,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/brown_stairwell_sketch.jpg",
     "title": "brown stairwell sketch",
-    "date": "2026-06-15"
+    "date": "2026-06-15",
+    "sold": 0
   },
   {
     "id": "Watercolor-Levitan-Lake-MasterCopy-jpg",
@@ -37,7 +41,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Levitan%20Lake%20MasterCopy.jpg",
     "title": "Levitan Lake MasterCopy",
-    "date": "2026-06-14"
+    "date": "2026-06-14",
+    "sold": 0
   },
   {
     "id": "Watercolor-Kochi-s-Place-jpeg",
@@ -45,7 +50,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Kochi's%20Place.jpeg",
     "title": "Kochi's Place",
-    "date": "2026-06-13"
+    "date": "2026-06-13",
+    "sold": 0
   },
   {
     "id": "Watercolor-Klil-autumn-jpeg",
@@ -53,7 +59,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Klil%20autumn.jpeg",
     "title": "Klil autumn",
-    "date": "2026-06-13"
+    "date": "2026-06-13",
+    "sold": 0
   },
   {
     "id": "Watercolor-flowers-for-orian-jpeg",
@@ -61,7 +68,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/flowers%20for%20orian.jpeg",
     "title": "flowers for orian",
-    "date": "2026-05-15"
+    "date": "2026-05-15",
+    "sold": 0
   },
   {
     "id": "Watercolor-yellow-flowers-sky-jpg",
@@ -69,7 +77,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/yellow_flowers_sky.jpg",
     "title": "yellow flowers sky",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-wooded-path-jpg",
@@ -77,7 +86,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/wooded_path.jpg",
     "title": "wooded path",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-woman-wheelchair-sketch-jpg",
@@ -85,7 +95,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_wheelchair_sketch.jpg",
     "title": "woman wheelchair sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-woman-suit-sketch-jpg",
@@ -93,7 +104,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_suit_sketch.jpg",
     "title": "woman suit sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-woman-sketch-JPG",
@@ -101,7 +113,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_sketch.JPG",
     "title": "woman sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-woman-profile-sketch-jpg",
@@ -109,7 +122,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_profile_sketch.jpg",
     "title": "woman profile sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-woman-portrait-sketch-jpg",
@@ -117,7 +131,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_portrait_sketch.jpg",
     "title": "woman portrait sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-woman-glasses-sketch-jpg",
@@ -125,7 +140,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_glasses_sketch.jpg",
     "title": "woman glasses sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-woman-bottle-sketch-jpg",
@@ -133,7 +149,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/woman_bottle_sketch.jpg",
     "title": "woman bottle sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-wolf-in-the-snow-jpg",
@@ -141,7 +158,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/wolf%20in%20the%20snow.jpg",
     "title": "wolf in the snow",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-winding-chimney-sketch-jpg",
@@ -149,7 +167,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/winding_chimney_sketch.jpg",
     "title": "winding chimney sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Wilted-Plant-in-Jar-jpeg",
@@ -157,7 +176,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Wilted%20Plant%20in%20Jar.jpeg",
     "title": "Wilted Plant in Jar",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-white-rose-watercolor-jpg",
@@ -165,7 +185,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/white-rose-watercolor.jpg",
     "title": "white rose watercolor",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-White-Flowers-Vase-png",
@@ -173,7 +194,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/White%20Flowers%20Vase.png",
     "title": "White Flowers Vase",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-watercolor-portrait-red-hair-png",
@@ -181,7 +203,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/watercolor-portrait-red-hair.png",
     "title": "watercolor portrait red hair",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-water-propagation-jpg",
@@ -189,7 +212,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/water_propagation.jpg",
     "title": "water propagation",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Two-Bald-Men-png",
@@ -197,7 +221,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Two%20Bald%20Men.png",
     "title": "Two Bald Men",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Tree-Branches-Forest-Overlook-jpeg",
@@ -205,7 +230,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Tree%20Branches%20Forest%20Overlook.jpeg",
     "title": "Tree Branches Forest Overlook",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-thinking-man-headphones-jpg",
@@ -213,7 +239,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/thinking_man_headphones.jpg",
     "title": "thinking man headphones",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Tall-Wild-Plant-png",
@@ -221,7 +248,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Tall%20Wild%20Plant.png",
     "title": "Tall Wild Plant",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-swan-embrace-JPG",
@@ -229,7 +257,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/swan_embrace.JPG",
     "title": "swan embrace",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Sunset-Over-Fields-jpeg",
@@ -237,7 +266,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Sunset%20Over%20Fields.jpeg",
     "title": "Sunset Over Fields",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Sunflower-with-Leaves-jpeg",
@@ -245,7 +275,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Sunflower%20with%20Leaves.jpeg",
     "title": "Sunflower with Leaves",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-succulent-jar-jpg",
@@ -253,7 +284,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/succulent_jar.jpg",
     "title": "succulent jar",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Stern-Old-Woman-png",
@@ -261,7 +293,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Stern%20Old%20Woman.png",
     "title": "Stern Old Woman",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-smiling-woman-sketch-jpg",
@@ -269,7 +302,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/smiling_woman_sketch.jpg",
     "title": "smiling woman sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-smiling-portrait-sketch-jpeg",
@@ -277,7 +311,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/smiling_portrait_sketch.jpeg",
     "title": "smiling portrait sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-sink-sketch-jpg",
@@ -285,7 +320,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/sink_sketch.jpg",
     "title": "sink sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Roses-Fern-Jar-png",
@@ -293,7 +329,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Roses%20Fern%20Jar.png",
     "title": "Roses Fern Jar",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Rose-in-Ceramic-Pot-jpeg",
@@ -301,7 +338,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Rose%20in%20Ceramic%20Pot.jpeg",
     "title": "Rose in Ceramic Pot",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Rocky-Stream-Landscape-jpeg",
@@ -309,7 +347,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Rocky%20Stream%20Landscape.jpeg",
     "title": "Rocky Stream Landscape",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-river-dusk-trees-jpg",
@@ -317,7 +356,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/river_dusk_trees.jpg",
     "title": "river dusk trees",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Redhead-Seated-Woman-png",
@@ -325,7 +365,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Redhead%20Seated%20Woman.png",
     "title": "Redhead Seated Woman",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Redhead-Close-Portrait-png",
@@ -333,7 +374,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Redhead%20Close%20Portrait.png",
     "title": "Redhead Close Portrait",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-red-roses-vase-jpg",
@@ -341,7 +383,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/red_roses_vase.jpg",
     "title": "red roses vase",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Red-Dress-Dancer-png",
@@ -349,7 +392,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Red%20Dress%20Dancer.png",
     "title": "Red Dress Dancer",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Reclining-Figure-Charcoal-jpg",
@@ -357,7 +401,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Reclining%20Figure%20Charcoal.jpg",
     "title": "Reclining Figure Charcoal",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Porch-Tree-Lantern-png",
@@ -365,7 +410,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Porch%20Tree%20Lantern.png",
     "title": "Porch Tree Lantern",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-pensive-old-man-jpg",
@@ -373,7 +419,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/pensive_old_man.jpg",
     "title": "pensive old man",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-pensive-man-jpeg",
@@ -381,7 +428,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/pensive_man.jpeg",
     "title": "pensive man",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-orian-view-jpg",
@@ -389,7 +437,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/orian%20view.jpg",
     "title": "orian view",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-OrangeBlueStudy-jpeg",
@@ -397,7 +446,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/OrangeBlueStudy.jpeg",
     "title": "OrangeBlueStudy",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-orange-hair-sketch-jpg",
@@ -405,7 +455,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/orange_hair_sketch.jpg",
     "title": "orange hair sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-orange-basses-sketch-jpg",
@@ -413,7 +464,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/orange_basses_sketch.jpg",
     "title": "orange basses sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-old-man-sketch-jpg",
@@ -421,7 +473,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/old_man_sketch.jpg",
     "title": "old man sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-old-man-sketch-1772369082583-jpeg",
@@ -429,7 +482,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/old_man_sketch_1772369082583.jpeg",
     "title": "old man sketch 1772369082583",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-old-man-portrait-jpg",
@@ -437,7 +491,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/old_man_portrait.jpg",
     "title": "old man portrait",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-mother-children-sketch-jpeg",
@@ -445,7 +500,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/mother_children_sketch.jpeg",
     "title": "mother children sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Misty-Canyon-Stream-png",
@@ -453,7 +509,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Misty%20Canyon%20Stream.png",
     "title": "Misty Canyon Stream",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-man-smiling-sketch-jpg",
@@ -461,7 +518,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/man_smiling_sketch.jpg",
     "title": "man smiling sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-man-sleeping-sketch-jpeg",
@@ -469,7 +527,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/man_sleeping_sketch.jpeg",
     "title": "man sleeping sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-man-profile-sketch-jpg",
@@ -477,7 +536,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/man_profile_sketch.jpg",
     "title": "man profile sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-man-playing-harmonica-jpg",
@@ -485,7 +545,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/man_playing_harmonica.jpg",
     "title": "man playing harmonica",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-man-glasses-sketch-jpg",
@@ -493,7 +554,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/man_glasses_sketch.jpg",
     "title": "man glasses sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-man-glasses-sketch-1772369075812-jpeg",
@@ -501,7 +563,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/man_glasses_sketch_1772369075812.jpeg",
     "title": "man glasses sketch 1772369075812",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-man-floating-sketch-png",
@@ -509,7 +572,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/man_floating_sketch.png",
     "title": "man floating sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Man-Fedora-Hat-png",
@@ -517,7 +581,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Man%20Fedora%20Hat.png",
     "title": "Man Fedora Hat",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Man-By-Window-png",
@@ -525,7 +590,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Man%20By%20Window.png",
     "title": "Man By Window",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-male-portrait-sketch-jpeg",
@@ -533,7 +599,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/male_portrait_sketch.jpeg",
     "title": "male portrait sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-lying-man-sketch-JPG",
@@ -541,7 +608,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/lying_man_sketch.JPG",
     "title": "lying man sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-lastClass-jpg",
@@ -549,7 +617,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/lastClass.jpg",
     "title": "lastClass",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-hidden-cow-jpg",
@@ -557,7 +626,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/hidden_cow.jpg",
     "title": "hidden cow",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Hay-Bales-Field-png",
@@ -565,7 +635,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Hay%20Bales%20Field.png",
     "title": "Hay Bales Field",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-hatted-man-sketch-jpg",
@@ -573,7 +644,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/hatted_man_sketch.jpg",
     "title": "hatted man sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-grimacing-man-jpg",
@@ -581,7 +653,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/grimacing_man.jpg",
     "title": "grimacing man",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-green-plants-window-jpg",
@@ -589,7 +662,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/green_plants_window.jpg",
     "title": "green plants window",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-green-eyes-man-jpeg",
@@ -597,7 +671,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/green_eyes_man.jpeg",
     "title": "green eyes man",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Grapefruit-Still-Life-png",
@@ -605,7 +680,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Grapefruit%20Still%20Life.png",
     "title": "Grapefruit Still Life",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-golden-sunset-jpg",
@@ -613,7 +689,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/golden_sunset.jpg",
     "title": "golden sunset",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-girl-snorkeling-JPG",
@@ -621,7 +698,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/girl_snorkeling.JPG",
     "title": "girl snorkeling",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Garden-Through-Window-png",
@@ -629,7 +707,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Garden%20Through%20Window.png",
     "title": "Garden Through Window",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Forest-View-Window-jpeg",
@@ -637,7 +716,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Forest%20View%20Window.jpeg",
     "title": "Forest View Window",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Forest-Trees-with-Foliage-jpeg",
@@ -645,7 +725,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Forest%20Trees%20with%20Foliage.jpeg",
     "title": "Forest Trees with Foliage",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-foliage-study-jpg",
@@ -653,7 +734,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/foliage_study.jpg",
     "title": "foliage study",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-flute-player-water-jpg",
@@ -661,7 +743,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/flute_player_water.jpg",
     "title": "flute player water",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Farmland-with-Haystacks-jpg",
@@ -669,7 +752,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Farmland%20with%20Haystacks.jpg",
     "title": "Farmland with Haystacks",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Elderly-Woman-Sunglasses-png",
@@ -677,7 +761,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Elderly%20Woman%20Sunglasses.png",
     "title": "Elderly Woman Sunglasses",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Elder-Man-Gesturing-jpeg",
@@ -685,7 +770,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Elder%20Man%20Gesturing.jpeg",
     "title": "Elder Man Gesturing",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Dynamic-Figure-Sketch-png",
@@ -693,7 +779,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Dynamic%20Figure%20Sketch.png",
     "title": "Dynamic Figure Sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Desert-Cypress-Landscape-JPG",
@@ -701,7 +788,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Desert%20Cypress%20Landscape.JPG",
     "title": "Desert Cypress Landscape",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-cypress-sketch-jpg",
@@ -709,7 +797,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/cypress_sketch.jpg",
     "title": "cypress sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-couple-riding-JPG",
@@ -717,7 +806,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/couple_riding.JPG",
     "title": "couple riding",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Country-Road-Trees-png",
@@ -725,7 +815,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Country%20Road%20Trees.png",
     "title": "Country Road Trees",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-contemplative-sketch-jpg",
@@ -733,7 +824,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/contemplative_sketch.jpg",
     "title": "contemplative sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Coastal-Lamp-and-Railing-jpeg",
@@ -741,7 +833,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Coastal%20Lamp%20and%20Railing.jpeg",
     "title": "Coastal Lamp and Railing",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-city-view-sketch-jpg",
@@ -749,7 +842,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/city_view_sketch.jpg",
     "title": "city view sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-City-Skyline-View-png",
@@ -757,7 +851,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/City%20Skyline%20View.png",
     "title": "City Skyline View",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-charcoal-portrait-sketch-jpeg",
@@ -765,7 +860,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/charcoal_portrait_sketch.jpeg",
     "title": "charcoal portrait sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Cactus-jpeg",
@@ -773,7 +869,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Cactus.jpeg",
     "title": "Cactus",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-Cactus-Golden-Light-png",
@@ -781,7 +878,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Cactus%20Golden%20Light.png",
     "title": "Cactus Golden Light",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-blue-street-sketch-jpg",
@@ -789,7 +887,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/blue_street_sketch.jpg",
     "title": "blue street sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-Biker-Portrait-png",
@@ -797,7 +896,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/Biker%20Portrait.png",
     "title": "Biker Portrait",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-bearded-profile-jpg",
@@ -805,7 +905,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/bearded_profile.jpg",
     "title": "bearded profile",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-bearded-man-sketch-jpeg",
@@ -813,7 +914,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/bearded_man_sketch.jpeg",
     "title": "bearded man sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Portrait-bald-profile-sketch-jpg",
@@ -821,7 +923,8 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/bald_profile_sketch.jpg",
     "title": "bald profile sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "Watercolor-balcony-view-sketch-jpg",
@@ -829,7 +932,8 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/balcony_view_sketch.jpg",
     "title": "balcony view sketch",
-    "date": "2026-05-01"
+    "date": "2026-05-01",
+    "sold": 0
   },
   {
     "id": "BW-Tree-and-dog-jpg",
@@ -837,7 +941,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/Tree_and%20dog.jpg",
     "title": "Tree and dog",
-    "date": "2026-03-15"
+    "date": "2026-03-15",
+    "sold": 0
   },
   {
     "id": "BW-cypress-trees-sketch-jpg",
@@ -845,7 +950,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/cypress_trees_sketch.jpg",
     "title": "cypress trees sketch",
-    "date": "2026-01-23"
+    "date": "2026-01-23",
+    "sold": 0
   },
   {
     "id": "BW-red-goat-sketch-jpg",
@@ -853,7 +959,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/red_goat_sketch.jpg",
     "title": "red goat sketch",
-    "date": "2025-12-11"
+    "date": "2025-12-11",
+    "sold": 0
   },
   {
     "id": "BW-snowy-forest-sketch-jpg",
@@ -861,7 +968,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/snowy_forest_sketch.jpg",
     "title": "snowy forest sketch",
-    "date": "2025-11-16"
+    "date": "2025-11-16",
+    "sold": 0
   },
   {
     "id": "BW-hay-bales-sketch-JPG",
@@ -869,7 +977,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
     "title": "hay bales sketch",
-    "date": "2024-06-02"
+    "date": "2024-06-02",
+    "sold": 0
   },
   {
     "id": "BW-cattails-sketch-jpeg",
@@ -877,7 +986,8 @@
     "theme": "BW",
     "path": "./assets/paintings/BW/cattails_sketch.jpeg",
     "title": "cattails sketch",
-    "date": "2022-08-27"
+    "date": "2022-08-27",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-bf4ba90f-8b10-4fdc-af51-da1bdc01febb-gif",
@@ -885,7 +995,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_bf4ba90f_8b10_4fdc_af51_da1bdc01febb.gif",
     "title": "grok video bf4ba90f 8b10 4fdc af51 da1bdc01febb",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-ab536cfb-174b-4a80-8205-733a1c0f482f-5--1-gif",
@@ -893,7 +1004,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1.gif",
     "title": "grok video ab536cfb 174b 4a80 8205 733a1c0f482f 5  1",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-a0c0cb12-fd9a-4771-a63a-9-gif",
@@ -901,7 +1013,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_a0c0cb12_fd9a_4771_a63a_9.gif",
     "title": "grok video a0c0cb12 fd9a 4771 a63a 9",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-8651208d-0dec-4226-9a9f-c36342389980-gif",
@@ -909,7 +1022,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_8651208d_0dec_4226_9a9f_c36342389980.gif",
     "title": "grok video 8651208d 0dec 4226 9a9f c36342389980",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-756d197a-6827-4d08-92e6-f62e993b23c9-gif",
@@ -917,7 +1031,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_756d197a_6827_4d08_92e6_f62e993b23c9.gif",
     "title": "grok video 756d197a 6827 4d08 92e6 f62e993b23c9",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-62d0828e-2d63-4982-a8d7-f9d502c0d011-gif",
@@ -925,7 +1040,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_62d0828e_2d63_4982_a8d7_f9d502c0d011.gif",
     "title": "grok video 62d0828e 2d63 4982 a8d7 f9d502c0d011",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-4f2f13d8-eed5-42c4-b85a-d520305c6fdb-gif",
@@ -933,7 +1049,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_4f2f13d8_eed5_42c4_b85a_d520305c6fdb.gif",
     "title": "grok video 4f2f13d8 eed5 42c4 b85a d520305c6fdb",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-3e015e45-55c4-4c4b-b9f5-e913f9b10552-gif",
@@ -941,7 +1058,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_3e015e45_55c4_4c4b_b9f5_e913f9b10552.gif",
     "title": "grok video 3e015e45 55c4 4c4b b9f5 e913f9b10552",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-36ca1e22-2db7-4cbd-aa4a-e0694c418a95-gif",
@@ -949,7 +1067,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_36ca1e22_2db7_4cbd_aa4a_e0694c418a95.gif",
     "title": "grok video 36ca1e22 2db7 4cbd aa4a e0694c418a95",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-30a92a00-4e25-46ea-a4de-613b06220db5-gif",
@@ -957,7 +1076,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_30a92a00_4e25_46ea_a4de_613b06220db5.gif",
     "title": "grok video 30a92a00 4e25 46ea a4de 613b06220db5",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-12a2a2a0-6c0b-4cff-a995-f273c5474345-gif",
@@ -965,7 +1085,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_12a2a2a0_6c0b_4cff_a995_f273c5474345.gif",
     "title": "grok video 12a2a2a0 6c0b 4cff a995 f273c5474345",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-12407cd8-51d0-4d99-8693-bec03907f808-gif",
@@ -973,7 +1094,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_12407cd8_51d0_4d99_8693_bec03907f808.gif",
     "title": "grok video 12407cd8 51d0 4d99 8693 bec03907f808",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-0ae03994-7c28-462d-8eea-d63881f7d789-1-gif",
@@ -981,7 +1103,8 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1.gif",
     "title": "grok video 0ae03994 7c28 462d 8eea d63881f7d789 1",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   },
   {
     "id": "Ai-grok-video-02ccebb2-bb1f-4500-8c81-d1ee9e4bfd58-gif",
@@ -989,6 +1112,7 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/grok_video_02ccebb2_bb1f_4500_8c81_d1ee9e4bfd58.gif",
     "title": "grok video 02ccebb2 bb1f 4500 8c81 d1ee9e4bfd58",
-    "date": "1970-01-01"
+    "date": "1970-01-01",
+    "sold": 0
   }
 ]
