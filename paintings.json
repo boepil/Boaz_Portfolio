@@ -1,41 +1,5 @@
 [
   {
-    "id": "BW-WhatsApp-Image-2026-06-13-at-09-32-09-jpeg",
-    "filename": "WhatsApp Image 2026-06-13 at 09.32.09.jpeg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/WhatsApp%20Image%202026-06-13%20at%2009.32.09.jpeg",
-    "title": "WhatsApp Image 2026 06 13 at 09.32.09",
-    "date": "2026-06-15",
-    "sold": 0
-  },
-  {
-    "id": "BW-subway-sketch-JPG",
-    "filename": "subway_sketch.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/subway_sketch.JPG",
-    "title": "subway sketch",
-    "date": "2026-06-15",
-    "sold": 0
-  },
-  {
-    "id": "BW-cyclist-road-sketch-JPG",
-    "filename": "cyclist_road_sketch.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/cyclist_road_sketch.JPG",
-    "title": "cyclist road sketch",
-    "date": "2026-06-15",
-    "sold": 0
-  },
-  {
-    "id": "BW-brown-stairwell-sketch-jpg",
-    "filename": "brown_stairwell_sketch.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/brown_stairwell_sketch.jpg",
-    "title": "brown stairwell sketch",
-    "date": "2026-06-15",
-    "sold": 0
-  },
-  {
     "id": "Watercolor-Levitan-Lake-MasterCopy-jpg",
     "filename": "Levitan Lake MasterCopy.jpg",
     "theme": "Watercolor",
@@ -297,13 +261,13 @@
     "sold": 0
   },
   {
-    "id": "Portrait-smiling-woman-sketch-jpg",
-    "filename": "smiling_woman_sketch.jpg",
+    "id": "Portrait-smiling-woman-sketch-sold-jpg",
+    "filename": "smiling_woman_sketch_sold.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/smiling_woman_sketch.jpg",
+    "path": "./assets/paintings/Portrait/smiling_woman_sketch_sold.jpg",
     "title": "smiling woman sketch",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Portrait-smiling-portrait-sketch-jpeg",
@@ -459,13 +423,13 @@
     "sold": 0
   },
   {
-    "id": "Portrait-orange-basses-sketch-jpg",
-    "filename": "orange_basses_sketch.jpg",
+    "id": "Portrait-orange-basses-sketch-sold-jpg",
+    "filename": "orange_basses_sketch_sold.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/orange_basses_sketch.jpg",
+    "path": "./assets/paintings/Portrait/orange_basses_sketch_sold.jpg",
     "title": "orange basses sketch",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Portrait-old-man-sketch-jpg",
@@ -774,13 +738,13 @@
     "sold": 0
   },
   {
-    "id": "Portrait-Dynamic-Figure-Sketch-png",
-    "filename": "Dynamic Figure Sketch.png",
+    "id": "Portrait-Dynamic-Figure-Sketch-SOLD-png",
+    "filename": "Dynamic Figure Sketch_SOLD.png",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Dynamic%20Figure%20Sketch.png",
+    "path": "./assets/paintings/Portrait/Dynamic%20Figure%20Sketch_SOLD.png",
     "title": "Dynamic Figure Sketch",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Watercolor-Desert-Cypress-Landscape-JPG",
@@ -891,13 +855,13 @@
     "sold": 0
   },
   {
-    "id": "Portrait-Biker-Portrait-png",
-    "filename": "Biker Portrait.png",
+    "id": "Portrait-Biker-Portrait-sold-png",
+    "filename": "Biker Portrait_sold.png",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Biker%20Portrait.png",
+    "path": "./assets/paintings/Portrait/Biker%20Portrait_sold.png",
     "title": "Biker Portrait",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Portrait-bearded-profile-jpg",
@@ -933,60 +897,6 @@
     "path": "./assets/paintings/Watercolor/balcony_view_sketch.jpg",
     "title": "balcony view sketch",
     "date": "2026-05-01",
-    "sold": 0
-  },
-  {
-    "id": "BW-Tree-and-dog-jpg",
-    "filename": "Tree_and dog.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/Tree_and%20dog.jpg",
-    "title": "Tree and dog",
-    "date": "2026-03-15",
-    "sold": 0
-  },
-  {
-    "id": "BW-cypress-trees-sketch-jpg",
-    "filename": "cypress_trees_sketch.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/cypress_trees_sketch.jpg",
-    "title": "cypress trees sketch",
-    "date": "2026-01-23",
-    "sold": 0
-  },
-  {
-    "id": "BW-red-goat-sketch-jpg",
-    "filename": "red_goat_sketch.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/red_goat_sketch.jpg",
-    "title": "red goat sketch",
-    "date": "2025-12-11",
-    "sold": 0
-  },
-  {
-    "id": "BW-snowy-forest-sketch-jpg",
-    "filename": "snowy_forest_sketch.jpg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/snowy_forest_sketch.jpg",
-    "title": "snowy forest sketch",
-    "date": "2025-11-16",
-    "sold": 0
-  },
-  {
-    "id": "BW-hay-bales-sketch-JPG",
-    "filename": "hay_bales_sketch.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
-    "title": "hay bales sketch",
-    "date": "2024-06-02",
-    "sold": 0
-  },
-  {
-    "id": "BW-cattails-sketch-jpeg",
-    "filename": "cattails_sketch.jpeg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/cattails_sketch.jpeg",
-    "title": "cattails sketch",
-    "date": "2022-08-27",
     "sold": 0
   },
   {
