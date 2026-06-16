@@ -27,22 +27,13 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-flowers-for-orian-jpeg",
-    "filename": "flowers for orian.jpeg",
+    "id": "Watercolor-flowers-for-orian-sold-jpeg",
+    "filename": "flowers for orian_sold.jpeg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/flowers%20for%20orian.jpeg",
+    "path": "./assets/paintings/Watercolor/flowers%20for%20orian_sold.jpeg",
     "title": "flowers for orian",
     "date": "2026-05-15",
-    "sold": 0
-  },
-  {
-    "id": "Watercolor-yellow-flowers-sky-jpg",
-    "filename": "yellow_flowers_sky.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/yellow_flowers_sky.jpg",
-    "title": "yellow flowers sky",
-    "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Watercolor-wooded-path-jpg",
@@ -144,13 +135,13 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-white-rose-watercolor-jpg",
-    "filename": "white-rose-watercolor.jpg",
+    "id": "Watercolor-white-rose-watercolor-sold-jpg",
+    "filename": "white-rose-watercolor_sold.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/white-rose-watercolor.jpg",
+    "path": "./assets/paintings/Watercolor/white-rose-watercolor_sold.jpg",
     "title": "white rose watercolor",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Watercolor-White-Flowers-Vase-png",
@@ -216,13 +207,13 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-swan-embrace-JPG",
-    "filename": "swan_embrace.JPG",
+    "id": "Watercolor-swan-embrace-sold-JPG",
+    "filename": "swan_embrace_sold.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/swan_embrace.JPG",
+    "path": "./assets/paintings/Watercolor/swan_embrace_sold.JPG",
     "title": "swan embrace",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Watercolor-Sunset-Over-Fields-jpeg",
@@ -270,15 +261,6 @@
     "sold": 1
   },
   {
-    "id": "Portrait-smiling-portrait-sketch-jpeg",
-    "filename": "smiling_portrait_sketch.jpeg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/smiling_portrait_sketch.jpeg",
-    "title": "smiling portrait sketch",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
     "id": "Watercolor-sink-sketch-jpg",
     "filename": "sink_sketch.jpg",
     "theme": "Watercolor",
@@ -288,13 +270,13 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-Roses-Fern-Jar-png",
-    "filename": "Roses Fern Jar.png",
+    "id": "Watercolor-Roses-Fern-Jar-sold-png",
+    "filename": "Roses Fern Jar_sold.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Roses%20Fern%20Jar.png",
+    "path": "./assets/paintings/Watercolor/Roses%20Fern%20Jar_sold.png",
     "title": "Roses Fern Jar",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Watercolor-Rose-in-Ceramic-Pot-jpeg",
@@ -342,13 +324,13 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-red-roses-vase-jpg",
-    "filename": "red_roses_vase.jpg",
+    "id": "Watercolor-red-roses-vase-sold-jpg",
+    "filename": "red roses vase_sold.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/red_roses_vase.jpg",
+    "path": "./assets/paintings/Watercolor/red%20roses%20vase_sold.jpg",
     "title": "red roses vase",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Portrait-Red-Dress-Dancer-png",
@@ -394,6 +376,15 @@
     "title": "pensive man",
     "date": "2026-05-01",
     "sold": 0
+  },
+  {
+    "id": "Portrait-Osher-sold-jpeg",
+    "filename": "Osher_sold.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Osher_sold.jpeg",
+    "title": "Osher",
+    "date": "2026-05-01",
+    "sold": 1
   },
   {
     "id": "Watercolor-orian-view-jpg",
@@ -455,15 +446,6 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/old_man_portrait.jpg",
     "title": "old man portrait",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
-    "id": "Portrait-mother-children-sketch-jpeg",
-    "filename": "mother_children_sketch.jpeg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/mother_children_sketch.jpeg",
-    "title": "mother children sketch",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -594,13 +576,13 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-Hay-Bales-Field-png",
-    "filename": "Hay Bales Field.png",
+    "id": "Watercolor-Hay-Bales-Field-sold-png",
+    "filename": "Hay Bales Field_sold.png",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Hay%20Bales%20Field.png",
+    "path": "./assets/paintings/Watercolor/Hay%20Bales%20Field_sold.png",
     "title": "Hay Bales Field",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Portrait-hatted-man-sketch-jpg",
@@ -657,13 +639,13 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-girl-snorkeling-JPG",
-    "filename": "girl_snorkeling.JPG",
+    "id": "Watercolor-girl-snorkeling-sold-JPG",
+    "filename": "girl_snorkeling_sold.JPG",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/girl_snorkeling.JPG",
+    "path": "./assets/paintings/Watercolor/girl_snorkeling_sold.JPG",
     "title": "girl snorkeling",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "Watercolor-Garden-Through-Window-png",
@@ -673,6 +655,15 @@
     "title": "Garden Through Window",
     "date": "2026-05-01",
     "sold": 0
+  },
+  {
+    "id": "Portrait-Gal-sold-png",
+    "filename": "Gal_sold.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Gal_sold.png",
+    "title": "Gal",
+    "date": "2026-05-01",
+    "sold": 1
   },
   {
     "id": "Watercolor-Forest-View-Window-jpeg",
@@ -720,6 +711,15 @@
     "sold": 0
   },
   {
+    "id": "Portrait-Familly-sold-jpeg",
+    "filename": "Familly_sold.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Familly_sold.jpeg",
+    "title": "Familly",
+    "date": "2026-05-01",
+    "sold": 1
+  },
+  {
     "id": "Portrait-Elderly-Woman-Sunglasses-png",
     "filename": "Elderly Woman Sunglasses.png",
     "theme": "Portrait",
@@ -736,15 +736,6 @@
     "title": "Elder Man Gesturing",
     "date": "2026-05-01",
     "sold": 0
-  },
-  {
-    "id": "Portrait-Dynamic-Figure-Sketch-SOLD-png",
-    "filename": "Dynamic Figure Sketch_SOLD.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Dynamic%20Figure%20Sketch_SOLD.png",
-    "title": "Dynamic Figure Sketch",
-    "date": "2026-05-01",
-    "sold": 1
   },
   {
     "id": "Watercolor-Desert-Cypress-Landscape-JPG",
@@ -855,24 +846,6 @@
     "sold": 0
   },
   {
-    "id": "Portrait-Biker-Portrait-sold-png",
-    "filename": "Biker Portrait_sold.png",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Biker%20Portrait_sold.png",
-    "title": "Biker Portrait",
-    "date": "2026-05-01",
-    "sold": 1
-  },
-  {
-    "id": "Portrait-bearded-profile-jpg",
-    "filename": "bearded_profile.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/bearded_profile.jpg",
-    "title": "bearded profile",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
     "id": "Portrait-bearded-man-sketch-jpeg",
     "filename": "bearded_man_sketch.jpeg",
     "theme": "Portrait",
@@ -891,13 +864,22 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-balcony-view-sketch-jpg",
-    "filename": "balcony_view_sketch.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/balcony_view_sketch.jpg",
-    "title": "balcony view sketch",
+    "id": "Portrait-Asia-Hip-hop-SOLD-png",
+    "filename": "Asia Hip hop_SOLD.png",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Asia%20Hip%20hop_SOLD.png",
+    "title": "Asia Hip hop",
     "date": "2026-05-01",
-    "sold": 0
+    "sold": 1
+  },
+  {
+    "id": "Portrait-Alon-sold-jpg",
+    "filename": "Alon_sold.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Alon_sold.jpg",
+    "title": "Alon",
+    "date": "2026-05-01",
+    "sold": 1
   },
   {
     "id": "Ai-grok-video-bf4ba90f-8b10-4fdc-af51-da1bdc01febb-gif",
