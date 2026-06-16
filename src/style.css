@@ -170,12 +170,46 @@ main {
     filter: grayscale(0%);
 }
 
-/* Hide info by default, show on hover/lightbox only?? 
-   Actually, for a clean look, let's hide it completely here 
-   and only show in Lightbox, OR subtle show on hover.
-   Let's keep it clean: No text under images in grid. */
+/* Show title and sold status on hover with a frosted glass overlay */
 .gallery-item .info {
-    display: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.5rem 1rem;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(4px);
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+}
+
+.gallery-item:hover .info {
+    transform: translateY(0);
+}
+
+.gallery-item .info .title {
+    font-family: var(--font-primary);
+    color: var(--heading-color);
+    font-weight: 500;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.sold-badge {
+    color: #d4af37; /* Elegant Gold */
+    border: 1px solid #d4af37;
+    background: rgba(212, 175, 55, 0.05);
+    padding: 2px 6px;
+    margin-left: 10px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border-radius: 3px;
+    letter-spacing: 1px;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 /* Lightbox */

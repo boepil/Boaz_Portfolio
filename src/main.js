@@ -70,6 +70,7 @@ function renderGallery(filter = 'Watercolor') {
             <img src="${p.path}" alt="${p.filename}" loading="lazy">
             <div class="info">
                 <div class="title">${p.title}</div>
+                ${p.sold === 1 ? '<div class="sold-badge">SOLD</div>' : ''}
             </div>
         `;
         item.onclick = () => openLightbox(index);
@@ -102,7 +103,7 @@ function openLightbox(index) {
     const dateObj = new Date(p.date);
     const dateStr = !isNaN(dateObj) ? dateObj.getFullYear() : '';
 
-    captionText.innerHTML = `<strong>${p.title}</strong><small>${p.theme} ${dateStr ? '• ' + dateStr : ''}</small>`;
+    captionText.innerHTML = `<strong>${p.title}</strong> ${p.sold === 1 ? '<span class="sold-badge">SOLD</span>' : ''}<br><small>${p.theme} ${dateStr ? '• ' + dateStr : ''}</small>`;
     document.body.style.overflow = 'hidden';
 }
 
@@ -120,7 +121,7 @@ function navigateCarousel(direction) {
 
         const dateObj = new Date(p.date);
         const dateStr = !isNaN(dateObj) ? dateObj.getFullYear() : '';
-        captionText.innerHTML = `<strong>${p.title}</strong><small>${p.theme} ${dateStr ? '• ' + dateStr : ''}</small>`;
+        captionText.innerHTML = `<strong>${p.title}</strong> ${p.sold === 1 ? '<span class="sold-badge">SOLD</span>' : ''}<br><small>${p.theme} ${dateStr ? '• ' + dateStr : ''}</small>`;
 
         lightboxImg.style.opacity = 1;
     }, 200);

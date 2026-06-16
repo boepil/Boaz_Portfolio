@@ -67,7 +67,15 @@ async function processAssets() {
             const rawFilename = path.parse(file).name;
             const cleanFilename = rawFilename.replace(/[_-]/g, ' ');
 
-            const displayTitle = metadataTitle ? metadataTitle : cleanFilename;
+            let displayTitle = metadataTitle ? metadataTitle : cleanFilename;
+            
+            // Check for 'sold' tag (e.g., _sold, [sold], sold)
+            let isSold = 0;
+            const soldRegex = /\s*[_\[]?sold[\]]?\s*$/i;
+            if (soldRegex.test(displayTitle)) {
+                isSold = 1;
+                displayTitle = displayTitle.replace(soldRegex, '').trim();
+            }
 
             manifest.push({
                 id: `${theme}-${file}`.replace(/[^a-zA-Z0-9]/g, '-'),
@@ -75,7 +83,8 @@ async function processAssets() {
                 theme: theme,
                 path: `./public/assets/paintings/${encodeURIComponent(theme)}/${encodeURIComponent(file).replace(/\(/g, '%28').replace(/\)/g, '%29').replace(/#/g, '%23')}`,
                 title: displayTitle,
-                date: dateStr
+                date: dateStr,
+                sold: isSold
             });
         }
     }
