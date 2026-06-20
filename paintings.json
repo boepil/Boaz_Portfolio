@@ -135,15 +135,6 @@
     "sold": 0
   },
   {
-    "id": "Portrait-woman-glasses-sketch-jpg",
-    "filename": "woman_glasses_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/woman_glasses_sketch.jpg",
-    "title": "woman glasses sketch",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
     "id": "Portrait-woman-bottle-sketch-jpg",
     "filename": "woman_bottle_sketch.jpg",
     "theme": "Portrait",
@@ -212,6 +203,15 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/water_propagation.jpg",
     "title": "water propagation",
+    "date": "2026-05-01",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-Uri-jpg",
+    "filename": "Uri.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Uri.jpg",
+    "title": "Uri",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -450,15 +450,6 @@
     "sold": 1
   },
   {
-    "id": "Portrait-old-man-sketch-jpg",
-    "filename": "old_man_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/old_man_sketch.jpg",
-    "title": "old man sketch",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
     "id": "Portrait-old-man-sketch-jpeg",
     "filename": "old_man_sketch.jpeg",
     "theme": "Portrait",
@@ -621,11 +612,20 @@
     "sold": 0
   },
   {
-    "id": "Portrait-grimacing-man-jpg",
-    "filename": "grimacing_man.jpg",
+    "id": "Portrait-grimacing-sketch-jpg",
+    "filename": "grimacing_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/grimacing_man.jpg",
-    "title": "grimacing man",
+    "path": "./assets/paintings/Portrait/grimacing_sketch.jpg",
+    "title": "grimacing sketch",
+    "date": "2026-05-01",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-grimacing-color-jpg",
+    "filename": "grimacing_color.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/grimacing_color.jpg",
+    "title": "grimacing color",
     "date": "2026-05-01",
     "sold": 0
   },
