@@ -1,5 +1,14 @@
 [
   {
+    "id": "Portrait-Neomy-jpg",
+    "filename": "Neomy.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Neomy.jpg",
+    "title": "Neomy",
+    "date": "2026-06-20",
+    "sold": 0
+  },
+  {
     "id": "BW-subway-sketch-JPG",
     "filename": "subway_sketch.JPG",
     "theme": "BW",
@@ -324,15 +333,6 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-river-dusk-trees-jpg",
-    "filename": "river_dusk_trees.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/river_dusk_trees.jpg",
-    "title": "river dusk trees",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
     "id": "Portrait-Redhead-Seated-Woman-png",
     "filename": "Redhead Seated Woman.png",
     "theme": "Portrait",
@@ -450,20 +450,20 @@
     "sold": 1
   },
   {
-    "id": "Portrait-old-man-sketch-jpg",
-    "filename": "old_man_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/old_man_sketch.jpg",
-    "title": "old man sketch",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
     "id": "Portrait-old-man-sketch-jpeg",
     "filename": "old_man_sketch.jpeg",
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/old_man_sketch.jpeg",
     "title": "old man sketch",
+    "date": "2026-05-01",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-old-man-sketch-1781859605286-jpg",
+    "filename": "old_man_sketch_1781859605286.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/old_man_sketch_1781859605286.jpg",
+    "title": "old man sketch 1781859605286",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -531,11 +531,11 @@
     "sold": 0
   },
   {
-    "id": "Portrait-man-glasses-sketch-jpeg",
-    "filename": "man_glasses_sketch.jpeg",
+    "id": "Portrait-man-glasses-sketch-1781859602251-jpeg",
+    "filename": "man_glasses_sketch_1781859602251.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/man_glasses_sketch.jpeg",
-    "title": "man glasses sketch",
+    "path": "./assets/paintings/Portrait/man_glasses_sketch_1781859602251.jpeg",
+    "title": "man glasses sketch 1781859602251",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -918,6 +918,15 @@
     "sold": 1
   },
   {
+    "id": "Watercolor-abrahamson-Master-Study-jpg",
+    "filename": "abrahamson_Master Study.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/abrahamson_Master%20Study.jpg",
+    "title": "abrahamson Master Study",
+    "date": "2026-05-01",
+    "sold": 0
+  },
+  {
     "id": "BW-Tree-and-dog-jpg",
     "filename": "Tree_and dog.jpg",
     "theme": "BW",
@@ -954,13 +963,13 @@
     "sold": 0
   },
   {
-    "id": "BW-hay-bales-sketch-sold-JPG",
-    "filename": "hay bales sketch_sold.JPG",
+    "id": "BW-hay-bales-sketch-JPG",
+    "filename": "hay_bales_sketch.JPG",
     "theme": "BW",
-    "path": "./assets/paintings/BW/hay%20bales%20sketch_sold.JPG",
+    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
     "title": "hay bales sketch",
     "date": "2024-06-02",
-    "sold": 1
+    "sold": 0
   },
   {
     "id": "BW-cattails-sketch-jpeg",
