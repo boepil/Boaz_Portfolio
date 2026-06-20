@@ -963,13 +963,13 @@
     "sold": 0
   },
   {
-    "id": "BW-hay-bales-sketch-JPG",
-    "filename": "hay_bales_sketch.JPG",
+    "id": "BW-hay-bales-sketch-Sold-JPG",
+    "filename": "hay_bales_sketch_Sold.JPG",
     "theme": "BW",
-    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
+    "path": "./assets/paintings/BW/hay_bales_sketch_Sold.JPG",
     "title": "hay bales sketch",
     "date": "2024-06-02",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "BW-cattails-sketch-jpeg",
