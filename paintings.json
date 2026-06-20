@@ -423,20 +423,20 @@
     "sold": 0
   },
   {
-    "id": "Portrait-OrangeBlueStudy-jpeg",
-    "filename": "OrangeBlueStudy.jpeg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/OrangeBlueStudy.jpeg",
-    "title": "OrangeBlueStudy",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
     "id": "Portrait-orange-hair-sketch-jpg",
     "filename": "orange_hair_sketch.jpg",
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/orange_hair_sketch.jpg",
     "title": "orange hair sketch",
+    "date": "2026-05-01",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-Orange-Blue-Study-jpeg",
+    "filename": "Orange_Blue_Study.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Orange_Blue_Study.jpeg",
+    "title": "Orange Blue Study",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -450,20 +450,20 @@
     "sold": 1
   },
   {
-    "id": "Portrait-old-man-sketch-jpeg",
-    "filename": "old_man_sketch.jpeg",
+    "id": "Portrait-old-man-sketch-jpg",
+    "filename": "old_man_sketch.jpg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/old_man_sketch.jpeg",
+    "path": "./assets/paintings/Portrait/old_man_sketch.jpg",
     "title": "old man sketch",
     "date": "2026-05-01",
     "sold": 0
   },
   {
-    "id": "Portrait-old-man-sketch-1781859605286-jpg",
-    "filename": "old_man_sketch_1781859605286.jpg",
+    "id": "Portrait-old-man-sketch-jpeg",
+    "filename": "old_man_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/old_man_sketch_1781859605286.jpg",
-    "title": "old man sketch 1781859605286",
+    "path": "./assets/paintings/Portrait/old_man_sketch.jpeg",
+    "title": "old man sketch",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -531,11 +531,11 @@
     "sold": 0
   },
   {
-    "id": "Portrait-man-glasses-sketch-1781859602251-jpeg",
-    "filename": "man_glasses_sketch_1781859602251.jpeg",
+    "id": "Portrait-man-glasses-sketch-jpeg",
+    "filename": "man_glasses_sketch.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/man_glasses_sketch_1781859602251.jpeg",
-    "title": "man glasses sketch 1781859602251",
+    "path": "./assets/paintings/Portrait/man_glasses_sketch.jpeg",
+    "title": "man glasses sketch",
     "date": "2026-05-01",
     "sold": 0
   },
