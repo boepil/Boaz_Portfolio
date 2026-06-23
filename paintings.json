@@ -1,23 +1,5 @@
 [
   {
-    "id": "Watercolor-yellow-flowers-sky-jpg",
-    "filename": "yellow_flowers_sky.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/yellow_flowers_sky.jpg",
-    "title": "yellow flowers sky",
-    "date": "2026-06-23",
-    "sold": 0
-  },
-  {
-    "id": "Watercolor-Swan-Doll-jpeg",
-    "filename": "Swan_Doll.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Swan_Doll.jpeg",
-    "title": "Swan Doll",
-    "date": "2026-06-23",
-    "sold": 0
-  },
-  {
     "id": "Portrait-older-woman-sketch-jpg",
     "filename": "older_woman_sketch.jpg",
     "theme": "Portrait",
@@ -41,15 +23,6 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
     "title": "fashion sketch",
-    "date": "2026-06-23",
-    "sold": 0
-  },
-  {
-    "id": "Watercolor-Biker-Portrait-png",
-    "filename": "Biker Portrait.png",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Biker%20Portrait.png",
-    "title": "Biker Portrait",
     "date": "2026-06-23",
     "sold": 0
   },
@@ -99,11 +72,11 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-Levitan-Lake-MasterCopy-jpg",
-    "filename": "Levitan Lake MasterCopy.jpg",
+    "id": "Watercolor-Isaac-Levitan-Master-Copy-jpg",
+    "filename": "Isaac Levitan Master Copy.jpg",
     "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Levitan%20Lake%20MasterCopy.jpg",
-    "title": "Levitan Lake MasterCopy",
+    "path": "./assets/paintings/Watercolor/Isaac%20Levitan%20Master%20Copy.jpg",
+    "title": "Isaac Levitan Master Copy",
     "date": "2026-06-14",
     "sold": 0
   },
@@ -320,15 +293,6 @@
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/Sunset%20Over%20Fields.jpeg",
     "title": "Sunset Over Fields",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
-    "id": "Watercolor-Sunflower-with-Leaves-jpeg",
-    "filename": "Sunflower with Leaves.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Sunflower%20with%20Leaves.jpeg",
-    "title": "Sunflower with Leaves",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -756,15 +720,6 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-Forest-Trees-with-Foliage-jpeg",
-    "filename": "Forest Trees with Foliage.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Forest%20Trees%20with%20Foliage.jpeg",
-    "title": "Forest Trees with Foliage",
-    "date": "2026-05-01",
-    "sold": 0
-  },
-  {
     "id": "Watercolor-foliage-study-jpg",
     "filename": "foliage_study.jpg",
     "theme": "Watercolor",
@@ -990,15 +945,6 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-roaring-bear-jpg",
-    "filename": "roaring_bear.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/roaring_bear.jpg",
-    "title": "roaring bear",
-    "date": "2026-01-28",
-    "sold": 0
-  },
-  {
     "id": "BW-cypress-trees-sketch-jpg",
     "filename": "cypress_trees_sketch.jpg",
     "theme": "BW",
@@ -1014,24 +960,6 @@
     "path": "./assets/paintings/BW/red_goat_sketch.jpg",
     "title": "red goat sketch",
     "date": "2025-12-11",
-    "sold": 0
-  },
-  {
-    "id": "Portrait-orange-figures-sketch-jpg",
-    "filename": "orange_figures_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/orange_figures_sketch.jpg",
-    "title": "orange figures sketch",
-    "date": "2025-12-07",
-    "sold": 0
-  },
-  {
-    "id": "Portrait-man-writing-sketch-jpg",
-    "filename": "man_writing_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/man_writing_sketch.jpg",
-    "title": "man writing sketch",
-    "date": "2025-11-26",
     "sold": 0
   },
   {
@@ -1053,15 +981,6 @@
     "sold": 0
   },
   {
-    "id": "Portrait-smiling-portrait-jpg",
-    "filename": "smiling_portrait.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/smiling_portrait.jpg",
-    "title": "smiling portrait",
-    "date": "2025-10-26",
-    "sold": 0
-  },
-  {
     "id": "Watercolor-orange-flower-sketch-jpg",
     "filename": "orange_flower_sketch.jpg",
     "theme": "Watercolor",
@@ -1071,22 +990,13 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-balcony-view-sketch-jpg",
-    "filename": "balcony_view_sketch.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/balcony_view_sketch.jpg",
-    "title": "balcony view sketch",
-    "date": "2025-10-26",
-    "sold": 0
-  },
-  {
-    "id": "BW-hay-bales-sketch-JPG",
-    "filename": "hay_bales_sketch.JPG",
+    "id": "BW-hay-bales-sketch-Sold-JPG",
+    "filename": "hay_bales_sketch_Sold.JPG",
     "theme": "BW",
-    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
+    "path": "./assets/paintings/BW/hay_bales_sketch_Sold.JPG",
     "title": "hay bales sketch",
     "date": "2024-06-02",
-    "sold": 0
+    "sold": 1
   },
   {
     "id": "BW-cattails-sketch-jpeg",
