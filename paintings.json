@@ -1,32 +1,5 @@
 [
   {
-    "id": "Portrait-older-woman-sketch-jpg",
-    "filename": "older_woman_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/older_woman_sketch.jpg",
-    "title": "older woman sketch",
-    "date": "2026-06-23",
-    "sold": 0
-  },
-  {
-    "id": "Portrait-Old-Man-Sketchbook-jpg",
-    "filename": "Old Man Sketchbook.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Old%20Man%20Sketchbook.jpg",
-    "title": "Old Man Sketchbook",
-    "date": "2026-06-23",
-    "sold": 0
-  },
-  {
-    "id": "Portrait-fashion-sketch-jpg",
-    "filename": "fashion_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
-    "title": "fashion sketch",
-    "date": "2026-06-23",
-    "sold": 0
-  },
-  {
     "id": "Portrait-Neomy-jpg",
     "filename": "Neomy.jpg",
     "theme": "Portrait",
