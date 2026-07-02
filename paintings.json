@@ -999,15 +999,6 @@
     "sold": 0
   },
   {
-    "id": "BW-hay-bales-sketch-JPG",
-    "filename": "hay_bales_sketch.JPG",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
-    "title": "hay bales sketch",
-    "date": "2024-06-02",
-    "sold": 0
-  },
-  {
     "id": "BW-hay-bales-sketch-Sold-JPG",
     "filename": "hay_bales_sketch_Sold.JPG",
     "theme": "BW",
@@ -1035,15 +1026,6 @@
     "sold": 0
   },
   {
-    "id": "Ai-THEQ-gif",
-    "filename": "THEQ.gif",
-    "theme": "Ai",
-    "path": "./assets/paintings/Ai/THEQ.gif",
-    "title": "THEQ",
-    "date": "1970-01-01",
-    "sold": 0
-  },
-  {
     "id": "Ai-THE-Q-gif",
     "filename": "THE_Q.gif",
     "theme": "Ai",
@@ -1067,15 +1049,6 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/SWAN.gif",
     "title": "SWAN",
-    "date": "1970-01-01",
-    "sold": 0
-  },
-  {
-    "id": "Ai-SUN---TURTLE-gif",
-    "filename": "SUNשמגTURTLE.gif",
-    "theme": "Ai",
-    "path": "./assets/paintings/Ai/SUN%D7%A9%D7%9E%D7%92TURTLE.gif",
-    "title": "SUNשמגTURTLE",
     "date": "1970-01-01",
     "sold": 0
   },
@@ -1125,15 +1098,6 @@
     "sold": 0
   },
   {
-    "id": "Ai-GRADEN-gif",
-    "filename": "GRADEN.gif",
-    "theme": "Ai",
-    "path": "./assets/paintings/Ai/GRADEN.gif",
-    "title": "GRADEN",
-    "date": "1970-01-01",
-    "sold": 0
-  },
-  {
     "id": "Ai-GARDEN-gif",
     "filename": "GARDEN.gif",
     "theme": "Ai",
@@ -1161,38 +1125,11 @@
     "sold": 0
   },
   {
-    "id": "Ai-DOGTAIL-gif",
-    "filename": "DOGTAIL.gif",
-    "theme": "Ai",
-    "path": "./assets/paintings/Ai/DOGTAIL.gif",
-    "title": "DOGTAIL",
-    "date": "1970-01-01",
-    "sold": 0
-  },
-  {
     "id": "Ai-DOG-TAIL-gif",
     "filename": "DOG_TAIL.gif",
     "theme": "Ai",
     "path": "./assets/paintings/Ai/DOG_TAIL.gif",
     "title": "DOG TAIL",
-    "date": "1970-01-01",
-    "sold": 0
-  },
-  {
-    "id": "Ai-DAGBIRD-gif",
-    "filename": "DAGBIRD.gif",
-    "theme": "Ai",
-    "path": "./assets/paintings/Ai/DAGBIRD.gif",
-    "title": "DAGBIRD",
-    "date": "1970-01-01",
-    "sold": 0
-  },
-  {
-    "id": "Ai-2DPORTRAIT-gif",
-    "filename": "2DPORTRAIT.gif",
-    "theme": "Ai",
-    "path": "./assets/paintings/Ai/2DPORTRAIT.gif",
-    "title": "2DPORTRAIT",
     "date": "1970-01-01",
     "sold": 0
   },
