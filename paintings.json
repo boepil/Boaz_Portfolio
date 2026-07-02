@@ -9,60 +9,6 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-Swan-Doll-jpeg",
-    "filename": "Swan_Doll.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Swan_Doll.jpeg",
-    "title": "Swan Doll",
-    "date": "2026-07-02",
-    "sold": 0
-  },
-  {
-    "id": "Watercolor-Sunflower-with-Leaves-jpeg",
-    "filename": "Sunflower with Leaves.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Sunflower%20with%20Leaves.jpeg",
-    "title": "Sunflower with Leaves",
-    "date": "2026-07-02",
-    "sold": 0
-  },
-  {
-    "id": "Portrait-older-woman-sketch-jpg",
-    "filename": "older_woman_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/older_woman_sketch.jpg",
-    "title": "older woman sketch",
-    "date": "2026-07-02",
-    "sold": 0
-  },
-  {
-    "id": "Portrait-Old-Man-Sketchbook-jpg",
-    "filename": "Old Man Sketchbook.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/Old%20Man%20Sketchbook.jpg",
-    "title": "Old Man Sketchbook",
-    "date": "2026-07-02",
-    "sold": 0
-  },
-  {
-    "id": "Watercolor-Forest-Trees-with-Foliage-jpeg",
-    "filename": "Forest Trees with Foliage.jpeg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/Forest%20Trees%20with%20Foliage.jpeg",
-    "title": "Forest Trees with Foliage",
-    "date": "2026-07-02",
-    "sold": 0
-  },
-  {
-    "id": "Portrait-fashion-sketch-jpg",
-    "filename": "fashion_sketch.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
-    "title": "fashion sketch",
-    "date": "2026-07-02",
-    "sold": 0
-  },
-  {
     "id": "Watercolor-Biker-Portrait-png",
     "filename": "Biker Portrait.png",
     "theme": "Watercolor",
@@ -999,15 +945,6 @@
     "sold": 0
   },
   {
-    "id": "Watercolor-roaring-bear-jpg",
-    "filename": "roaring_bear.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/roaring_bear.jpg",
-    "title": "roaring bear",
-    "date": "2026-01-28",
-    "sold": 0
-  },
-  {
     "id": "BW-cypress-trees-sketch-jpg",
     "filename": "cypress_trees_sketch.jpg",
     "theme": "BW",
@@ -1062,29 +999,11 @@
     "sold": 0
   },
   {
-    "id": "Portrait-smiling-portrait-jpg",
-    "filename": "smiling_portrait.jpg",
-    "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/smiling_portrait.jpg",
-    "title": "smiling portrait",
-    "date": "2025-10-26",
-    "sold": 0
-  },
-  {
     "id": "Watercolor-orange-flower-sketch-jpg",
     "filename": "orange_flower_sketch.jpg",
     "theme": "Watercolor",
     "path": "./assets/paintings/Watercolor/orange_flower_sketch.jpg",
     "title": "orange flower sketch",
-    "date": "2025-10-26",
-    "sold": 0
-  },
-  {
-    "id": "Watercolor-balcony-view-sketch-jpg",
-    "filename": "balcony_view_sketch.jpg",
-    "theme": "Watercolor",
-    "path": "./assets/paintings/Watercolor/balcony_view_sketch.jpg",
-    "title": "balcony view sketch",
     "date": "2025-10-26",
     "sold": 0
   },
