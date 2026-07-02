@@ -1026,6 +1026,15 @@
     "sold": 0
   },
   {
+    "id": "Ai-THE-Q-gif",
+    "filename": "THE_Q.gif",
+    "theme": "Ai",
+    "path": "./assets/paintings/Ai/THE_Q.gif",
+    "title": "THE Q",
+    "date": "1970-01-01",
+    "sold": 0
+  },
+  {
     "id": "Ai-SWIMSUIT-gif",
     "filename": "SWIMSUIT.gif",
     "theme": "Ai",
@@ -1049,6 +1058,15 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/SUN%D7%A9%D7%9E%D7%92TURTLE.gif",
     "title": "SUNשמגTURTLE",
+    "date": "1970-01-01",
+    "sold": 0
+  },
+  {
+    "id": "Ai-SUN-TURTLE-gif",
+    "filename": "SUN_TURTLE.gif",
+    "theme": "Ai",
+    "path": "./assets/paintings/Ai/SUN_TURTLE.gif",
+    "title": "SUN TURTLE",
     "date": "1970-01-01",
     "sold": 0
   },
@@ -1098,6 +1116,24 @@
     "sold": 0
   },
   {
+    "id": "Ai-GARDEN-gif",
+    "filename": "GARDEN.gif",
+    "theme": "Ai",
+    "path": "./assets/paintings/Ai/GARDEN.gif",
+    "title": "GARDEN",
+    "date": "1970-01-01",
+    "sold": 0
+  },
+  {
+    "id": "Ai-FISH-BIRD-gif",
+    "filename": "FISH_BIRD.gif",
+    "theme": "Ai",
+    "path": "./assets/paintings/Ai/FISH_BIRD.gif",
+    "title": "FISH BIRD",
+    "date": "1970-01-01",
+    "sold": 0
+  },
+  {
     "id": "Ai-DRAGON-gif",
     "filename": "DRAGON.gif",
     "theme": "Ai",
@@ -1116,6 +1152,15 @@
     "sold": 0
   },
   {
+    "id": "Ai-DOG-TAIL-gif",
+    "filename": "DOG_TAIL.gif",
+    "theme": "Ai",
+    "path": "./assets/paintings/Ai/DOG_TAIL.gif",
+    "title": "DOG TAIL",
+    "date": "1970-01-01",
+    "sold": 0
+  },
+  {
     "id": "Ai-DAGBIRD-gif",
     "filename": "DAGBIRD.gif",
     "theme": "Ai",
@@ -1130,6 +1175,15 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/2DPORTRAIT.gif",
     "title": "2DPORTRAIT",
+    "date": "1970-01-01",
+    "sold": 0
+  },
+  {
+    "id": "Ai-2D-PORTRAIT-gif",
+    "filename": "2D_PORTRAIT.gif",
+    "theme": "Ai",
+    "path": "./assets/paintings/Ai/2D_PORTRAIT.gif",
+    "title": "2D PORTRAIT",
     "date": "1970-01-01",
     "sold": 0
   }
