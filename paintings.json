@@ -1,5 +1,77 @@
 [
   {
+    "id": "Watercolor-yellow-flowers-sky-jpg",
+    "filename": "yellow_flowers_sky.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/yellow_flowers_sky.jpg",
+    "title": "yellow flowers sky",
+    "date": "2026-07-02",
+    "sold": 0
+  },
+  {
+    "id": "Watercolor-Swan-Doll-jpeg",
+    "filename": "Swan_Doll.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Swan_Doll.jpeg",
+    "title": "Swan Doll",
+    "date": "2026-07-02",
+    "sold": 0
+  },
+  {
+    "id": "Watercolor-Sunflower-with-Leaves-jpeg",
+    "filename": "Sunflower with Leaves.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Sunflower%20with%20Leaves.jpeg",
+    "title": "Sunflower with Leaves",
+    "date": "2026-07-02",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-older-woman-sketch-jpg",
+    "filename": "older_woman_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/older_woman_sketch.jpg",
+    "title": "older woman sketch",
+    "date": "2026-07-02",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-Old-Man-Sketchbook-jpg",
+    "filename": "Old Man Sketchbook.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/Old%20Man%20Sketchbook.jpg",
+    "title": "Old Man Sketchbook",
+    "date": "2026-07-02",
+    "sold": 0
+  },
+  {
+    "id": "Watercolor-Forest-Trees-with-Foliage-jpeg",
+    "filename": "Forest Trees with Foliage.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Forest%20Trees%20with%20Foliage.jpeg",
+    "title": "Forest Trees with Foliage",
+    "date": "2026-07-02",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-fashion-sketch-jpg",
+    "filename": "fashion_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/fashion_sketch.jpg",
+    "title": "fashion sketch",
+    "date": "2026-07-02",
+    "sold": 0
+  },
+  {
+    "id": "Watercolor-Biker-Portrait-png",
+    "filename": "Biker Portrait.png",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/Biker%20Portrait.png",
+    "title": "Biker Portrait",
+    "date": "2026-07-02",
+    "sold": 0
+  },
+  {
     "id": "Portrait-Pipe-portrait-jpg",
     "filename": "Pipe_portrait.jpg",
     "theme": "Portrait",
@@ -522,11 +594,11 @@
     "sold": 0
   },
   {
-    "id": "Portrait-man-glasses-sketch-jpeg",
-    "filename": "man_glasses_sketch.jpeg",
+    "id": "Portrait-man-glasses-sketch-1782929758573-jpeg",
+    "filename": "man_glasses_sketch_1782929758573.jpeg",
     "theme": "Portrait",
-    "path": "./assets/paintings/Portrait/man_glasses_sketch.jpeg",
-    "title": "man glasses sketch",
+    "path": "./assets/paintings/Portrait/man_glasses_sketch_1782929758573.jpeg",
+    "title": "man glasses sketch 1782929758573",
     "date": "2026-05-01",
     "sold": 0
   },
@@ -927,6 +999,15 @@
     "sold": 0
   },
   {
+    "id": "Watercolor-roaring-bear-jpg",
+    "filename": "roaring_bear.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/roaring_bear.jpg",
+    "title": "roaring bear",
+    "date": "2026-01-28",
+    "sold": 0
+  },
+  {
     "id": "BW-cypress-trees-sketch-jpg",
     "filename": "cypress_trees_sketch.jpg",
     "theme": "BW",
@@ -942,6 +1023,24 @@
     "path": "./assets/paintings/BW/red_goat_sketch.jpg",
     "title": "red goat sketch",
     "date": "2025-12-11",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-orange-figures-sketch-jpg",
+    "filename": "orange_figures_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/orange_figures_sketch.jpg",
+    "title": "orange figures sketch",
+    "date": "2025-12-07",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-man-writing-sketch-jpg",
+    "filename": "man_writing_sketch.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/man_writing_sketch.jpg",
+    "title": "man writing sketch",
+    "date": "2025-11-26",
     "sold": 0
   },
   {
@@ -963,6 +1062,15 @@
     "sold": 0
   },
   {
+    "id": "Portrait-smiling-portrait-jpg",
+    "filename": "smiling_portrait.jpg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/smiling_portrait.jpg",
+    "title": "smiling portrait",
+    "date": "2025-10-26",
+    "sold": 0
+  },
+  {
     "id": "Watercolor-orange-flower-sketch-jpg",
     "filename": "orange_flower_sketch.jpg",
     "theme": "Watercolor",
@@ -972,13 +1080,22 @@
     "sold": 0
   },
   {
-    "id": "BW-hay-bales-sketch-SOLD-JPG",
-    "filename": "hay_bales_sketch_SOLD.JPG",
+    "id": "Watercolor-balcony-view-sketch-jpg",
+    "filename": "balcony_view_sketch.jpg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/balcony_view_sketch.jpg",
+    "title": "balcony view sketch",
+    "date": "2025-10-26",
+    "sold": 0
+  },
+  {
+    "id": "BW-hay-bales-sketch-JPG",
+    "filename": "hay_bales_sketch.JPG",
     "theme": "BW",
-    "path": "./assets/paintings/BW/hay_bales_sketch_SOLD.JPG",
+    "path": "./assets/paintings/BW/hay_bales_sketch.JPG",
     "title": "hay bales sketch",
     "date": "2024-06-02",
-    "sold": 1
+    "sold": 0
   },
   {
     "id": "BW-cattails-sketch-jpeg",
@@ -990,128 +1107,128 @@
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-bf4ba90f-8b10-4fdc-af51-da1bdc01febb-gif",
-    "filename": "grok_video_bf4ba90f_8b10_4fdc_af51_da1bdc01febb.gif",
+    "id": "Ai-grok-video-bf4ba90f-8b10-4fdc-af51-da1bdc01febb-1--gif",
+    "filename": "grok_video_bf4ba90f_8b10_4fdc_af51_da1bdc01febb(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_bf4ba90f_8b10_4fdc_af51_da1bdc01febb.gif",
-    "title": "grok video bf4ba90f 8b10 4fdc af51 da1bdc01febb",
+    "path": "./assets/paintings/Ai/grok_video_bf4ba90f_8b10_4fdc_af51_da1bdc01febb%281%29.gif",
+    "title": "grok video bf4ba90f 8b10 4fdc af51 da1bdc01febb(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-ab536cfb-174b-4a80-8205-733a1c0f482f-5--1-gif",
-    "filename": "grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1.gif",
+    "id": "Ai-grok-video-ab536cfb-174b-4a80-8205-733a1c0f482f-5--1-1--gif",
+    "filename": "grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1.gif",
-    "title": "grok video ab536cfb 174b 4a80 8205 733a1c0f482f 5  1",
+    "path": "./assets/paintings/Ai/grok_video_ab536cfb_174b_4a80_8205_733a1c0f482f_5__1%281%29.gif",
+    "title": "grok video ab536cfb 174b 4a80 8205 733a1c0f482f 5  1(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-a0c0cb12-fd9a-4771-a63a-9-gif",
-    "filename": "grok_video_a0c0cb12_fd9a_4771_a63a_9.gif",
+    "id": "Ai-grok-video-a0c0cb12-fd9a-4771-a63a-9-1--gif",
+    "filename": "grok_video_a0c0cb12_fd9a_4771_a63a_9(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_a0c0cb12_fd9a_4771_a63a_9.gif",
-    "title": "grok video a0c0cb12 fd9a 4771 a63a 9",
+    "path": "./assets/paintings/Ai/grok_video_a0c0cb12_fd9a_4771_a63a_9%281%29.gif",
+    "title": "grok video a0c0cb12 fd9a 4771 a63a 9(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-8651208d-0dec-4226-9a9f-c36342389980-gif",
-    "filename": "grok_video_8651208d_0dec_4226_9a9f_c36342389980.gif",
+    "id": "Ai-grok-video-8651208d-0dec-4226-9a9f-c36342389980-1--gif",
+    "filename": "grok_video_8651208d_0dec_4226_9a9f_c36342389980(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_8651208d_0dec_4226_9a9f_c36342389980.gif",
-    "title": "grok video 8651208d 0dec 4226 9a9f c36342389980",
+    "path": "./assets/paintings/Ai/grok_video_8651208d_0dec_4226_9a9f_c36342389980%281%29.gif",
+    "title": "grok video 8651208d 0dec 4226 9a9f c36342389980(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-756d197a-6827-4d08-92e6-f62e993b23c9-2--gif",
-    "filename": "grok_video_756d197a_6827_4d08_92e6_f62e993b23c9(2).gif",
+    "id": "Ai-grok-video-756d197a-6827-4d08-92e6-f62e993b23c9-gif",
+    "filename": "grok_video_756d197a_6827_4d08_92e6_f62e993b23c9.gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_756d197a_6827_4d08_92e6_f62e993b23c9%282%29.gif",
-    "title": "grok video 756d197a 6827 4d08 92e6 f62e993b23c9(2)",
+    "path": "./assets/paintings/Ai/grok_video_756d197a_6827_4d08_92e6_f62e993b23c9.gif",
+    "title": "grok video 756d197a 6827 4d08 92e6 f62e993b23c9",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-62d0828e-2d63-4982-a8d7-f9d502c0d011-gif",
-    "filename": "grok_video_62d0828e_2d63_4982_a8d7_f9d502c0d011.gif",
+    "id": "Ai-grok-video-62d0828e-2d63-4982-a8d7-f9d502c0d011-1--gif",
+    "filename": "grok_video_62d0828e_2d63_4982_a8d7_f9d502c0d011(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_62d0828e_2d63_4982_a8d7_f9d502c0d011.gif",
-    "title": "grok video 62d0828e 2d63 4982 a8d7 f9d502c0d011",
+    "path": "./assets/paintings/Ai/grok_video_62d0828e_2d63_4982_a8d7_f9d502c0d011%281%29.gif",
+    "title": "grok video 62d0828e 2d63 4982 a8d7 f9d502c0d011(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-4f2f13d8-eed5-42c4-b85a-d520305c6fdb-gif",
-    "filename": "grok_video_4f2f13d8_eed5_42c4_b85a_d520305c6fdb.gif",
+    "id": "Ai-grok-video-4f2f13d8-eed5-42c4-b85a-d520305c6fdb-1--gif",
+    "filename": "grok_video_4f2f13d8_eed5_42c4_b85a_d520305c6fdb(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_4f2f13d8_eed5_42c4_b85a_d520305c6fdb.gif",
-    "title": "grok video 4f2f13d8 eed5 42c4 b85a d520305c6fdb",
+    "path": "./assets/paintings/Ai/grok_video_4f2f13d8_eed5_42c4_b85a_d520305c6fdb%281%29.gif",
+    "title": "grok video 4f2f13d8 eed5 42c4 b85a d520305c6fdb(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-3e015e45-55c4-4c4b-b9f5-e913f9b10552-gif",
-    "filename": "grok_video_3e015e45_55c4_4c4b_b9f5_e913f9b10552.gif",
+    "id": "Ai-grok-video-3e015e45-55c4-4c4b-b9f5-e913f9b10552-1--gif",
+    "filename": "grok_video_3e015e45_55c4_4c4b_b9f5_e913f9b10552(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_3e015e45_55c4_4c4b_b9f5_e913f9b10552.gif",
-    "title": "grok video 3e015e45 55c4 4c4b b9f5 e913f9b10552",
+    "path": "./assets/paintings/Ai/grok_video_3e015e45_55c4_4c4b_b9f5_e913f9b10552%281%29.gif",
+    "title": "grok video 3e015e45 55c4 4c4b b9f5 e913f9b10552(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-36ca1e22-2db7-4cbd-aa4a-e0694c418a95-gif",
-    "filename": "grok_video_36ca1e22_2db7_4cbd_aa4a_e0694c418a95.gif",
+    "id": "Ai-grok-video-36ca1e22-2db7-4cbd-aa4a-e0694c418a95-1--gif",
+    "filename": "grok_video_36ca1e22_2db7_4cbd_aa4a_e0694c418a95(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_36ca1e22_2db7_4cbd_aa4a_e0694c418a95.gif",
-    "title": "grok video 36ca1e22 2db7 4cbd aa4a e0694c418a95",
+    "path": "./assets/paintings/Ai/grok_video_36ca1e22_2db7_4cbd_aa4a_e0694c418a95%281%29.gif",
+    "title": "grok video 36ca1e22 2db7 4cbd aa4a e0694c418a95(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-30a92a00-4e25-46ea-a4de-613b06220db5-2--gif",
-    "filename": "grok_video_30a92a00_4e25_46ea_a4de_613b06220db5(2).gif",
+    "id": "Ai-grok-video-30a92a00-4e25-46ea-a4de-613b06220db5-gif",
+    "filename": "grok_video_30a92a00_4e25_46ea_a4de_613b06220db5.gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_30a92a00_4e25_46ea_a4de_613b06220db5%282%29.gif",
-    "title": "grok video 30a92a00 4e25 46ea a4de 613b06220db5(2)",
+    "path": "./assets/paintings/Ai/grok_video_30a92a00_4e25_46ea_a4de_613b06220db5.gif",
+    "title": "grok video 30a92a00 4e25 46ea a4de 613b06220db5",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-12a2a2a0-6c0b-4cff-a995-f273c5474345-gif",
-    "filename": "grok_video_12a2a2a0_6c0b_4cff_a995_f273c5474345.gif",
+    "id": "Ai-grok-video-12a2a2a0-6c0b-4cff-a995-f273c5474345-1--gif",
+    "filename": "grok_video_12a2a2a0_6c0b_4cff_a995_f273c5474345(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_12a2a2a0_6c0b_4cff_a995_f273c5474345.gif",
-    "title": "grok video 12a2a2a0 6c0b 4cff a995 f273c5474345",
+    "path": "./assets/paintings/Ai/grok_video_12a2a2a0_6c0b_4cff_a995_f273c5474345%281%29.gif",
+    "title": "grok video 12a2a2a0 6c0b 4cff a995 f273c5474345(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-12407cd8-51d0-4d99-8693-bec03907f808-gif",
-    "filename": "grok_video_12407cd8_51d0_4d99_8693_bec03907f808.gif",
+    "id": "Ai-grok-video-12407cd8-51d0-4d99-8693-bec03907f808-1--gif",
+    "filename": "grok_video_12407cd8_51d0_4d99_8693_bec03907f808(1).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_12407cd8_51d0_4d99_8693_bec03907f808.gif",
-    "title": "grok video 12407cd8 51d0 4d99 8693 bec03907f808",
+    "path": "./assets/paintings/Ai/grok_video_12407cd8_51d0_4d99_8693_bec03907f808%281%29.gif",
+    "title": "grok video 12407cd8 51d0 4d99 8693 bec03907f808(1)",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-0ae03994-7c28-462d-8eea-d63881f7d789-1-2--gif",
-    "filename": "grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1(2).gif",
+    "id": "Ai-grok-video-0ae03994-7c28-462d-8eea-d63881f7d789-1-gif",
+    "filename": "grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1.gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1%282%29.gif",
-    "title": "grok video 0ae03994 7c28 462d 8eea d63881f7d789 1(2)",
+    "path": "./assets/paintings/Ai/grok_video_0ae03994_7c28_462d_8eea_d63881f7d789_1.gif",
+    "title": "grok video 0ae03994 7c28 462d 8eea d63881f7d789 1",
     "date": "1970-01-01",
     "sold": 0
   },
   {
-    "id": "Ai-grok-video-02ccebb2-bb1f-4500-8c81-d1ee9e4bfd58-gif",
-    "filename": "grok_video_02ccebb2_bb1f_4500_8c81_d1ee9e4bfd58.gif",
+    "id": "Ai-grok-video-02ccebb2-bb1f-4500-8c81-d1ee9e4bfd58-2--gif",
+    "filename": "grok_video_02ccebb2_bb1f_4500_8c81_d1ee9e4bfd58(2).gif",
     "theme": "Ai",
-    "path": "./assets/paintings/Ai/grok_video_02ccebb2_bb1f_4500_8c81_d1ee9e4bfd58.gif",
-    "title": "grok video 02ccebb2 bb1f 4500 8c81 d1ee9e4bfd58",
+    "path": "./assets/paintings/Ai/grok_video_02ccebb2_bb1f_4500_8c81_d1ee9e4bfd58%282%29.gif",
+    "title": "grok video 02ccebb2 bb1f 4500 8c81 d1ee9e4bfd58(2)",
     "date": "1970-01-01",
     "sold": 0
   }
