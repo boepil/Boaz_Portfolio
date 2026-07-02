@@ -29,8 +29,9 @@ async function processAssets() {
             let metadataTitle = null;
 
             try {
-                // Attempt to read EXIF date and title
-                const metadata = await exifr.parse(filePath, {
+                // Skip exifr for GIFs to prevent memory exhaustion (OOM) during build
+                const isGif = file.toLowerCase().endsWith('.gif');
+                const metadata = isGif ? null : await exifr.parse(filePath, {
                     ifd0: true,
                     exif: true,
                     gps: false,
