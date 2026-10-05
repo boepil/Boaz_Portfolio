@@ -1,5 +1,41 @@
 [
   {
+    "id": "Watercolor-with-unJin-jpeg",
+    "filename": "with unJin.jpeg",
+    "theme": "Watercolor",
+    "path": "./assets/paintings/Watercolor/with%20unJin.jpeg",
+    "title": "with unJin",
+    "date": "2026-10-05",
+    "sold": 0
+  },
+  {
+    "id": "BW-WhatsApp-Image-2026-08-17-at-15-07-12-jpeg",
+    "filename": "WhatsApp Image 2026-08-17 at 15.07.12.jpeg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/WhatsApp%20Image%202026-08-17%20at%2015.07.12.jpeg",
+    "title": "WhatsApp Image 2026 08 17 at 15.07.12",
+    "date": "2026-10-05",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-iTamar-jpeg",
+    "filename": "iTamar.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/iTamar.jpeg",
+    "title": "iTamar",
+    "date": "2026-10-05",
+    "sold": 0
+  },
+  {
+    "id": "Portrait-fero-jpeg",
+    "filename": "fero.jpeg",
+    "theme": "Portrait",
+    "path": "./assets/paintings/Portrait/fero.jpeg",
+    "title": "fero",
+    "date": "2026-10-05",
+    "sold": 0
+  },
+  {
     "id": "Watercolor-goldfish-chickens-jpg",
     "filename": "goldfish_chickens.jpg",
     "theme": "Watercolor",
