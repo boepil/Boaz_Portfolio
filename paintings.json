@@ -9,15 +9,6 @@
     "sold": 0
   },
   {
-    "id": "BW-WhatsApp-Image-2026-08-17-at-15-07-12-jpeg",
-    "filename": "WhatsApp Image 2026-08-17 at 15.07.12.jpeg",
-    "theme": "BW",
-    "path": "./assets/paintings/BW/WhatsApp%20Image%202026-08-17%20at%2015.07.12.jpeg",
-    "title": "WhatsApp Image 2026 08 17 at 15.07.12",
-    "date": "2026-10-05",
-    "sold": 0
-  },
-  {
     "id": "Portrait-iTamar-jpeg",
     "filename": "iTamar.jpeg",
     "theme": "Portrait",
@@ -32,6 +23,15 @@
     "theme": "Portrait",
     "path": "./assets/paintings/Portrait/fero.jpeg",
     "title": "fero",
+    "date": "2026-10-05",
+    "sold": 0
+  },
+  {
+    "id": "BW-bw-woodland-study-jpeg",
+    "filename": "bw_woodland_study.jpeg",
+    "theme": "BW",
+    "path": "./assets/paintings/BW/bw_woodland_study.jpeg",
+    "title": "bw woodland study",
     "date": "2026-10-05",
     "sold": 0
   },
@@ -1202,6 +1202,15 @@
     "theme": "Ai",
     "path": "./assets/paintings/Ai/PEARL.gif",
     "title": "PEARL",
+    "date": "1970-01-01",
+    "sold": 0
+  },
+  {
+    "id": "Ai-KingFish-gif",
+    "filename": "KingFish.gif",
+    "theme": "Ai",
+    "path": "./assets/paintings/Ai/KingFish.gif",
+    "title": "KingFish",
     "date": "1970-01-01",
     "sold": 0
   },
